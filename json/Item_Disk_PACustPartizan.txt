@@ -1,0 +1,16 @@
+[
+	{
+		"assign": "9532",
+		"jp_text": "ライジングフラッグ／Ｃ",
+		"tr_text": "",
+		"jp_explain": "PAカスタマイズで\n作成された改造用ディスク。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "9538",
+		"jp_text": "セイクリッドスキュア／Ｃ",
+		"tr_text": "",
+		"jp_explain": "PAカスタマイズで\n作成された改造用ディスク。",
+		"tr_explain": ""
+	}
+]

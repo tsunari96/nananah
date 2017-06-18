@@ -1,0 +1,42 @@
+[
+	{
+		"assign": "6501",
+		"jp_text": "炎のニャウ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6502",
+		"jp_text": "氷のニャウ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6503",
+		"jp_text": "雷のニャウ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6504",
+		"jp_text": "風のニャウ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6505",
+		"jp_text": "光のニャウ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6506",
+		"jp_text": "闇のニャウ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6507",
+		"jp_text": "金のリリーパ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6508",
+		"jp_text": "銀のリリーパ",
+		"tr_text": ""
+	}
+]

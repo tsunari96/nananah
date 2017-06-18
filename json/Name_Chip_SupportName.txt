@@ -1,0 +1,4082 @@
+[
+	{
+		"assign": "710",
+		"jp_text": "キュアスポット",
+		"tr_text": ""
+	},
+	{
+		"assign": "720",
+		"jp_text": "ヒーリングスポット",
+		"tr_text": ""
+	},
+	{
+		"assign": "810",
+		"jp_text": "コンセントレイト",
+		"tr_text": ""
+	},
+	{
+		"assign": "820",
+		"jp_text": "コンセントレイト＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "1010",
+		"jp_text": "ペインヒット",
+		"tr_text": ""
+	},
+	{
+		"assign": "1020",
+		"jp_text": "ペインヒット＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "1210",
+		"jp_text": "事象の変動",
+		"tr_text": ""
+	},
+	{
+		"assign": "1220",
+		"jp_text": "事象の改変",
+		"tr_text": ""
+	},
+	{
+		"assign": "1410",
+		"jp_text": "アイアンウィル",
+		"tr_text": ""
+	},
+	{
+		"assign": "1420",
+		"jp_text": "スティールウィル",
+		"tr_text": ""
+	},
+	{
+		"assign": "1630",
+		"jp_text": "負滅の撃鉄",
+		"tr_text": ""
+	},
+	{
+		"assign": "1640",
+		"jp_text": "負滅の撃鉄＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "1650",
+		"jp_text": "機滅の陣",
+		"tr_text": ""
+	},
+	{
+		"assign": "1660",
+		"jp_text": "機滅の陣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "1670",
+		"jp_text": "龍滅の響き",
+		"tr_text": ""
+	},
+	{
+		"assign": "1680",
+		"jp_text": "龍滅の響き＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "11010",
+		"jp_text": "原滅の意志",
+		"tr_text": ""
+	},
+	{
+		"assign": "11020",
+		"jp_text": "原滅の意志＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30009",
+		"jp_text": "ブーステッドチェイサー",
+		"tr_text": ""
+	},
+	{
+		"assign": "30010",
+		"jp_text": "ブーステッドチェイサー＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30011",
+		"jp_text": "知識への渇望",
+		"tr_text": ""
+	},
+	{
+		"assign": "30012",
+		"jp_text": "真理への盲執",
+		"tr_text": ""
+	},
+	{
+		"assign": "30019",
+		"jp_text": "セイクリッドダンス",
+		"tr_text": ""
+	},
+	{
+		"assign": "30020",
+		"jp_text": "セイクリッドダンス＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30021",
+		"jp_text": "破魔の一振り",
+		"tr_text": ""
+	},
+	{
+		"assign": "30022",
+		"jp_text": "破魔の一振り＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30023",
+		"jp_text": "輝く光の絆",
+		"tr_text": ""
+	},
+	{
+		"assign": "30024",
+		"jp_text": "輝く光の絆＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30025",
+		"jp_text": "熱き炎の絆",
+		"tr_text": ""
+	},
+	{
+		"assign": "30026",
+		"jp_text": "熱き炎の絆＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30035",
+		"jp_text": "カオシックブレイク",
+		"tr_text": ""
+	},
+	{
+		"assign": "30036",
+		"jp_text": "カオシックブレイク＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30037",
+		"jp_text": "エレメンタルウェイク",
+		"tr_text": ""
+	},
+	{
+		"assign": "30038",
+		"jp_text": "エレメンタルウェイク＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30039",
+		"jp_text": "奇跡の歌声",
+		"tr_text": ""
+	},
+	{
+		"assign": "30040",
+		"jp_text": "奇跡の歌声＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30041",
+		"jp_text": "ポテンシャルバースト・風法術",
+		"tr_text": ""
+	},
+	{
+		"assign": "30042",
+		"jp_text": "ポテンシャルバースト・風法術＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30045",
+		"jp_text": "ポテンシャルバースト・大剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "30046",
+		"jp_text": "ポテンシャルバースト・大剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30049",
+		"jp_text": "神子の加護",
+		"tr_text": ""
+	},
+	{
+		"assign": "30050",
+		"jp_text": "神子の加護＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30051",
+		"jp_text": "奮励の献身",
+		"tr_text": ""
+	},
+	{
+		"assign": "30052",
+		"jp_text": "奮励の献身＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30055",
+		"jp_text": "ドリームブレイド",
+		"tr_text": ""
+	},
+	{
+		"assign": "30056",
+		"jp_text": "ドリームブレイド＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30057",
+		"jp_text": "ツインスティック",
+		"tr_text": ""
+	},
+	{
+		"assign": "30058",
+		"jp_text": "ツインスティック＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30059",
+		"jp_text": "ゴールドナンバー",
+		"tr_text": ""
+	},
+	{
+		"assign": "30060",
+		"jp_text": "ゴールドナンバー＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30061",
+		"jp_text": "ポイズンブレイド",
+		"tr_text": ""
+	},
+	{
+		"assign": "30062",
+		"jp_text": "ポイズンブレイド＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30063",
+		"jp_text": "ミラージュショット",
+		"tr_text": ""
+	},
+	{
+		"assign": "30064",
+		"jp_text": "ミラージュショット＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30065",
+		"jp_text": "チップコンバージョン",
+		"tr_text": ""
+	},
+	{
+		"assign": "30066",
+		"jp_text": "チップコンバージョン＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30069",
+		"jp_text": "アニバーサリーチア",
+		"tr_text": ""
+	},
+	{
+		"assign": "30070",
+		"jp_text": "アニバーサリーチア＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30073",
+		"jp_text": "アークスを繋ぐ絆",
+		"tr_text": ""
+	},
+	{
+		"assign": "30074",
+		"jp_text": "アークスを繋ぐ絆＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30075",
+		"jp_text": "ディメンションブレイズ",
+		"tr_text": ""
+	},
+	{
+		"assign": "30076",
+		"jp_text": "ディメンションブレイズ＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30077",
+		"jp_text": "凍てつく氷の絆",
+		"tr_text": ""
+	},
+	{
+		"assign": "30078",
+		"jp_text": "凍てつく氷の絆＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30079",
+		"jp_text": "昏き闇の絆",
+		"tr_text": ""
+	},
+	{
+		"assign": "30080",
+		"jp_text": "昏き闇の絆＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30087",
+		"jp_text": "インフィニティブラスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "30088",
+		"jp_text": "インフィニティブラスト＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30091",
+		"jp_text": "灰の一扇",
+		"tr_text": ""
+	},
+	{
+		"assign": "30092",
+		"jp_text": "灰の一扇＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30093",
+		"jp_text": "狂気の昇華",
+		"tr_text": ""
+	},
+	{
+		"assign": "30094",
+		"jp_text": "狂気の昇華＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30095",
+		"jp_text": "超越の英気・大剣／抜剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "30096",
+		"jp_text": "超越の英気・大剣／抜剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30097",
+		"jp_text": "超越の英気・長槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "30098",
+		"jp_text": "超越の英気・長槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "30099",
+		"jp_text": "超越の英気・導具",
+		"tr_text": ""
+	},
+	{
+		"assign": "30100",
+		"jp_text": "超越の英気・導具＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31001",
+		"jp_text": "超越の英気・長杖",
+		"tr_text": ""
+	},
+	{
+		"assign": "31002",
+		"jp_text": "超越の英気・長杖＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31003",
+		"jp_text": "超越の英気・鋼拳／自在槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "31004",
+		"jp_text": "超越の英気・鋼拳／自在槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31005",
+		"jp_text": "超越の英気・銃剣／長銃",
+		"tr_text": ""
+	},
+	{
+		"assign": "31006",
+		"jp_text": "超越の英気・銃剣／長銃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31007",
+		"jp_text": "パワーオブリンク",
+		"tr_text": ""
+	},
+	{
+		"assign": "31008",
+		"jp_text": "パワーオブリンク＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31013",
+		"jp_text": "ダーカー・ディストラクション",
+		"tr_text": ""
+	},
+	{
+		"assign": "31014",
+		"jp_text": "ダーカー・ディストラクション＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31015",
+		"jp_text": "竜の闘牙",
+		"tr_text": ""
+	},
+	{
+		"assign": "31016",
+		"jp_text": "竜の闘牙＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31017",
+		"jp_text": "神速の雷光",
+		"tr_text": ""
+	},
+	{
+		"assign": "31018",
+		"jp_text": "神速の雷光＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31019",
+		"jp_text": "巫女の歌声",
+		"tr_text": ""
+	},
+	{
+		"assign": "31020",
+		"jp_text": "巫女の歌声＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31021",
+		"jp_text": "ストリームヘイスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "31022",
+		"jp_text": "ストリームヘイスト＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31023",
+		"jp_text": "コード・アサルト",
+		"tr_text": ""
+	},
+	{
+		"assign": "31024",
+		"jp_text": "コード・アサルト＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31027",
+		"jp_text": "ポテンシャルバースト・魔装脚",
+		"tr_text": ""
+	},
+	{
+		"assign": "31028",
+		"jp_text": "ポテンシャルバースト・魔装脚＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31031",
+		"jp_text": "懸命の援護",
+		"tr_text": ""
+	},
+	{
+		"assign": "31032",
+		"jp_text": "懸命の援護＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31033",
+		"jp_text": "根性の狙撃",
+		"tr_text": ""
+	},
+	{
+		"assign": "31034",
+		"jp_text": "根性の狙撃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31035",
+		"jp_text": "サマーウィンド",
+		"tr_text": ""
+	},
+	{
+		"assign": "31036",
+		"jp_text": "サマーウィンド＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31037",
+		"jp_text": "シャイニーソング",
+		"tr_text": ""
+	},
+	{
+		"assign": "31038",
+		"jp_text": "シャイニーソング＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31039",
+		"jp_text": "封龍の緋珠",
+		"tr_text": ""
+	},
+	{
+		"assign": "31040",
+		"jp_text": "封龍の緋珠＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31041",
+		"jp_text": "風烈の快刀",
+		"tr_text": ""
+	},
+	{
+		"assign": "31042",
+		"jp_text": "風烈の快刀＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31043",
+		"jp_text": "開花する煌き",
+		"tr_text": ""
+	},
+	{
+		"assign": "31044",
+		"jp_text": "開花する煌き＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31053",
+		"jp_text": "炎烈の雅羽",
+		"tr_text": ""
+	},
+	{
+		"assign": "31054",
+		"jp_text": "炎烈の雅羽＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31055",
+		"jp_text": "氷烈の魔杖",
+		"tr_text": ""
+	},
+	{
+		"assign": "31056",
+		"jp_text": "氷烈の魔杖＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31057",
+		"jp_text": "裂光の尖爪",
+		"tr_text": ""
+	},
+	{
+		"assign": "31058",
+		"jp_text": "裂光の尖爪＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31059",
+		"jp_text": "閃火の旋律",
+		"tr_text": ""
+	},
+	{
+		"assign": "31060",
+		"jp_text": "閃火の旋律＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31065",
+		"jp_text": "ネプテューンブレイク",
+		"tr_text": ""
+	},
+	{
+		"assign": "31066",
+		"jp_text": "ネプテューンブレイク＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31069",
+		"jp_text": "必殺・烈破夢双絶掌",
+		"tr_text": ""
+	},
+	{
+		"assign": "31070",
+		"jp_text": "必殺・烈破夢双絶掌＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31073",
+		"jp_text": "信頼の記憶",
+		"tr_text": ""
+	},
+	{
+		"assign": "31074",
+		"jp_text": "心頼の軌跡",
+		"tr_text": ""
+	},
+	{
+		"assign": "31075",
+		"jp_text": "雷烈の刃脚",
+		"tr_text": ""
+	},
+	{
+		"assign": "31076",
+		"jp_text": "雷烈の刃脚＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31077",
+		"jp_text": "覚醒印・鋼拳／自在槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "31078",
+		"jp_text": "覚醒印・鋼拳／自在槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31079",
+		"jp_text": "極熱の弾丸",
+		"tr_text": ""
+	},
+	{
+		"assign": "31080",
+		"jp_text": "極熱の弾丸＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31081",
+		"jp_text": "兎角の福音",
+		"tr_text": ""
+	},
+	{
+		"assign": "31082",
+		"jp_text": "兎角の福音＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31083",
+		"jp_text": "邪吸双攻",
+		"tr_text": ""
+	},
+	{
+		"assign": "31084",
+		"jp_text": "邪吸双攻＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31089",
+		"jp_text": "天地断ち",
+		"tr_text": ""
+	},
+	{
+		"assign": "31090",
+		"jp_text": "天地断ち＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31091",
+		"jp_text": "乱れ散々桜 双",
+		"tr_text": ""
+	},
+	{
+		"assign": "31092",
+		"jp_text": "乱れ散々桜 双＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31095",
+		"jp_text": "ユグドラシルの風 ",
+		"tr_text": ""
+	},
+	{
+		"assign": "31096",
+		"jp_text": "ユグドラシルの風＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31101",
+		"jp_text": "洸閃牙",
+		"tr_text": ""
+	},
+	{
+		"assign": "31102",
+		"jp_text": "洸閃牙＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31103",
+		"jp_text": "エリアルハイド",
+		"tr_text": ""
+	},
+	{
+		"assign": "31104",
+		"jp_text": "エリアルハイド＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31105",
+		"jp_text": "煌めく飛翔",
+		"tr_text": ""
+	},
+	{
+		"assign": "31106",
+		"jp_text": "煌めく飛翔＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31107",
+		"jp_text": "紅炎の歌術",
+		"tr_text": ""
+	},
+	{
+		"assign": "31108",
+		"jp_text": "紅炎の歌術＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31109",
+		"jp_text": "氷下の潜力",
+		"tr_text": ""
+	},
+	{
+		"assign": "31110",
+		"jp_text": "氷下の潜力＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31111",
+		"jp_text": "究心の境地",
+		"tr_text": ""
+	},
+	{
+		"assign": "31112",
+		"jp_text": "究心の境地＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31113",
+		"jp_text": "水神の冥応",
+		"tr_text": ""
+	},
+	{
+		"assign": "31114",
+		"jp_text": "水神の冥応＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31115",
+		"jp_text": "運命の加護",
+		"tr_text": ""
+	},
+	{
+		"assign": "31116",
+		"jp_text": "運命の加護＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31117",
+		"jp_text": "雪下の贈り物",
+		"tr_text": ""
+	},
+	{
+		"assign": "31118",
+		"jp_text": "雪下の贈り物＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31121",
+		"jp_text": "モアのおうえん",
+		"tr_text": ""
+	},
+	{
+		"assign": "31122",
+		"jp_text": "モアのおうえん＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31123",
+		"jp_text": "挫けぬ心",
+		"tr_text": ""
+	},
+	{
+		"assign": "31124",
+		"jp_text": "挫けぬ心＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31125",
+		"jp_text": "覚醒印・長槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "31126",
+		"jp_text": "覚醒印・長槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31127",
+		"jp_text": "特光の相転移",
+		"tr_text": ""
+	},
+	{
+		"assign": "31128",
+		"jp_text": "特光の相転移＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31129",
+		"jp_text": "暗心剣舞",
+		"tr_text": ""
+	},
+	{
+		"assign": "31130",
+		"jp_text": "暗心剣舞＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31133",
+		"jp_text": "紫妖斬",
+		"tr_text": ""
+	},
+	{
+		"assign": "31134",
+		"jp_text": "紫妖斬＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31135",
+		"jp_text": "腕輪の力",
+		"tr_text": ""
+	},
+	{
+		"assign": "31136",
+		"jp_text": "腕輪の力＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31139",
+		"jp_text": "観察の応用",
+		"tr_text": ""
+	},
+	{
+		"assign": "31140",
+		"jp_text": "観察の応用＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31143",
+		"jp_text": "戦鬼",
+		"tr_text": ""
+	},
+	{
+		"assign": "31144",
+		"jp_text": "戦鬼＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31147",
+		"jp_text": "バーサクストーム",
+		"tr_text": ""
+	},
+	{
+		"assign": "31148",
+		"jp_text": "バーサクストーム＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31149",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "31150",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "31151",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "31152",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "31155",
+		"jp_text": "漆黒の烈弾",
+		"tr_text": ""
+	},
+	{
+		"assign": "31156",
+		"jp_text": "漆黒の烈弾＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31157",
+		"jp_text": "二枚刃の精撃",
+		"tr_text": ""
+	},
+	{
+		"assign": "31158",
+		"jp_text": "二枚刃の精撃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31159",
+		"jp_text": "陰の理",
+		"tr_text": ""
+	},
+	{
+		"assign": "31160",
+		"jp_text": "陰の理＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31161",
+		"jp_text": "ラブボルテージ",
+		"tr_text": ""
+	},
+	{
+		"assign": "31162",
+		"jp_text": "ラブボルテージ＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31165",
+		"jp_text": "スウィートペイン",
+		"tr_text": ""
+	},
+	{
+		"assign": "31166",
+		"jp_text": "スウィートペイン＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31167",
+		"jp_text": "デュアルインパクト",
+		"tr_text": ""
+	},
+	{
+		"assign": "31168",
+		"jp_text": "デュアルインパクト＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31169",
+		"jp_text": "チア・オペレーション",
+		"tr_text": ""
+	},
+	{
+		"assign": "31170",
+		"jp_text": "チア・オペレーション＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31173",
+		"jp_text": "爆裂イナヅマパンチ",
+		"tr_text": ""
+	},
+	{
+		"assign": "31174",
+		"jp_text": "爆裂イナヅマパンチ＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31177",
+		"jp_text": "冬枯れの太刀",
+		"tr_text": ""
+	},
+	{
+		"assign": "31178",
+		"jp_text": "冬枯れの太刀＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31179",
+		"jp_text": "クライマックスハート",
+		"tr_text": ""
+	},
+	{
+		"assign": "31180",
+		"jp_text": "クライマックスハート＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31181",
+		"jp_text": "光芒の刺突",
+		"tr_text": ""
+	},
+	{
+		"assign": "31182",
+		"jp_text": "光芒の刺突＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31183",
+		"jp_text": "導きの託宣",
+		"tr_text": ""
+	},
+	{
+		"assign": "31184",
+		"jp_text": "導きの託宣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31187",
+		"jp_text": "術援／氷弾風陣",
+		"tr_text": ""
+	},
+	{
+		"assign": "31188",
+		"jp_text": "術援／氷弾風陣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31191",
+		"jp_text": "術癒／流焔治光",
+		"tr_text": ""
+	},
+	{
+		"assign": "31192",
+		"jp_text": "術癒／流焔治光＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31193",
+		"jp_text": "術闇／術者封印",
+		"tr_text": ""
+	},
+	{
+		"assign": "31194",
+		"jp_text": "術闇／術者封印＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31195",
+		"jp_text": "心気に響く剣弾",
+		"tr_text": ""
+	},
+	{
+		"assign": "31196",
+		"jp_text": "心気に響く剣弾＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31199",
+		"jp_text": "影隠の技巧",
+		"tr_text": ""
+	},
+	{
+		"assign": "31200",
+		"jp_text": "影隠の技巧＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31205",
+		"jp_text": "セレブレーションショット",
+		"tr_text": ""
+	},
+	{
+		"assign": "31206",
+		"jp_text": "セレブレーションショット＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31207",
+		"jp_text": "再生への氷祈",
+		"tr_text": ""
+	},
+	{
+		"assign": "31208",
+		"jp_text": "再生への氷祈＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31209",
+		"jp_text": "機甲の究明",
+		"tr_text": ""
+	},
+	{
+		"assign": "31210",
+		"jp_text": "機甲の究明＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31213",
+		"jp_text": "野生の生存術",
+		"tr_text": ""
+	},
+	{
+		"assign": "31214",
+		"jp_text": "野生の生存術＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31217",
+		"jp_text": "煌めきの閃迅",
+		"tr_text": ""
+	},
+	{
+		"assign": "31218",
+		"jp_text": "煌めきの閃迅＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31219",
+		"jp_text": "落花流水の舞い",
+		"tr_text": ""
+	},
+	{
+		"assign": "31220",
+		"jp_text": "落花流水の舞い＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31221",
+		"jp_text": "雷輝結界",
+		"tr_text": ""
+	},
+	{
+		"assign": "31222",
+		"jp_text": "雷輝結界＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31223",
+		"jp_text": "スイーツバスケット",
+		"tr_text": ""
+	},
+	{
+		"assign": "31224",
+		"jp_text": "スイーツバスケット＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31225",
+		"jp_text": "近距離制圧銃撃術",
+		"tr_text": ""
+	},
+	{
+		"assign": "31226",
+		"jp_text": "近距離制圧銃撃術＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31229",
+		"jp_text": "剛勇不撓の闘気",
+		"tr_text": ""
+	},
+	{
+		"assign": "31230",
+		"jp_text": "剛勇不撓の闘気＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31231",
+		"jp_text": "ワンダーランド・レイン",
+		"tr_text": ""
+	},
+	{
+		"assign": "31232",
+		"jp_text": "ワンダーランド・レイン＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31233",
+		"jp_text": "浄化への炎祈",
+		"tr_text": ""
+	},
+	{
+		"assign": "31234",
+		"jp_text": "浄化への炎祈＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31235",
+		"jp_text": "多重次元共振剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "31236",
+		"jp_text": "多重次元共振剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31237",
+		"jp_text": "スチームアクセレレーション",
+		"tr_text": ""
+	},
+	{
+		"assign": "31238",
+		"jp_text": "スチームアクセレレーション＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31239",
+		"jp_text": "フレッシュスマイル",
+		"tr_text": ""
+	},
+	{
+		"assign": "31240",
+		"jp_text": "フレッシュスマイル＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31247",
+		"jp_text": "ブライトサマーデイ",
+		"tr_text": ""
+	},
+	{
+		"assign": "31248",
+		"jp_text": "ブライトサマーデイ＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31251",
+		"jp_text": "エレメンタルブースト",
+		"tr_text": ""
+	},
+	{
+		"assign": "31252",
+		"jp_text": "エレメンタルブースト＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31253",
+		"jp_text": "崩天滅地円舞",
+		"tr_text": ""
+	},
+	{
+		"assign": "31254",
+		"jp_text": "崩天滅地円舞＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31257",
+		"jp_text": "万象破断の連刃",
+		"tr_text": ""
+	},
+	{
+		"assign": "31258",
+		"jp_text": "万象破断の連刃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31261",
+		"jp_text": "ヴィランズ・アベニュー",
+		"tr_text": ""
+	},
+	{
+		"assign": "31262",
+		"jp_text": "ヴィランズ・アベニュー＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31263",
+		"jp_text": "破滅と絶望の双翼刃",
+		"tr_text": ""
+	},
+	{
+		"assign": "31264",
+		"jp_text": "破滅と絶望の双翼刃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31265",
+		"jp_text": "旋転せし猛風の追走",
+		"tr_text": ""
+	},
+	{
+		"assign": "31266",
+		"jp_text": "旋転せし猛風の追走＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31267",
+		"jp_text": "ラッピー・マーチ",
+		"tr_text": ""
+	},
+	{
+		"assign": "31268",
+		"jp_text": "ラッピー・マーチ＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31273",
+		"jp_text": "無限怒濤針",
+		"tr_text": ""
+	},
+	{
+		"assign": "31274",
+		"jp_text": "無限怒濤針＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31275",
+		"jp_text": "炎心粋華",
+		"tr_text": ""
+	},
+	{
+		"assign": "31276",
+		"jp_text": "炎心粋華＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31279",
+		"jp_text": "救済への風祈",
+		"tr_text": ""
+	},
+	{
+		"assign": "31280",
+		"jp_text": "救済への風祈＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31281",
+		"jp_text": "デッドリージョーク",
+		"tr_text": ""
+	},
+	{
+		"assign": "31282",
+		"jp_text": "デッドリージョーク＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31283",
+		"jp_text": "拡散爆炎榴弾",
+		"tr_text": ""
+	},
+	{
+		"assign": "31284",
+		"jp_text": "拡散爆炎榴弾＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31285",
+		"jp_text": "十重二十重茨ノ槍壁",
+		"tr_text": ""
+	},
+	{
+		"assign": "31286",
+		"jp_text": "十重二十重茨ノ槍壁＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31287",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "31288",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "31289",
+		"jp_text": "排除指令執行",
+		"tr_text": ""
+	},
+	{
+		"assign": "31290",
+		"jp_text": "排除指令執行＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31293",
+		"jp_text": "砲煙たなびく爆砕の奏で",
+		"tr_text": ""
+	},
+	{
+		"assign": "31294",
+		"jp_text": "砲煙たなびく爆砕の奏で＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31295",
+		"jp_text": "美女神の悪戯",
+		"tr_text": ""
+	},
+	{
+		"assign": "31296",
+		"jp_text": "美女神の悪戯＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31297",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "31298",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "31299",
+		"jp_text": "極限効率化討伐術",
+		"tr_text": ""
+	},
+	{
+		"assign": "31300",
+		"jp_text": "極限効率化討伐術＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31301",
+		"jp_text": "マスターオペレーション",
+		"tr_text": ""
+	},
+	{
+		"assign": "31302",
+		"jp_text": "マスターオペレーション＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31303",
+		"jp_text": "磨かれし観察眼",
+		"tr_text": ""
+	},
+	{
+		"assign": "31304",
+		"jp_text": "磨かれし観察眼＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31305",
+		"jp_text": "影より願いし払暁の光",
+		"tr_text": ""
+	},
+	{
+		"assign": "31306",
+		"jp_text": "影より願いし払暁の光＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31307",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "31308",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "31309",
+		"jp_text": "士魂の炎",
+		"tr_text": ""
+	},
+	{
+		"assign": "31310",
+		"jp_text": "士魂の炎＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31313",
+		"jp_text": "幻燈トリックランタン",
+		"tr_text": ""
+	},
+	{
+		"assign": "31314",
+		"jp_text": "幻燈トリックランタン＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31317",
+		"jp_text": "演武・流美奮迅",
+		"tr_text": ""
+	},
+	{
+		"assign": "31318",
+		"jp_text": "演武・流美奮迅＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31321",
+		"jp_text": "一気呵成の号砲",
+		"tr_text": ""
+	},
+	{
+		"assign": "31322",
+		"jp_text": "一気呵成の号砲＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31323",
+		"jp_text": "ボルカノバラージ",
+		"tr_text": ""
+	},
+	{
+		"assign": "31324",
+		"jp_text": "ボルカノバラージ＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31325",
+		"jp_text": "パーティーデコレーション",
+		"tr_text": ""
+	},
+	{
+		"assign": "31326",
+		"jp_text": "パーティーデコレーション＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31329",
+		"jp_text": "孤高の進軍",
+		"tr_text": ""
+	},
+	{
+		"assign": "31330",
+		"jp_text": "孤高の進軍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31331",
+		"jp_text": "ラッピー・マーチ",
+		"tr_text": ""
+	},
+	{
+		"assign": "31332",
+		"jp_text": "ラッピー・マーチ＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31333",
+		"jp_text": "六花の贈り物",
+		"tr_text": ""
+	},
+	{
+		"assign": "31334",
+		"jp_text": "六花の贈り物＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31337",
+		"jp_text": "武運長久の祈願",
+		"tr_text": ""
+	},
+	{
+		"assign": "31338",
+		"jp_text": "武運長久の祈願＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31341",
+		"jp_text": "崩天滅地狂迅撃",
+		"tr_text": ""
+	},
+	{
+		"assign": "31342",
+		"jp_text": "崩天滅地狂迅撃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31343",
+		"jp_text": "オレ様流バトルゲイン",
+		"tr_text": ""
+	},
+	{
+		"assign": "31344",
+		"jp_text": "オレ様流バトルゲイン＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31347",
+		"jp_text": "ブレイブヴィジョン",
+		"tr_text": ""
+	},
+	{
+		"assign": "31348",
+		"jp_text": "ブレイブヴィジョン＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31349",
+		"jp_text": "チェイスヒットゲイン",
+		"tr_text": ""
+	},
+	{
+		"assign": "31350",
+		"jp_text": "チェイスヒットゲイン＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31351",
+		"jp_text": "マルチプルスナイプ",
+		"tr_text": ""
+	},
+	{
+		"assign": "31352",
+		"jp_text": "マルチプルスナイプ＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31353",
+		"jp_text": "イノセント・メモリー",
+		"tr_text": ""
+	},
+	{
+		"assign": "31354",
+		"jp_text": "イノセント・メモリー＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31357",
+		"jp_text": "無垢なる超越の勇気",
+		"tr_text": ""
+	},
+	{
+		"assign": "31358",
+		"jp_text": "無垢なる超越の勇気＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31359",
+		"jp_text": "輝ける飛躍の意志",
+		"tr_text": ""
+	},
+	{
+		"assign": "31360",
+		"jp_text": "輝ける飛躍の意志＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31361",
+		"jp_text": "背水の奮戦",
+		"tr_text": ""
+	},
+	{
+		"assign": "31362",
+		"jp_text": "背水の奮戦＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31363",
+		"jp_text": "剛衝破天斬",
+		"tr_text": ""
+	},
+	{
+		"assign": "31364",
+		"jp_text": "剛衝破天斬＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31365",
+		"jp_text": "フォトン・リカバリー",
+		"tr_text": ""
+	},
+	{
+		"assign": "31366",
+		"jp_text": "フォトン・リカバリー＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31367",
+		"jp_text": "プレシャスプレゼント",
+		"tr_text": ""
+	},
+	{
+		"assign": "31368",
+		"jp_text": "プレシャスプレゼント＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31369",
+		"jp_text": "情熱灯す灼炎の剣舞",
+		"tr_text": ""
+	},
+	{
+		"assign": "31370",
+		"jp_text": "情熱灯す灼炎の剣舞＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31371",
+		"jp_text": "勇気と好奇の羽ばたき",
+		"tr_text": ""
+	},
+	{
+		"assign": "31372",
+		"jp_text": "勇気と好奇の羽ばたき＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31373",
+		"jp_text": "破陣の一喝",
+		"tr_text": ""
+	},
+	{
+		"assign": "31374",
+		"jp_text": "破陣の一喝＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31375",
+		"jp_text": "無垢無欠の氷刃",
+		"tr_text": ""
+	},
+	{
+		"assign": "31376",
+		"jp_text": "無垢無欠の氷刃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31377",
+		"jp_text": "心に抱きし陽光",
+		"tr_text": ""
+	},
+	{
+		"assign": "31378",
+		"jp_text": "心に抱きし陽光＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31381",
+		"jp_text": "星闇の欠片",
+		"tr_text": ""
+	},
+	{
+		"assign": "31382",
+		"jp_text": "星闇の欠片＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31383",
+		"jp_text": "ハートイグニッション",
+		"tr_text": ""
+	},
+	{
+		"assign": "31384",
+		"jp_text": "ハートイグニッション＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31385",
+		"jp_text": "メルティスイートギフト",
+		"tr_text": ""
+	},
+	{
+		"assign": "31386",
+		"jp_text": "メルティスイートギフト＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31387",
+		"jp_text": "ぼくらの妄想活劇",
+		"tr_text": ""
+	},
+	{
+		"assign": "31388",
+		"jp_text": "ぼくらの妄想活劇＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31391",
+		"jp_text": "力と代償の寓話",
+		"tr_text": ""
+	},
+	{
+		"assign": "31392",
+		"jp_text": "力と代償の寓話＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31393",
+		"jp_text": "淡く甘き想いのチョコ",
+		"tr_text": ""
+	},
+	{
+		"assign": "31394",
+		"jp_text": "淡く甘き想いのチョコ＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31395",
+		"jp_text": "千射天涙の弓術",
+		"tr_text": ""
+	},
+	{
+		"assign": "31396",
+		"jp_text": "千射天涙の弓術＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31397",
+		"jp_text": "疾風当千の刀術",
+		"tr_text": ""
+	},
+	{
+		"assign": "31398",
+		"jp_text": "疾風当千の刀術＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31399",
+		"jp_text": "破岩一掌",
+		"tr_text": ""
+	},
+	{
+		"assign": "31400",
+		"jp_text": "破岩一掌＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31401",
+		"jp_text": "バレットスイッチング",
+		"tr_text": ""
+	},
+	{
+		"assign": "31402",
+		"jp_text": "バレットスイッチング＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31403",
+		"jp_text": "果断なる突貫",
+		"tr_text": ""
+	},
+	{
+		"assign": "31404",
+		"jp_text": "果断なる突貫＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31407",
+		"jp_text": "波断ちの衝角",
+		"tr_text": ""
+	},
+	{
+		"assign": "31408",
+		"jp_text": "波断ちの衝角＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31411",
+		"jp_text": "ビルドアップキャノン",
+		"tr_text": ""
+	},
+	{
+		"assign": "31412",
+		"jp_text": "ビルドアップキャノン＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31413",
+		"jp_text": "光子限界収束",
+		"tr_text": ""
+	},
+	{
+		"assign": "31414",
+		"jp_text": "光子限界収束＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31415",
+		"jp_text": "ギリギリスイートビート",
+		"tr_text": ""
+	},
+	{
+		"assign": "31416",
+		"jp_text": "ギリギリスイートビート＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31421",
+		"jp_text": "魔弾・生気流転",
+		"tr_text": ""
+	},
+	{
+		"assign": "31422",
+		"jp_text": "魔弾・生気流転＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31423",
+		"jp_text": "風塵旋華",
+		"tr_text": ""
+	},
+	{
+		"assign": "31424",
+		"jp_text": "風塵旋華＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31429",
+		"jp_text": "絆の輝き",
+		"tr_text": ""
+	},
+	{
+		"assign": "31430",
+		"jp_text": "絆の輝き＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31431",
+		"jp_text": "鍛刀乱麻",
+		"tr_text": ""
+	},
+	{
+		"assign": "31432",
+		"jp_text": "鍛刀乱麻＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31433",
+		"jp_text": "イノセンス・スターライト",
+		"tr_text": ""
+	},
+	{
+		"assign": "31434",
+		"jp_text": "イノセンス・スターライト＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31435",
+		"jp_text": "スニーキング・サーチ",
+		"tr_text": ""
+	},
+	{
+		"assign": "31436",
+		"jp_text": "スニーキング・サーチ＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31439",
+		"jp_text": "パーフェクトコンビネーション",
+		"tr_text": ""
+	},
+	{
+		"assign": "31440",
+		"jp_text": "パーフェクトコンビネーション＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31441",
+		"jp_text": "レーザーライトバレット",
+		"tr_text": ""
+	},
+	{
+		"assign": "31442",
+		"jp_text": "レーザーライトバレット＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31445",
+		"jp_text": "ノーザン・ブリザード",
+		"tr_text": ""
+	},
+	{
+		"assign": "31446",
+		"jp_text": "ノーザン・ブリザード＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31447",
+		"jp_text": "貫撃煌光炎",
+		"tr_text": ""
+	},
+	{
+		"assign": "31448",
+		"jp_text": "貫撃煌光炎＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31449",
+		"jp_text": "メテオライトハンマー",
+		"tr_text": ""
+	},
+	{
+		"assign": "31450",
+		"jp_text": "メテオライトハンマー＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31451",
+		"jp_text": "ダークナイトストーム",
+		"tr_text": ""
+	},
+	{
+		"assign": "31452",
+		"jp_text": "ダークナイトストーム＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31455",
+		"jp_text": "天恵の小槌",
+		"tr_text": ""
+	},
+	{
+		"assign": "31456",
+		"jp_text": "天恵の小槌＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31459",
+		"jp_text": "雪嵐隠れの剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "31460",
+		"jp_text": "雪嵐隠れの剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31461",
+		"jp_text": "ディメンションフリーズ",
+		"tr_text": ""
+	},
+	{
+		"assign": "31462",
+		"jp_text": "ディメンションフリーズ＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31463",
+		"jp_text": "六世苦根毒",
+		"tr_text": ""
+	},
+	{
+		"assign": "31464",
+		"jp_text": "六世苦根毒＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31465",
+		"jp_text": "雲心の境地",
+		"tr_text": ""
+	},
+	{
+		"assign": "31466",
+		"jp_text": "雲心の境地＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31467",
+		"jp_text": "厳氷成層斬",
+		"tr_text": ""
+	},
+	{
+		"assign": "31468",
+		"jp_text": "厳氷成層斬＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31469",
+		"jp_text": "フェアリートリック",
+		"tr_text": ""
+	},
+	{
+		"assign": "31470",
+		"jp_text": "フェアリートリック＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31471",
+		"jp_text": "リング・オブ・フレンズ",
+		"tr_text": ""
+	},
+	{
+		"assign": "31472",
+		"jp_text": "リング・オブ・フレンズ＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31473",
+		"jp_text": "風術の極意",
+		"tr_text": ""
+	},
+	{
+		"assign": "31474",
+		"jp_text": "風術の極意＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31477",
+		"jp_text": "クリティカル・インフォメーション",
+		"tr_text": ""
+	},
+	{
+		"assign": "31478",
+		"jp_text": "クリティカル・インフォメーション＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31479",
+		"jp_text": "ライジング・サン",
+		"tr_text": ""
+	},
+	{
+		"assign": "31480",
+		"jp_text": "ライジング・サン＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31481",
+		"jp_text": "断罪の雷哭剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "31482",
+		"jp_text": "断罪の雷哭剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31487",
+		"jp_text": "アーマー・ピアシング",
+		"tr_text": ""
+	},
+	{
+		"assign": "31488",
+		"jp_text": "アーマー・ピアシング＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31489",
+		"jp_text": "迅光の粉砕撃",
+		"tr_text": ""
+	},
+	{
+		"assign": "31490",
+		"jp_text": "迅光の粉砕撃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31491",
+		"jp_text": "光の抱擁",
+		"tr_text": ""
+	},
+	{
+		"assign": "31492",
+		"jp_text": "光の抱擁＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31493",
+		"jp_text": "焼夷閃光掃滅",
+		"tr_text": ""
+	},
+	{
+		"assign": "31494",
+		"jp_text": "焼夷閃光掃滅＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31495",
+		"jp_text": "ミラージュ・オアシス",
+		"tr_text": ""
+	},
+	{
+		"assign": "31496",
+		"jp_text": "ミラージュ・オアシス＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31497",
+		"jp_text": "アンノウン・トリック",
+		"tr_text": ""
+	},
+	{
+		"assign": "31498",
+		"jp_text": "アンノウン・トリック＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31501",
+		"jp_text": "モノクローム・キャスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "31502",
+		"jp_text": "モノクローム・キャスト＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31503",
+		"jp_text": "貴石の奇跡",
+		"tr_text": ""
+	},
+	{
+		"assign": "31504",
+		"jp_text": "貴石の奇跡＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "31505",
+		"jp_text": "瞬殺の爪",
+		"tr_text": ""
+	},
+	{
+		"assign": "31506",
+		"jp_text": "瞬殺の爪＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "11030",
+		"jp_text": "エナジーチューニング",
+		"tr_text": ""
+	},
+	{
+		"assign": "11040",
+		"jp_text": "エナジーチューニング＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "2210",
+		"jp_text": "スタイリッシュカウンター",
+		"tr_text": ""
+	},
+	{
+		"assign": "2220",
+		"jp_text": "スタイリッシュカウンター＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "2310",
+		"jp_text": "スイートキュア",
+		"tr_text": ""
+	},
+	{
+		"assign": "2320",
+		"jp_text": "スイートヒール",
+		"tr_text": ""
+	},
+	{
+		"assign": "80110",
+		"jp_text": "ヴァルキュリア",
+		"tr_text": ""
+	},
+	{
+		"assign": "80120",
+		"jp_text": "ヴァルキュリア＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "80310",
+		"jp_text": "絶技：龍牙一閃",
+		"tr_text": ""
+	},
+	{
+		"assign": "80320",
+		"jp_text": "絶技：龍牙一閃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "80610",
+		"jp_text": "天叢雲剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "80620",
+		"jp_text": "天叢雲剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "81310",
+		"jp_text": "ソングエナジー",
+		"tr_text": ""
+	},
+	{
+		"assign": "81320",
+		"jp_text": "ソングエナジー+",
+		"tr_text": ""
+	},
+	{
+		"assign": "81410",
+		"jp_text": "リカバリーＲ",
+		"tr_text": ""
+	},
+	{
+		"assign": "81420",
+		"jp_text": "リカバリーＲ+",
+		"tr_text": ""
+	},
+	{
+		"assign": "81510",
+		"jp_text": "リカバリーＬ",
+		"tr_text": ""
+	},
+	{
+		"assign": "81520",
+		"jp_text": "リカバリーＬ+",
+		"tr_text": ""
+	},
+	{
+		"assign": "40001",
+		"jp_text": "アビリティバースト・大剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40002",
+		"jp_text": "アビリティバースト・大剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40003",
+		"jp_text": "アビリティバースト・自在槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "40004",
+		"jp_text": "アビリティバースト・自在槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40005",
+		"jp_text": "アビリティバースト・長槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "40006",
+		"jp_text": "アビリティバースト・長槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40007",
+		"jp_text": "アビリティバースト・双小剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40008",
+		"jp_text": "アビリティバースト・双小剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40009",
+		"jp_text": "アビリティバースト・両剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40010",
+		"jp_text": "アビリティバースト・両剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40011",
+		"jp_text": "アビリティバースト・鋼拳",
+		"tr_text": ""
+	},
+	{
+		"assign": "40012",
+		"jp_text": "アビリティバースト・鋼拳＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40013",
+		"jp_text": "アビリティバースト・銃剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40014",
+		"jp_text": "アビリティバースト・銃剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40015",
+		"jp_text": "アビリティバースト・長銃",
+		"tr_text": ""
+	},
+	{
+		"assign": "40016",
+		"jp_text": "アビリティバースト・長銃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40017",
+		"jp_text": "アビリティバースト・大砲",
+		"tr_text": ""
+	},
+	{
+		"assign": "40018",
+		"jp_text": "アビリティバースト・大砲＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40019",
+		"jp_text": "アビリティバースト・双機銃",
+		"tr_text": ""
+	},
+	{
+		"assign": "40020",
+		"jp_text": "アビリティバースト・双機銃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40021",
+		"jp_text": "アビリティバースト・抜剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40022",
+		"jp_text": "アビリティバースト・抜剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40023",
+		"jp_text": "アビリティバースト・強弓",
+		"tr_text": ""
+	},
+	{
+		"assign": "40024",
+		"jp_text": "アビリティバースト・強弓＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40025",
+		"jp_text": "アビリティバースト・魔装脚",
+		"tr_text": ""
+	},
+	{
+		"assign": "40026",
+		"jp_text": "アビリティバースト・魔装脚＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40027",
+		"jp_text": "アビリティバースト・飛翔剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40028",
+		"jp_text": "アビリティバースト・飛翔剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40029",
+		"jp_text": "アビリティバースト・炎法術",
+		"tr_text": ""
+	},
+	{
+		"assign": "40030",
+		"jp_text": "アビリティバースト・炎法術＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40031",
+		"jp_text": "アビリティバースト・氷法術",
+		"tr_text": ""
+	},
+	{
+		"assign": "40032",
+		"jp_text": "アビリティバースト・氷法術＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40033",
+		"jp_text": "アビリティバースト・風法術",
+		"tr_text": ""
+	},
+	{
+		"assign": "40034",
+		"jp_text": "アビリティバースト・風法術＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40035",
+		"jp_text": "アビリティバースト・雷法術",
+		"tr_text": ""
+	},
+	{
+		"assign": "40036",
+		"jp_text": "アビリティバースト・雷法術＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40037",
+		"jp_text": "アビリティバースト・光法術",
+		"tr_text": ""
+	},
+	{
+		"assign": "40038",
+		"jp_text": "アビリティバースト・光法術＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40039",
+		"jp_text": "アビリティバースト・闇法術",
+		"tr_text": ""
+	},
+	{
+		"assign": "40040",
+		"jp_text": "アビリティバースト・闇法術＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40041",
+		"jp_text": "アビリティバースト・大剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40042",
+		"jp_text": "アビリティバースト・大剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40043",
+		"jp_text": "アビリティバースト・自在槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "40044",
+		"jp_text": "アビリティバースト・自在槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40045",
+		"jp_text": "アビリティバースト・長槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "40046",
+		"jp_text": "アビリティバースト・長槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40047",
+		"jp_text": "アビリティバースト・双小剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40048",
+		"jp_text": "アビリティバースト・双小剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40049",
+		"jp_text": "アビリティバースト・両剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40050",
+		"jp_text": "アビリティバースト・両剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40051",
+		"jp_text": "アビリティバースト・鋼拳",
+		"tr_text": ""
+	},
+	{
+		"assign": "40052",
+		"jp_text": "アビリティバースト・鋼拳＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40053",
+		"jp_text": "アビリティバースト・銃剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40054",
+		"jp_text": "アビリティバースト・銃剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40055",
+		"jp_text": "アビリティバースト・長銃",
+		"tr_text": ""
+	},
+	{
+		"assign": "40056",
+		"jp_text": "アビリティバースト・長銃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40057",
+		"jp_text": "アビリティバースト・大砲",
+		"tr_text": ""
+	},
+	{
+		"assign": "40058",
+		"jp_text": "アビリティバースト・大砲＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40059",
+		"jp_text": "アビリティバースト・双機銃",
+		"tr_text": ""
+	},
+	{
+		"assign": "40060",
+		"jp_text": "アビリティバースト・双機銃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40061",
+		"jp_text": "アビリティバースト・抜剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40062",
+		"jp_text": "アビリティバースト・抜剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40063",
+		"jp_text": "アビリティバースト・強弓",
+		"tr_text": ""
+	},
+	{
+		"assign": "40064",
+		"jp_text": "アビリティバースト・強弓＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40065",
+		"jp_text": "アビリティバースト・魔装脚",
+		"tr_text": ""
+	},
+	{
+		"assign": "40066",
+		"jp_text": "アビリティバースト・魔装脚＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40067",
+		"jp_text": "アビリティバースト・飛翔剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40068",
+		"jp_text": "アビリティバースト・飛翔剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40069",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40070",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40071",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40072",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40073",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40074",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40075",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40076",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40077",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40078",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40079",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40080",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40081",
+		"jp_text": "アビリティブラスト・大剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40082",
+		"jp_text": "アビリティブラスト・大剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40083",
+		"jp_text": "アビリティブラスト・自在槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "40084",
+		"jp_text": "アビリティブラスト・自在槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40085",
+		"jp_text": "アビリティブラスト・長槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "40086",
+		"jp_text": "アビリティブラスト・長槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40087",
+		"jp_text": "アビリティブラスト・双小剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40088",
+		"jp_text": "アビリティブラスト・双小剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40089",
+		"jp_text": "アビリティブラスト・両剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40090",
+		"jp_text": "アビリティブラスト・両剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40091",
+		"jp_text": "アビリティブラスト・鋼拳",
+		"tr_text": ""
+	},
+	{
+		"assign": "40092",
+		"jp_text": "アビリティブラスト・鋼拳＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40093",
+		"jp_text": "アビリティブラスト・銃剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40094",
+		"jp_text": "アビリティブラスト・銃剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40095",
+		"jp_text": "アビリティブラスト・長銃",
+		"tr_text": ""
+	},
+	{
+		"assign": "40096",
+		"jp_text": "アビリティブラスト・長銃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40097",
+		"jp_text": "アビリティブラスト・大砲",
+		"tr_text": ""
+	},
+	{
+		"assign": "40098",
+		"jp_text": "アビリティブラスト・大砲＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40099",
+		"jp_text": "アビリティブラスト・双機銃",
+		"tr_text": ""
+	},
+	{
+		"assign": "40100",
+		"jp_text": "アビリティブラスト・双機銃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40101",
+		"jp_text": "アビリティブラスト・長杖",
+		"tr_text": ""
+	},
+	{
+		"assign": "40102",
+		"jp_text": "アビリティブラスト・長杖＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40103",
+		"jp_text": "アビリティブラスト・導具",
+		"tr_text": ""
+	},
+	{
+		"assign": "40104",
+		"jp_text": "アビリティブラスト・導具＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40105",
+		"jp_text": "アビリティブラスト・短杖",
+		"tr_text": ""
+	},
+	{
+		"assign": "40106",
+		"jp_text": "アビリティブラスト・短杖＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40107",
+		"jp_text": "アビリティブラスト・抜剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40108",
+		"jp_text": "アビリティブラスト・抜剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40109",
+		"jp_text": "アビリティブラスト・強弓",
+		"tr_text": ""
+	},
+	{
+		"assign": "40110",
+		"jp_text": "アビリティブラスト・強弓＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40111",
+		"jp_text": "アビリティブラスト・魔装脚",
+		"tr_text": ""
+	},
+	{
+		"assign": "40112",
+		"jp_text": "アビリティブラスト・魔装脚＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40113",
+		"jp_text": "アビリティブラスト・飛翔剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40114",
+		"jp_text": "アビリティブラスト・飛翔剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40115",
+		"jp_text": "アビリティバースト・大剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40116",
+		"jp_text": "アビリティバースト・大剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40117",
+		"jp_text": "アビリティバースト・自在槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "40118",
+		"jp_text": "アビリティバースト・自在槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40119",
+		"jp_text": "アビリティバースト・長槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "40120",
+		"jp_text": "アビリティバースト・長槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40121",
+		"jp_text": "アビリティバースト・双小剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40122",
+		"jp_text": "アビリティバースト・双小剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40123",
+		"jp_text": "アビリティバースト・両剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40124",
+		"jp_text": "アビリティバースト・両剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40125",
+		"jp_text": "アビリティバースト・鋼拳",
+		"tr_text": ""
+	},
+	{
+		"assign": "40126",
+		"jp_text": "アビリティバースト・鋼拳＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40127",
+		"jp_text": "アビリティバースト・銃剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40128",
+		"jp_text": "アビリティバースト・銃剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40129",
+		"jp_text": "アビリティバースト・長銃",
+		"tr_text": ""
+	},
+	{
+		"assign": "40130",
+		"jp_text": "アビリティバースト・長銃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40131",
+		"jp_text": "アビリティバースト・大砲",
+		"tr_text": ""
+	},
+	{
+		"assign": "40132",
+		"jp_text": "アビリティバースト・大砲＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40133",
+		"jp_text": "アビリティバースト・双機銃",
+		"tr_text": ""
+	},
+	{
+		"assign": "40134",
+		"jp_text": "アビリティバースト・双機銃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40135",
+		"jp_text": "アビリティバースト・抜剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40136",
+		"jp_text": "アビリティバースト・抜剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40137",
+		"jp_text": "アビリティバースト・強弓",
+		"tr_text": ""
+	},
+	{
+		"assign": "40138",
+		"jp_text": "アビリティバースト・強弓＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40139",
+		"jp_text": "アビリティバースト・魔装脚",
+		"tr_text": ""
+	},
+	{
+		"assign": "40140",
+		"jp_text": "アビリティバースト・魔装脚＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40141",
+		"jp_text": "アビリティバースト・飛翔剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40142",
+		"jp_text": "アビリティバースト・飛翔剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40143",
+		"jp_text": "アビリティバースト・大剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40144",
+		"jp_text": "アビリティバースト・大剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40145",
+		"jp_text": "アビリティバースト・自在槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "40146",
+		"jp_text": "アビリティバースト・自在槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40147",
+		"jp_text": "アビリティバースト・長槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "40148",
+		"jp_text": "アビリティバースト・長槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40149",
+		"jp_text": "アビリティバースト・双小剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40150",
+		"jp_text": "アビリティバースト・双小剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40151",
+		"jp_text": "アビリティバースト・両剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40152",
+		"jp_text": "アビリティバースト・両剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40153",
+		"jp_text": "アビリティバースト・鋼拳",
+		"tr_text": ""
+	},
+	{
+		"assign": "40154",
+		"jp_text": "アビリティバースト・鋼拳＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40155",
+		"jp_text": "アビリティバースト・銃剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40156",
+		"jp_text": "アビリティバースト・銃剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40157",
+		"jp_text": "アビリティバースト・長銃",
+		"tr_text": ""
+	},
+	{
+		"assign": "40158",
+		"jp_text": "アビリティバースト・長銃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40159",
+		"jp_text": "アビリティバースト・大砲",
+		"tr_text": ""
+	},
+	{
+		"assign": "40160",
+		"jp_text": "アビリティバースト・大砲＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40161",
+		"jp_text": "アビリティバースト・双機銃",
+		"tr_text": ""
+	},
+	{
+		"assign": "40162",
+		"jp_text": "アビリティバースト・双機銃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40163",
+		"jp_text": "アビリティバースト・抜剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40164",
+		"jp_text": "アビリティバースト・抜剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40165",
+		"jp_text": "アビリティバースト・強弓",
+		"tr_text": ""
+	},
+	{
+		"assign": "40166",
+		"jp_text": "アビリティバースト・強弓＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40167",
+		"jp_text": "アビリティバースト・魔装脚",
+		"tr_text": ""
+	},
+	{
+		"assign": "40168",
+		"jp_text": "アビリティバースト・魔装脚＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40169",
+		"jp_text": "アビリティバースト・飛翔剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40170",
+		"jp_text": "アビリティバースト・飛翔剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40171",
+		"jp_text": "アビリティバースト・大剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40172",
+		"jp_text": "アビリティバースト・大剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40173",
+		"jp_text": "アビリティバースト・自在槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "40174",
+		"jp_text": "アビリティバースト・自在槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40175",
+		"jp_text": "アビリティバースト・長槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "40176",
+		"jp_text": "アビリティバースト・長槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40177",
+		"jp_text": "アビリティバースト・双小剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40178",
+		"jp_text": "アビリティバースト・双小剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40179",
+		"jp_text": "アビリティバースト・両剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40180",
+		"jp_text": "アビリティバースト・両剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40181",
+		"jp_text": "アビリティバースト・鋼拳",
+		"tr_text": ""
+	},
+	{
+		"assign": "40182",
+		"jp_text": "アビリティバースト・鋼拳＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40183",
+		"jp_text": "アビリティバースト・銃剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40184",
+		"jp_text": "アビリティバースト・銃剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40185",
+		"jp_text": "アビリティバースト・長銃",
+		"tr_text": ""
+	},
+	{
+		"assign": "40186",
+		"jp_text": "アビリティバースト・長銃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40187",
+		"jp_text": "アビリティバースト・大砲",
+		"tr_text": ""
+	},
+	{
+		"assign": "40188",
+		"jp_text": "アビリティバースト・大砲＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40189",
+		"jp_text": "アビリティバースト・双機銃",
+		"tr_text": ""
+	},
+	{
+		"assign": "40190",
+		"jp_text": "アビリティバースト・双機銃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40191",
+		"jp_text": "アビリティバースト・抜剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40192",
+		"jp_text": "アビリティバースト・抜剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40193",
+		"jp_text": "アビリティバースト・強弓",
+		"tr_text": ""
+	},
+	{
+		"assign": "40194",
+		"jp_text": "アビリティバースト・強弓＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40195",
+		"jp_text": "アビリティバースト・魔装脚",
+		"tr_text": ""
+	},
+	{
+		"assign": "40196",
+		"jp_text": "アビリティバースト・魔装脚＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40197",
+		"jp_text": "アビリティバースト・飛翔剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40198",
+		"jp_text": "アビリティバースト・飛翔剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40199",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40200",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40201",
+		"jp_text": "アビリティバースト・自在槍",
+		"tr_text": ""
+	},
+	{
+		"assign": "40202",
+		"jp_text": "アビリティバースト・自在槍＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40203",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40204",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40205",
+		"jp_text": "アビリティバースト・双小剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40206",
+		"jp_text": "アビリティバースト・双小剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40207",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40208",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40209",
+		"jp_text": "アビリティバースト・鋼拳",
+		"tr_text": ""
+	},
+	{
+		"assign": "40210",
+		"jp_text": "アビリティバースト・鋼拳＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40211",
+		"jp_text": "アビリティバースト・銃剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40212",
+		"jp_text": "アビリティバースト・銃剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40213",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40214",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40215",
+		"jp_text": "アビリティバースト・大砲",
+		"tr_text": ""
+	},
+	{
+		"assign": "40216",
+		"jp_text": "アビリティバースト・大砲＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40217",
+		"jp_text": "アビリティバースト・双機銃",
+		"tr_text": ""
+	},
+	{
+		"assign": "40218",
+		"jp_text": "アビリティバースト・双機銃＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40219",
+		"jp_text": "アビリティバースト・抜剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40220",
+		"jp_text": "アビリティバースト・抜剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40221",
+		"jp_text": "アビリティバースト・強弓",
+		"tr_text": ""
+	},
+	{
+		"assign": "40222",
+		"jp_text": "アビリティバースト・強弓＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "40223",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40224",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40225",
+		"jp_text": "アビリティバースト・飛翔剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "40226",
+		"jp_text": "アビリティバースト・飛翔剣＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "3410",
+		"jp_text": "群れなす力",
+		"tr_text": ""
+	},
+	{
+		"assign": "3420",
+		"jp_text": "群れなす暴威",
+		"tr_text": ""
+	},
+	{
+		"assign": "3510",
+		"jp_text": "闇の兆し",
+		"tr_text": ""
+	},
+	{
+		"assign": "3520",
+		"jp_text": "闇の増長",
+		"tr_text": ""
+	},
+	{
+		"assign": "3610",
+		"jp_text": "闇の胎動",
+		"tr_text": ""
+	},
+	{
+		"assign": "3620",
+		"jp_text": "闇の躍動",
+		"tr_text": ""
+	},
+	{
+		"assign": "3710",
+		"jp_text": "毒の針",
+		"tr_text": ""
+	},
+	{
+		"assign": "3720",
+		"jp_text": "毒の撃針",
+		"tr_text": ""
+	},
+	{
+		"assign": "4210",
+		"jp_text": "硬殻",
+		"tr_text": ""
+	},
+	{
+		"assign": "4220",
+		"jp_text": "強固な硬殻",
+		"tr_text": ""
+	},
+	{
+		"assign": "4410",
+		"jp_text": "追撃",
+		"tr_text": ""
+	},
+	{
+		"assign": "4420",
+		"jp_text": "捕捉追撃",
+		"tr_text": ""
+	},
+	{
+		"assign": "4610",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "4620",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "4710",
+		"jp_text": "邪気の放出",
+		"tr_text": ""
+	},
+	{
+		"assign": "4720",
+		"jp_text": "邪念の噴出",
+		"tr_text": ""
+	},
+	{
+		"assign": "5210",
+		"jp_text": "ダーカーディフェンス",
+		"tr_text": ""
+	},
+	{
+		"assign": "5220",
+		"jp_text": "ダーカーディフェンス＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "20013",
+		"jp_text": "鎌薙",
+		"tr_text": ""
+	},
+	{
+		"assign": "20014",
+		"jp_text": "双連鎌薙",
+		"tr_text": ""
+	},
+	{
+		"assign": "20015",
+		"jp_text": "刹牙風",
+		"tr_text": ""
+	},
+	{
+		"assign": "20016",
+		"jp_text": "刹牙烈風",
+		"tr_text": ""
+	},
+	{
+		"assign": "5610",
+		"jp_text": "風の兆し",
+		"tr_text": ""
+	},
+	{
+		"assign": "5620",
+		"jp_text": "風の増長",
+		"tr_text": ""
+	},
+	{
+		"assign": "5710",
+		"jp_text": "風の胎動",
+		"tr_text": ""
+	},
+	{
+		"assign": "5720",
+		"jp_text": "風の躍動",
+		"tr_text": ""
+	},
+	{
+		"assign": "5810",
+		"jp_text": "呼応する力",
+		"tr_text": ""
+	},
+	{
+		"assign": "5820",
+		"jp_text": "呼応する暴威",
+		"tr_text": ""
+	},
+	{
+		"assign": "5910",
+		"jp_text": "遁走",
+		"tr_text": ""
+	},
+	{
+		"assign": "5920",
+		"jp_text": "大遁走",
+		"tr_text": ""
+	},
+	{
+		"assign": "6210",
+		"jp_text": "氷の兆し",
+		"tr_text": ""
+	},
+	{
+		"assign": "6220",
+		"jp_text": "氷の増長",
+		"tr_text": ""
+	},
+	{
+		"assign": "6310",
+		"jp_text": "氷の胎動",
+		"tr_text": ""
+	},
+	{
+		"assign": "6320",
+		"jp_text": "氷の躍動",
+		"tr_text": ""
+	},
+	{
+		"assign": "6510",
+		"jp_text": "長鼻の突進",
+		"tr_text": ""
+	},
+	{
+		"assign": "6520",
+		"jp_text": "長鼻の猛突進",
+		"tr_text": ""
+	},
+	{
+		"assign": "6910",
+		"jp_text": "原生種ディフェンス",
+		"tr_text": ""
+	},
+	{
+		"assign": "6920",
+		"jp_text": "原生種ディフェンス＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "7610",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "7620",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "7710",
+		"jp_text": "龍の知識「防」",
+		"tr_text": ""
+	},
+	{
+		"assign": "7720",
+		"jp_text": "龍の叡智「防」",
+		"tr_text": ""
+	},
+	{
+		"assign": "7810",
+		"jp_text": "龍の知識「攻」",
+		"tr_text": ""
+	},
+	{
+		"assign": "7820",
+		"jp_text": "龍の叡智「攻」",
+		"tr_text": ""
+	},
+	{
+		"assign": "7910",
+		"jp_text": "龍の知識「術」",
+		"tr_text": ""
+	},
+	{
+		"assign": "7920",
+		"jp_text": "龍の叡智「術」",
+		"tr_text": ""
+	},
+	{
+		"assign": "8010",
+		"jp_text": "炎の胎動",
+		"tr_text": ""
+	},
+	{
+		"assign": "8020",
+		"jp_text": "炎の躍動",
+		"tr_text": ""
+	},
+	{
+		"assign": "8110",
+		"jp_text": "炎の兆し",
+		"tr_text": ""
+	},
+	{
+		"assign": "8120",
+		"jp_text": "炎の増長",
+		"tr_text": ""
+	},
+	{
+		"assign": "8210",
+		"jp_text": "龍の光の知識「防」",
+		"tr_text": ""
+	},
+	{
+		"assign": "8220",
+		"jp_text": "龍の光の叡智「防」",
+		"tr_text": ""
+	},
+	{
+		"assign": "8310",
+		"jp_text": "龍の光の知識「攻」",
+		"tr_text": ""
+	},
+	{
+		"assign": "8320",
+		"jp_text": "龍の光の叡智「攻」",
+		"tr_text": ""
+	},
+	{
+		"assign": "8410",
+		"jp_text": "龍の光の知識「術」",
+		"tr_text": ""
+	},
+	{
+		"assign": "8420",
+		"jp_text": "龍の光の叡智「術」",
+		"tr_text": ""
+	},
+	{
+		"assign": "8510",
+		"jp_text": "光の胎動",
+		"tr_text": ""
+	},
+	{
+		"assign": "8520",
+		"jp_text": "光の躍動",
+		"tr_text": ""
+	},
+	{
+		"assign": "8610",
+		"jp_text": "光の兆し",
+		"tr_text": ""
+	},
+	{
+		"assign": "8620",
+		"jp_text": "光の増長",
+		"tr_text": ""
+	},
+	{
+		"assign": "8810",
+		"jp_text": "龍族ディフェンス",
+		"tr_text": ""
+	},
+	{
+		"assign": "8820",
+		"jp_text": "龍族ディフェンス＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "9010",
+		"jp_text": "混乱の石",
+		"tr_text": ""
+	},
+	{
+		"assign": "9020",
+		"jp_text": "混乱の紫水晶",
+		"tr_text": ""
+	},
+	{
+		"assign": "20023",
+		"jp_text": "晶牢光獄",
+		"tr_text": ""
+	},
+	{
+		"assign": "20024",
+		"jp_text": "壁陣・晶牢光獄",
+		"tr_text": ""
+	},
+	{
+		"assign": "20029",
+		"jp_text": "双角突撃",
+		"tr_text": ""
+	},
+	{
+		"assign": "20030",
+		"jp_text": "双角突破",
+		"tr_text": ""
+	},
+	{
+		"assign": "20031",
+		"jp_text": "二連閃光",
+		"tr_text": ""
+	},
+	{
+		"assign": "20032",
+		"jp_text": "二連閃撃",
+		"tr_text": ""
+	},
+	{
+		"assign": "9510",
+		"jp_text": "雷の兆し",
+		"tr_text": ""
+	},
+	{
+		"assign": "9520",
+		"jp_text": "雷の増長",
+		"tr_text": ""
+	},
+	{
+		"assign": "9610",
+		"jp_text": "雷の胎動",
+		"tr_text": ""
+	},
+	{
+		"assign": "9620",
+		"jp_text": "雷の躍動",
+		"tr_text": ""
+	},
+	{
+		"assign": "9710",
+		"jp_text": "機甲種ディフェンス",
+		"tr_text": ""
+	},
+	{
+		"assign": "9720",
+		"jp_text": "機甲種ディフェンス＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "20033",
+		"jp_text": "トリプルショット",
+		"tr_text": ""
+	},
+	{
+		"assign": "20034",
+		"jp_text": "スリーポイントバースト",
+		"tr_text": ""
+	},
+	{
+		"assign": "20039",
+		"jp_text": "無情の大進撃",
+		"tr_text": ""
+	},
+	{
+		"assign": "20040",
+		"jp_text": "無情の大蹂躙",
+		"tr_text": ""
+	},
+	{
+		"assign": "20001",
+		"jp_text": "ブレイクスピナー",
+		"tr_text": ""
+	},
+	{
+		"assign": "20002",
+		"jp_text": "バスタースピナー",
+		"tr_text": ""
+	},
+	{
+		"assign": "21310",
+		"jp_text": "炎属性活性反応",
+		"tr_text": ""
+	},
+	{
+		"assign": "21410",
+		"jp_text": "炎属性活性反応＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "21510",
+		"jp_text": "氷属性活性反応",
+		"tr_text": ""
+	},
+	{
+		"assign": "21610",
+		"jp_text": "氷属性活性反応＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "21710",
+		"jp_text": "雷属性活性反応",
+		"tr_text": ""
+	},
+	{
+		"assign": "21810",
+		"jp_text": "雷属性活性反応＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "21910",
+		"jp_text": "風属性活性反応",
+		"tr_text": ""
+	},
+	{
+		"assign": "22010",
+		"jp_text": "風属性活性反応＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "22110",
+		"jp_text": "光属性活性反応",
+		"tr_text": ""
+	},
+	{
+		"assign": "22210",
+		"jp_text": "光属性活性反応＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "22310",
+		"jp_text": "闇属性活性反応",
+		"tr_text": ""
+	},
+	{
+		"assign": "22410",
+		"jp_text": "闇属性活性反応＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "25010",
+		"jp_text": "スリープバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25110",
+		"jp_text": "ラッキーバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25210",
+		"jp_text": "ハミングバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25011",
+		"jp_text": "スリープバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25111",
+		"jp_text": "ラッキーバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25211",
+		"jp_text": "ハミングバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25012",
+		"jp_text": "スリープバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25112",
+		"jp_text": "ラッキーバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25212",
+		"jp_text": "ハミングバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25013",
+		"jp_text": "スリープバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25113",
+		"jp_text": "ラッキーバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25213",
+		"jp_text": "ハミングバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25018",
+		"jp_text": "プリズムバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25114",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "25214",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "25015",
+		"jp_text": "スリープバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25115",
+		"jp_text": "ラッキーバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25215",
+		"jp_text": "ハミングバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25016",
+		"jp_text": "スリープバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25116",
+		"jp_text": "ラッキーバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25216",
+		"jp_text": "ハミングバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25410",
+		"jp_text": "グラインドパワー２",
+		"tr_text": ""
+	},
+	{
+		"assign": "25310",
+		"jp_text": "グラインドパワー１",
+		"tr_text": ""
+	},
+	{
+		"assign": "20003",
+		"jp_text": "エレメンタルリベンジ",
+		"tr_text": ""
+	},
+	{
+		"assign": "20004",
+		"jp_text": "エレメンタルリベンジ＋",
+		"tr_text": ""
+	},
+	{
+		"assign": "25017",
+		"jp_text": "スリープバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25117",
+		"jp_text": "ラッキーバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "25217",
+		"jp_text": "ハミングバード",
+		"tr_text": ""
+	},
+	{
+		"assign": "20021",
+		"jp_text": "活胞子",
+		"tr_text": ""
+	},
+	{
+		"assign": "20022",
+		"jp_text": "活力胞子",
+		"tr_text": ""
+	}
+]

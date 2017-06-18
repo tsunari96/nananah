@@ -1,0 +1,3457 @@
+[
+	{
+		"assign": "99990",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "10009",
+		"jp_text": "アークス戦闘研修",
+		"tr_text": "아크스 전투 훈련"
+	},
+	{
+		"assign": "10010",
+		"jp_text": "はじめての任務",
+		"tr_text": "최초의 임무"
+	},
+	{
+		"assign": "10020",
+		"jp_text": "原生種のすみか",
+		"tr_text": "원생종의 소굴"
+	},
+	{
+		"assign": "10030",
+		"jp_text": "燃え立つ山",
+		"tr_text": "타오르는 산"
+	},
+	{
+		"assign": "10040",
+		"jp_text": "灼熱の洞窟",
+		"tr_text": "작열의 동굴"
+	},
+	{
+		"assign": "10050",
+		"jp_text": "手がかりを追って",
+		"tr_text": "단서를 쫓아"
+	},
+	{
+		"assign": "10060",
+		"jp_text": "凍土の死闘",
+		"tr_text": "동토의 사투"
+	},
+	{
+		"assign": "10110",
+		"jp_text": "新たな任務のはじまり",
+		"tr_text": "새로운 임무의 시작"
+	},
+	{
+		"assign": "10120",
+		"jp_text": "侵入警報発令！",
+		"tr_text": "침입 경보 발생!"
+	},
+	{
+		"assign": "10130",
+		"jp_text": "凍土の再調査",
+		"tr_text": "동토의 재조사"
+	},
+	{
+		"assign": "10140",
+		"jp_text": "放棄された居住区",
+		"tr_text": "버려진 거주지"
+	},
+	{
+		"assign": "10210",
+		"jp_text": "砂の海",
+		"tr_text": "모래 바다"
+	},
+	{
+		"assign": "10220",
+		"jp_text": "龍の狩場",
+		"tr_text": "용의 사냥터"
+	},
+	{
+		"assign": "10230",
+		"jp_text": "熱砂地帯",
+		"tr_text": "뜨거운 사막 지대"
+	},
+	{
+		"assign": "10240",
+		"jp_text": "吹雪の谷",
+		"tr_text": "눈보라의 계곡"
+	},
+	{
+		"assign": "10310",
+		"jp_text": "森に落ちる侵食の影",
+		"tr_text": "숲에 떨어지는 침식의 그림자"
+	},
+	{
+		"assign": "10320",
+		"jp_text": "岩脈の奥地へ",
+		"tr_text": "암맥의 오지로"
+	},
+	{
+		"assign": "10330",
+		"jp_text": "不帰の砂丘",
+		"tr_text": "불귀의 사막 언덕"
+	},
+	{
+		"assign": "10340",
+		"jp_text": "タイプＣの影",
+		"tr_text": "타입 C의 그림자"
+	},
+	{
+		"assign": "10410",
+		"jp_text": "森林の激戦",
+		"tr_text": "삼림의 격전"
+	},
+	{
+		"assign": "10420",
+		"jp_text": "火山洞窟の熱戦",
+		"tr_text": "화산 동굴의 열전"
+	},
+	{
+		"assign": "10430",
+		"jp_text": "砂漠の掃討戦",
+		"tr_text": "사막의 소탕전"
+	},
+	{
+		"assign": "10440",
+		"jp_text": "凍土の攻防戦",
+		"tr_text": "동토의 공방전"
+	},
+	{
+		"assign": "10450",
+		"jp_text": "市街地の撃退戦",
+		"tr_text": "시가지의 격퇴전"
+	},
+	{
+		"assign": "10510",
+		"jp_text": "空に浮かぶ大地",
+		"tr_text": "하늘에 떠있는 대지"
+	},
+	{
+		"assign": "10520",
+		"jp_text": "捨てられた街にて",
+		"tr_text": "버려진 도시에서"
+	},
+	{
+		"assign": "10530",
+		"jp_text": "逆襲の機甲種",
+		"tr_text": "역습의 기갑종"
+	},
+	{
+		"assign": "10540",
+		"jp_text": "浮遊大陸の追跡",
+		"tr_text": "부유 대륙의 추적"
+	},
+	{
+		"assign": "10610",
+		"jp_text": "解任、そして凍土再び",
+		"tr_text": "해임, 그리고 동토로 다시"
+	},
+	{
+		"assign": "10620",
+		"jp_text": "ナベリウスの謎の遺跡",
+		"tr_text": "나베리우스의 수수께끼 유적"
+	},
+	{
+		"assign": "10630",
+		"jp_text": "浮遊大陸の龍討伐",
+		"tr_text": "부유대륙의 용 토벌"
+	},
+	{
+		"assign": "10640",
+		"jp_text": "コーエン博士の予告",
+		"tr_text": "코엔 박사의 예고"
+	},
+	{
+		"assign": "10710",
+		"jp_text": "地下坑道の探索",
+		"tr_text": "지하 갱도의 탐색"
+	},
+	{
+		"assign": "10720",
+		"jp_text": "火山洞窟のタイプＣ",
+		"tr_text": "화산 동굴의 타입C"
+	},
+	{
+		"assign": "10730",
+		"jp_text": "森林に轟く咆哮",
+		"tr_text": "삼림에 울리는 포효"
+	},
+	{
+		"assign": "10740",
+		"jp_text": "コーエン博士の拠点",
+		"tr_text": "코엔 박사의 거점"
+	},
+	{
+		"assign": "10810",
+		"jp_text": "ドノヴァンの暗躍",
+		"tr_text": "도노반의 암약"
+	},
+	{
+		"assign": "10820",
+		"jp_text": "陥穽のセラフィ",
+		"tr_text": ""
+	},
+	{
+		"assign": "10830",
+		"jp_text": "ダーカーの巣窟",
+		"tr_text": ""
+	},
+	{
+		"assign": "10840",
+		"jp_text": "それぞれの想いと、終幕",
+		"tr_text": ""
+	},
+	{
+		"assign": "60010",
+		"jp_text": "1-1　新たな任務と仲間",
+		"tr_text": ""
+	},
+	{
+		"assign": "60011",
+		"jp_text": "1-1　新たな任務と仲間",
+		"tr_text": ""
+	},
+	{
+		"assign": "60020",
+		"jp_text": "1-2　アークスの使命",
+		"tr_text": ""
+	},
+	{
+		"assign": "60021",
+		"jp_text": "1-2　アークスの使命",
+		"tr_text": ""
+	},
+	{
+		"assign": "60030",
+		"jp_text": "1-3　過酷な探索",
+		"tr_text": ""
+	},
+	{
+		"assign": "60031",
+		"jp_text": "1-3　過酷な探索",
+		"tr_text": ""
+	},
+	{
+		"assign": "60040",
+		"jp_text": "1-4　遭遇",
+		"tr_text": ""
+	},
+	{
+		"assign": "60041",
+		"jp_text": "1-4　遭遇",
+		"tr_text": ""
+	},
+	{
+		"assign": "60110",
+		"jp_text": "2-1　生体反応を追って",
+		"tr_text": ""
+	},
+	{
+		"assign": "60111",
+		"jp_text": "2-1　生体反応を追って",
+		"tr_text": ""
+	},
+	{
+		"assign": "60120",
+		"jp_text": "2-2　目的",
+		"tr_text": ""
+	},
+	{
+		"assign": "60121",
+		"jp_text": "2-2　目的",
+		"tr_text": ""
+	},
+	{
+		"assign": "60130",
+		"jp_text": "2-3　ダーカーを操るアークス",
+		"tr_text": ""
+	},
+	{
+		"assign": "60131",
+		"jp_text": "2-3　ダーカーを操るアークス",
+		"tr_text": ""
+	},
+	{
+		"assign": "60140",
+		"jp_text": "2-4　結末",
+		"tr_text": ""
+	},
+	{
+		"assign": "60141",
+		"jp_text": "2-4　結末",
+		"tr_text": ""
+	},
+	{
+		"assign": "60210",
+		"jp_text": "3-1　チーム再結成！",
+		"tr_text": ""
+	},
+	{
+		"assign": "60211",
+		"jp_text": "3-1　チーム再結成！",
+		"tr_text": ""
+	},
+	{
+		"assign": "60220",
+		"jp_text": "3-2　違和感",
+		"tr_text": ""
+	},
+	{
+		"assign": "60221",
+		"jp_text": "3-2　違和感",
+		"tr_text": ""
+	},
+	{
+		"assign": "60230",
+		"jp_text": "3-3　奇怪な男の行方",
+		"tr_text": ""
+	},
+	{
+		"assign": "60231",
+		"jp_text": "3-3　奇怪な男の行方",
+		"tr_text": ""
+	},
+	{
+		"assign": "60240",
+		"jp_text": "3-4　新たな仲間、新たな脅威",
+		"tr_text": ""
+	},
+	{
+		"assign": "60241",
+		"jp_text": "3-4　新たな仲間、新たな脅威",
+		"tr_text": ""
+	},
+	{
+		"assign": "60310",
+		"jp_text": "4-1　ダンテの消息",
+		"tr_text": ""
+	},
+	{
+		"assign": "60311",
+		"jp_text": "4-1　ダンテの消息",
+		"tr_text": ""
+	},
+	{
+		"assign": "60320",
+		"jp_text": "4-2　次なる刺客",
+		"tr_text": ""
+	},
+	{
+		"assign": "60321",
+		"jp_text": "4-2　次なる刺客",
+		"tr_text": ""
+	},
+	{
+		"assign": "60330",
+		"jp_text": "4-3　それぞれの思惑",
+		"tr_text": ""
+	},
+	{
+		"assign": "60331",
+		"jp_text": "4-3　それぞれの思惑",
+		"tr_text": ""
+	},
+	{
+		"assign": "60340",
+		"jp_text": "4-4　わたし達との違い",
+		"tr_text": ""
+	},
+	{
+		"assign": "60341",
+		"jp_text": "4-4　わたし達との違い",
+		"tr_text": ""
+	},
+	{
+		"assign": "60410",
+		"jp_text": "5-1　事件の繋がり",
+		"tr_text": ""
+	},
+	{
+		"assign": "60411",
+		"jp_text": "5-1　事件の繋がり",
+		"tr_text": ""
+	},
+	{
+		"assign": "60420",
+		"jp_text": "5-2　怪物と「ひと」",
+		"tr_text": ""
+	},
+	{
+		"assign": "60421",
+		"jp_text": "5-2　怪物と「ひと」",
+		"tr_text": ""
+	},
+	{
+		"assign": "60430",
+		"jp_text": "5-3　その答えと覚悟",
+		"tr_text": ""
+	},
+	{
+		"assign": "60431",
+		"jp_text": "5-3　その答えと覚悟",
+		"tr_text": ""
+	},
+	{
+		"assign": "60440",
+		"jp_text": "5-4　捨てること",
+		"tr_text": ""
+	},
+	{
+		"assign": "60441",
+		"jp_text": "5-4　捨てること",
+		"tr_text": ""
+	},
+	{
+		"assign": "60510",
+		"jp_text": "6-1　傷ついたのは誰",
+		"tr_text": ""
+	},
+	{
+		"assign": "60511",
+		"jp_text": "6-1　傷ついたのは誰",
+		"tr_text": ""
+	},
+	{
+		"assign": "60520",
+		"jp_text": "6-2　守れなかった",
+		"tr_text": ""
+	},
+	{
+		"assign": "60521",
+		"jp_text": "6-2　守れなかった",
+		"tr_text": ""
+	},
+	{
+		"assign": "60530",
+		"jp_text": "6-3　第二研究所",
+		"tr_text": ""
+	},
+	{
+		"assign": "60531",
+		"jp_text": "6-3　第二研究所",
+		"tr_text": ""
+	},
+	{
+		"assign": "60540",
+		"jp_text": "6-4　再会と再開",
+		"tr_text": ""
+	},
+	{
+		"assign": "60541",
+		"jp_text": "6-4　再会と再開",
+		"tr_text": ""
+	},
+	{
+		"assign": "60610",
+		"jp_text": "7-1　新たな出発",
+		"tr_text": ""
+	},
+	{
+		"assign": "60611",
+		"jp_text": "7-1　新たな出発",
+		"tr_text": ""
+	},
+	{
+		"assign": "60620",
+		"jp_text": "7-2　未来と過去",
+		"tr_text": ""
+	},
+	{
+		"assign": "60621",
+		"jp_text": "7-2　未来と過去",
+		"tr_text": ""
+	},
+	{
+		"assign": "60630",
+		"jp_text": "7-3　存在する意味",
+		"tr_text": ""
+	},
+	{
+		"assign": "60631",
+		"jp_text": "7-3　存在する意味",
+		"tr_text": ""
+	},
+	{
+		"assign": "60640",
+		"jp_text": "7-4　「堪えがたい喜劇」",
+		"tr_text": ""
+	},
+	{
+		"assign": "60641",
+		"jp_text": "7-4　「堪えがたい喜劇」",
+		"tr_text": ""
+	},
+	{
+		"assign": "60710",
+		"jp_text": "8-1　犠牲の無い道",
+		"tr_text": ""
+	},
+	{
+		"assign": "60711",
+		"jp_text": "8-1　犠牲の無い道",
+		"tr_text": ""
+	},
+	{
+		"assign": "60720",
+		"jp_text": "8-2　完璧でない心",
+		"tr_text": ""
+	},
+	{
+		"assign": "60721",
+		"jp_text": "8-2　完璧でない心",
+		"tr_text": ""
+	},
+	{
+		"assign": "60730",
+		"jp_text": "8-3　揺れる天秤",
+		"tr_text": ""
+	},
+	{
+		"assign": "60731",
+		"jp_text": "8-3　揺れる天秤",
+		"tr_text": ""
+	},
+	{
+		"assign": "60740",
+		"jp_text": "8-4　ジェネの選択",
+		"tr_text": ""
+	},
+	{
+		"assign": "60741",
+		"jp_text": "8-4　ジェネの選択",
+		"tr_text": ""
+	},
+	{
+		"assign": "60810",
+		"jp_text": "9-1　救出任務",
+		"tr_text": ""
+	},
+	{
+		"assign": "60811",
+		"jp_text": "9-1　救出任務",
+		"tr_text": ""
+	},
+	{
+		"assign": "60820",
+		"jp_text": "9-2　２年前",
+		"tr_text": ""
+	},
+	{
+		"assign": "60821",
+		"jp_text": "9-2　２年前",
+		"tr_text": ""
+	},
+	{
+		"assign": "60830",
+		"jp_text": "9-3　「大事な気持ち」",
+		"tr_text": ""
+	},
+	{
+		"assign": "60831",
+		"jp_text": "9-3　「大事な気持ち」",
+		"tr_text": ""
+	},
+	{
+		"assign": "60840",
+		"jp_text": "9-4　魅入られた者",
+		"tr_text": ""
+	},
+	{
+		"assign": "60841",
+		"jp_text": "9-4　魅入られた者",
+		"tr_text": ""
+	},
+	{
+		"assign": "60910",
+		"jp_text": "10-1　欠陥の無い世界",
+		"tr_text": ""
+	},
+	{
+		"assign": "60911",
+		"jp_text": "10-1　欠陥の無い世界",
+		"tr_text": ""
+	},
+	{
+		"assign": "60920",
+		"jp_text": "10-2　愚か者",
+		"tr_text": ""
+	},
+	{
+		"assign": "60921",
+		"jp_text": "10-2　愚か者",
+		"tr_text": ""
+	},
+	{
+		"assign": "40010",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40011",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40012",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40013",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40014",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40015",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40016",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40017",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40020",
+		"jp_text": "ブレイバー武器探索クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "40021",
+		"jp_text": "フォース武器探索クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "40022",
+		"jp_text": "追加クラス武器探索クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "40023",
+		"jp_text": "ハンター武器探索クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "40024",
+		"jp_text": "レンジャー武器探索クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "40025",
+		"jp_text": "武装強化クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "40026",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "40027",
+		"jp_text": "ラッピー特殊調査",
+		"tr_text": ""
+	},
+	{
+		"assign": "40042",
+		"jp_text": "ラッピー特殊調査",
+		"tr_text": ""
+	},
+	{
+		"assign": "40028",
+		"jp_text": "バウンサー武器探索クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "40030",
+		"jp_text": "月曜　素材探索クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "40031",
+		"jp_text": "火曜　素材探索クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "40032",
+		"jp_text": "水曜　素材探索クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "40033",
+		"jp_text": "木曜　素材探索クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "40034",
+		"jp_text": "金曜　素材探索クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "40035",
+		"jp_text": "土日　打撃武器の探索",
+		"tr_text": ""
+	},
+	{
+		"assign": "40036",
+		"jp_text": "土日　射撃・法撃武器の探索",
+		"tr_text": ""
+	},
+	{
+		"assign": "40037",
+		"jp_text": "ダーカーコア入手作戦",
+		"tr_text": ""
+	},
+	{
+		"assign": "40038",
+		"jp_text": "アムドゥスキア素子を求めて",
+		"tr_text": ""
+	},
+	{
+		"assign": "40039",
+		"jp_text": "混沌を断ち切る力と源",
+		"tr_text": ""
+	},
+	{
+		"assign": "40040",
+		"jp_text": "ナベリウス素子を求めて",
+		"tr_text": ""
+	},
+	{
+		"assign": "40041",
+		"jp_text": "リリーパ素子を求めて",
+		"tr_text": ""
+	},
+	{
+		"assign": "40043",
+		"jp_text": "ウォパル素子を求めて",
+		"tr_text": ""
+	},
+	{
+		"assign": "40044",
+		"jp_text": "解放素子を求めて",
+		"tr_text": ""
+	},
+	{
+		"assign": "40045",
+		"jp_text": "混沌を断ち切る力と源",
+		"tr_text": ""
+	},
+	{
+		"assign": "40100",
+		"jp_text": "共闘者たちの集い",
+		"tr_text": ""
+	},
+	{
+		"assign": "40101",
+		"jp_text": "混沌を断ち切る力１",
+		"tr_text": ""
+	},
+	{
+		"assign": "40102",
+		"jp_text": "混沌を断ち切る力２",
+		"tr_text": ""
+	},
+	{
+		"assign": "40200",
+		"jp_text": "混沌を浄化する光１",
+		"tr_text": ""
+	},
+	{
+		"assign": "40201",
+		"jp_text": "混沌を浄化する光２",
+		"tr_text": ""
+	},
+	{
+		"assign": "40202",
+		"jp_text": "バレンタイン限定クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "40203",
+		"jp_text": "1周年記念任務・前編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40204",
+		"jp_text": "1周年記念任務・後編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40205",
+		"jp_text": "1周年記念任務・後編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40206",
+		"jp_text": "ラッピーフィーバークエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "40171",
+		"jp_text": "特別任務「レコードハント」",
+		"tr_text": ""
+	},
+	{
+		"assign": "40178",
+		"jp_text": "新春クエスト2016・前編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40179",
+		"jp_text": "新春クエスト2016・後編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40180",
+		"jp_text": "バレンタイン極秘任務",
+		"tr_text": ""
+	},
+	{
+		"assign": "40181",
+		"jp_text": "フレンドサーチクエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "40182",
+		"jp_text": "２周年記念任務・前編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40183",
+		"jp_text": "２周年記念任務・中編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40184",
+		"jp_text": "２周年記念任務・後編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40189",
+		"jp_text": "ラッピー異常発生調査",
+		"tr_text": ""
+	},
+	{
+		"assign": "40190",
+		"jp_text": "収集任務「想念の粒砂」・前編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40191",
+		"jp_text": "収集任務「想念の粒砂」・後編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40192",
+		"jp_text": "ハロウィンパーティー",
+		"tr_text": ""
+	},
+	{
+		"assign": "40193",
+		"jp_text": "ネッキーの落し物",
+		"tr_text": ""
+	},
+	{
+		"assign": "40194",
+		"jp_text": "希望への道しるべ・前編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40195",
+		"jp_text": "希望への道しるべ・後編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40196",
+		"jp_text": "聖夜に願うプレゼント",
+		"tr_text": ""
+	},
+	{
+		"assign": "40197",
+		"jp_text": "新春クエスト２０１７・前編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40198",
+		"jp_text": "新春クエスト２０１７・後編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40199",
+		"jp_text": "スイートバレンタイン",
+		"tr_text": ""
+	},
+	{
+		"assign": "40401",
+		"jp_text": "３周年記念任務・前編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40402",
+		"jp_text": "３周年記念任務・中編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40403",
+		"jp_text": "３周年記念任務・後編",
+		"tr_text": ""
+	},
+	{
+		"assign": "40404",
+		"jp_text": "花嫁のブーケをつかめ！",
+		"tr_text": ""
+	},
+	{
+		"assign": "40301",
+		"jp_text": "光の激化への道・打",
+		"tr_text": ""
+	},
+	{
+		"assign": "40302",
+		"jp_text": "光の激化への道・射法",
+		"tr_text": ""
+	},
+	{
+		"assign": "40303",
+		"jp_text": "闇の激化への道・打",
+		"tr_text": ""
+	},
+	{
+		"assign": "40304",
+		"jp_text": "闇の激化への道・射法",
+		"tr_text": ""
+	},
+	{
+		"assign": "40305",
+		"jp_text": "風の激化への道・打",
+		"tr_text": ""
+	},
+	{
+		"assign": "40306",
+		"jp_text": "風の激化への道・射法",
+		"tr_text": ""
+	},
+	{
+		"assign": "40307",
+		"jp_text": "炎の激化への道・打",
+		"tr_text": ""
+	},
+	{
+		"assign": "40308",
+		"jp_text": "炎の激化への道・射法",
+		"tr_text": ""
+	},
+	{
+		"assign": "40309",
+		"jp_text": "氷の激化への道・打",
+		"tr_text": ""
+	},
+	{
+		"assign": "40310",
+		"jp_text": "氷の激化への道・射法",
+		"tr_text": ""
+	},
+	{
+		"assign": "40311",
+		"jp_text": "雷の激化への道・打",
+		"tr_text": ""
+	},
+	{
+		"assign": "40312",
+		"jp_text": "雷の激化への道・射法",
+		"tr_text": ""
+	},
+	{
+		"assign": "50010",
+		"jp_text": "ファイタークラス解放クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "50011",
+		"jp_text": "ガンナークラス解放クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "50012",
+		"jp_text": "テクタークラス解放クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "50110",
+		"jp_text": "クラス限定クエスト",
+		"tr_text": ""
+	},
+	{
+		"assign": "40103",
+		"jp_text": "闘士たちの試練・ハンター",
+		"tr_text": ""
+	},
+	{
+		"assign": "40104",
+		"jp_text": "闘士たちの試練・レンジャー",
+		"tr_text": ""
+	},
+	{
+		"assign": "40105",
+		"jp_text": "闘士たちの試練・フォース",
+		"tr_text": ""
+	},
+	{
+		"assign": "40106",
+		"jp_text": "闘士たちの試練・ファイター",
+		"tr_text": ""
+	},
+	{
+		"assign": "40107",
+		"jp_text": "闘士たちの試練・ガンナー",
+		"tr_text": ""
+	},
+	{
+		"assign": "40108",
+		"jp_text": "闘士たちの試練・テクター",
+		"tr_text": ""
+	},
+	{
+		"assign": "40109",
+		"jp_text": "闘士たちの試練・ブレイバー",
+		"tr_text": ""
+	},
+	{
+		"assign": "40110",
+		"jp_text": "共闘者たちの集い",
+		"tr_text": ""
+	},
+	{
+		"assign": "40111",
+		"jp_text": "闘士たちの試練・バウンサー",
+		"tr_text": ""
+	},
+	{
+		"assign": "30010",
+		"jp_text": "緊急指令「煉獄を纏いし龍」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30020",
+		"jp_text": "緊急指令「緋色の破王」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30030",
+		"jp_text": "緊急指令「煌めきの蒼き翼」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30040",
+		"jp_text": "緊急指令「紅き虚無の蟲王」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30050",
+		"jp_text": "緊急指令「大地を駆ける鋭牙」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30060",
+		"jp_text": "緊急指令「目覚めし蒼の機甲」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30100",
+		"jp_text": "緊急指令「銀獅子の狂域」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30101",
+		"jp_text": "緊急指令「氷嵐切り裂く黒爪」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30102",
+		"jp_text": "緊急指令「変異を宿せし炎龍」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30103",
+		"jp_text": "緊急指令「黒き焔を統べし龍」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30104",
+		"jp_text": "緊急指令「砂海に轟く黒槌」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30105",
+		"jp_text": "緊急指令「黒晶に覆われし翼」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30106",
+		"jp_text": "緊急指令「堅牢なる未解の骸」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30107",
+		"jp_text": "緊急指令「闇に蠢く不解な影」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30108",
+		"jp_text": "緊急指令「黒き罠へ誘う咆哮」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30109",
+		"jp_text": "緊急指令「堕を導く不浄の槍」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30110",
+		"jp_text": "緊急指令「砂海に轟く黒槌」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30111",
+		"jp_text": "緊急指令「堕を導く不浄の槍」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30112",
+		"jp_text": "緊急指令「氷嵐切り裂く黒爪」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30113",
+		"jp_text": "緊急指令「黒晶に覆われし翼」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30114",
+		"jp_text": "緊急指令「青海の紅き暴威」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30115",
+		"jp_text": "緊急指令「闇に蠢く不解な影」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30116",
+		"jp_text": "緊急指令「堅牢なる未解の骸」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30117",
+		"jp_text": "緊急指令「黒き焔を統べし龍」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30118",
+		"jp_text": "緊急指令「黒き罠へ誘う咆哮」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30119",
+		"jp_text": "緊急指令「獰猛なる森の女王」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30120",
+		"jp_text": "緊急指令「破砕の掌王」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30121",
+		"jp_text": "緊急指令「厳威なる鋭剣の翼」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30122",
+		"jp_text": "緊急指令「殲爆の黒き要塞」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30201",
+		"jp_text": "緊急指令「慈悲無き絶影の王」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30202",
+		"jp_text": "緊急指令「殲爆の機動要塞」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30203",
+		"jp_text": "緊急指令「地穿つ暴威の大波」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30204",
+		"jp_text": "緊急指令「猛き女王の狩り場」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30205",
+		"jp_text": "緊急指令「邪なる風雷操る影」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30206",
+		"jp_text": "緊急指令「地を薙ぐ不浄の槍」",
+		"tr_text": ""
+	},
+	{
+		"assign": "30207",
+		"jp_text": "緊急指令「猛炎宿す暴虐の龍」",
+		"tr_text": ""
+	},
+	{
+		"assign": "39001",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "40120",
+		"jp_text": "激震！クォーツ・ドラゴン",
+		"tr_text": ""
+	},
+	{
+		"assign": "40130",
+		"jp_text": "覚醒！トランマイザー１",
+		"tr_text": ""
+	},
+	{
+		"assign": "40140",
+		"jp_text": "強襲！ファングバンサー",
+		"tr_text": ""
+	},
+	{
+		"assign": "40141",
+		"jp_text": "鳴動！ダーク・ラグネ",
+		"tr_text": ""
+	},
+	{
+		"assign": "40142",
+		"jp_text": "猛進！キャタドランサ１",
+		"tr_text": ""
+	},
+	{
+		"assign": "40143",
+		"jp_text": "疾風！スノウバンサー",
+		"tr_text": ""
+	},
+	{
+		"assign": "40144",
+		"jp_text": "頑強！ロックベア１",
+		"tr_text": ""
+	},
+	{
+		"assign": "40159",
+		"jp_text": "激戦！「大地揺さぶる強拳１」",
+		"tr_text": ""
+	},
+	{
+		"assign": "40167",
+		"jp_text": "猛攻！ゼッシュレイダ２",
+		"tr_text": ""
+	},
+	{
+		"assign": "40168",
+		"jp_text": "激戦！「堅牢無比の鎧２」",
+		"tr_text": ""
+	},
+	{
+		"assign": "40169",
+		"jp_text": "猛進！キャタドランサ２",
+		"tr_text": ""
+	},
+	{
+		"assign": "40170",
+		"jp_text": "激戦！「天地を貫く剛角２」",
+		"tr_text": ""
+	},
+	{
+		"assign": "40145",
+		"jp_text": "猛追！デ・マルモス１",
+		"tr_text": ""
+	},
+	{
+		"assign": "40172",
+		"jp_text": "激戦！「迫り来る雪巨獣１」",
+		"tr_text": ""
+	},
+	{
+		"assign": "40173",
+		"jp_text": "激戦！「変幻自在の守護者１」",
+		"tr_text": ""
+	},
+	{
+		"assign": "40174",
+		"jp_text": "頑強！ロックベア２",
+		"tr_text": ""
+	},
+	{
+		"assign": "40175",
+		"jp_text": "激戦！「大地揺さぶる強拳２」",
+		"tr_text": ""
+	},
+	{
+		"assign": "40176",
+		"jp_text": "襲撃！ファングバンシー１",
+		"tr_text": ""
+	},
+	{
+		"assign": "40177",
+		"jp_text": "激戦！「電光石火の閃爪１」",
+		"tr_text": ""
+	},
+	{
+		"assign": "40147",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "40148",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "40149",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "40150",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "40151",
+		"jp_text": "猛攻！ゼッシュレイダ１",
+		"tr_text": ""
+	},
+	{
+		"assign": "40146",
+		"jp_text": "狡猾！グワナーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "40160",
+		"jp_text": "新春お年玉クエスト６日目",
+		"tr_text": ""
+	},
+	{
+		"assign": "40161",
+		"jp_text": "新春お年玉クエスト１日目",
+		"tr_text": ""
+	},
+	{
+		"assign": "40162",
+		"jp_text": "新春お年玉クエスト２日目",
+		"tr_text": ""
+	},
+	{
+		"assign": "40163",
+		"jp_text": "新春お年玉クエスト４日目",
+		"tr_text": ""
+	},
+	{
+		"assign": "40164",
+		"jp_text": "新春お年玉クエスト３日目",
+		"tr_text": ""
+	},
+	{
+		"assign": "40165",
+		"jp_text": "新春お年玉クエスト５日目",
+		"tr_text": ""
+	},
+	{
+		"assign": "40166",
+		"jp_text": "新春お年玉クエスト７日目",
+		"tr_text": ""
+	},
+	{
+		"assign": "40152",
+		"jp_text": "剛腕！ウォルガーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "40153",
+		"jp_text": "激戦！「堅牢無比の鎧１」",
+		"tr_text": ""
+	},
+	{
+		"assign": "40154",
+		"jp_text": "猛撃！ウォルガーダ１",
+		"tr_text": ""
+	},
+	{
+		"assign": "40155",
+		"jp_text": "激戦！「大力無双の連撃１」",
+		"tr_text": ""
+	},
+	{
+		"assign": "40156",
+		"jp_text": "激戦！「天地を貫く剛角１」",
+		"tr_text": ""
+	},
+	{
+		"assign": "40157",
+		"jp_text": "猛撃！ウォルガーダ２",
+		"tr_text": ""
+	},
+	{
+		"assign": "40158",
+		"jp_text": "激戦！「大力無双の連撃２」",
+		"tr_text": ""
+	},
+	{
+		"assign": "40185",
+		"jp_text": "覚醒！トランマイザー２",
+		"tr_text": ""
+	},
+	{
+		"assign": "40186",
+		"jp_text": "激戦！「変幻自在の守護者２」",
+		"tr_text": ""
+	},
+	{
+		"assign": "40187",
+		"jp_text": "猛追！デ・マルモス２",
+		"tr_text": ""
+	},
+	{
+		"assign": "40188",
+		"jp_text": "激戦！「迫り来る雪巨獣２」",
+		"tr_text": ""
+	},
+	{
+		"assign": "70000",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70001",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70002",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70003",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70004",
+		"jp_text": "はじめてできた、仲間",
+		"tr_text": ""
+	},
+	{
+		"assign": "70005",
+		"jp_text": "アネットはインテリア",
+		"tr_text": ""
+	},
+	{
+		"assign": "70006",
+		"jp_text": "ブルーノはピンチ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70007",
+		"jp_text": "オレの日記",
+		"tr_text": ""
+	},
+	{
+		"assign": "70008",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70009",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70010",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70011",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70012",
+		"jp_text": "龍退治のエキスパート",
+		"tr_text": ""
+	},
+	{
+		"assign": "70013",
+		"jp_text": "使命の意味",
+		"tr_text": ""
+	},
+	{
+		"assign": "70014",
+		"jp_text": "「龍」という壁を越えて",
+		"tr_text": ""
+	},
+	{
+		"assign": "70015",
+		"jp_text": "もうひとつの使命",
+		"tr_text": ""
+	},
+	{
+		"assign": "70016",
+		"jp_text": "寡黙な射手",
+		"tr_text": ""
+	},
+	{
+		"assign": "70017",
+		"jp_text": "無心の境地",
+		"tr_text": ""
+	},
+	{
+		"assign": "70018",
+		"jp_text": "必中の覚悟",
+		"tr_text": ""
+	},
+	{
+		"assign": "70019",
+		"jp_text": "達人への道",
+		"tr_text": ""
+	},
+	{
+		"assign": "70020",
+		"jp_text": "ギャラクティック・ラブ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70021",
+		"jp_text": "ビューティー・ケア",
+		"tr_text": ""
+	},
+	{
+		"assign": "70022",
+		"jp_text": "ストーミー・パッション",
+		"tr_text": ""
+	},
+	{
+		"assign": "70023",
+		"jp_text": "ラブ・フェニックス",
+		"tr_text": ""
+	},
+	{
+		"assign": "70024",
+		"jp_text": "仲間になるんダマン！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70025",
+		"jp_text": "氷ならまかせろダマン！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70026",
+		"jp_text": "役立たずなんダマン？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70027",
+		"jp_text": "ありがとうなんダマン！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70028",
+		"jp_text": "剣舞の踊り手",
+		"tr_text": ""
+	},
+	{
+		"assign": "70029",
+		"jp_text": "ステップ＆ジャンプ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70030",
+		"jp_text": "みんなで踊ろう",
+		"tr_text": ""
+	},
+	{
+		"assign": "70031",
+		"jp_text": "レッツ・ダンス！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70032",
+		"jp_text": "妖",
+		"tr_text": ""
+	},
+	{
+		"assign": "70033",
+		"jp_text": "忌",
+		"tr_text": ""
+	},
+	{
+		"assign": "70034",
+		"jp_text": "願",
+		"tr_text": ""
+	},
+	{
+		"assign": "70035",
+		"jp_text": "光",
+		"tr_text": ""
+	},
+	{
+		"assign": "70036",
+		"jp_text": "バイオトライナーの日記１",
+		"tr_text": ""
+	},
+	{
+		"assign": "70037",
+		"jp_text": "バイオトライナーの日記２",
+		"tr_text": ""
+	},
+	{
+		"assign": "70038",
+		"jp_text": "バイオトライナーの日記３",
+		"tr_text": ""
+	},
+	{
+		"assign": "70039",
+		"jp_text": "バイオトライナーの日記４",
+		"tr_text": ""
+	},
+	{
+		"assign": "70040",
+		"jp_text": "暗殺兵器ウェポノイド",
+		"tr_text": ""
+	},
+	{
+		"assign": "70041",
+		"jp_text": "頼りとするもの",
+		"tr_text": ""
+	},
+	{
+		"assign": "70042",
+		"jp_text": "ミズーリと友人",
+		"tr_text": ""
+	},
+	{
+		"assign": "70043",
+		"jp_text": "助けあうということ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70044",
+		"jp_text": "陰陽の司",
+		"tr_text": ""
+	},
+	{
+		"assign": "70045",
+		"jp_text": "悩み事",
+		"tr_text": ""
+	},
+	{
+		"assign": "70046",
+		"jp_text": "５×２≠６",
+		"tr_text": ""
+	},
+	{
+		"assign": "70047",
+		"jp_text": "世界の理",
+		"tr_text": ""
+	},
+	{
+		"assign": "70048",
+		"jp_text": "お宝探しウェポノイド",
+		"tr_text": ""
+	},
+	{
+		"assign": "70049",
+		"jp_text": "宝探しに大事なもの",
+		"tr_text": ""
+	},
+	{
+		"assign": "70050",
+		"jp_text": "運よりも大事なもの？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70051",
+		"jp_text": "掘って掘ってまた掘って",
+		"tr_text": ""
+	},
+	{
+		"assign": "70052",
+		"jp_text": "人見知りなウェポノイド",
+		"tr_text": ""
+	},
+	{
+		"assign": "70053",
+		"jp_text": "赤きサソリのしっぽ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70054",
+		"jp_text": "ランチャーを愛する者",
+		"tr_text": ""
+	},
+	{
+		"assign": "70055",
+		"jp_text": "あこがれの人",
+		"tr_text": ""
+	},
+	{
+		"assign": "70056",
+		"jp_text": "拳で語れ！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70057",
+		"jp_text": "敵を知れ！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70058",
+		"jp_text": "己を知れ！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70059",
+		"jp_text": "勝利をつかめ！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70060",
+		"jp_text": "鉄は熱いうちに打て",
+		"tr_text": ""
+	},
+	{
+		"assign": "70061",
+		"jp_text": "特訓、特訓",
+		"tr_text": ""
+	},
+	{
+		"assign": "70062",
+		"jp_text": "特訓特訓、また特訓",
+		"tr_text": ""
+	},
+	{
+		"assign": "70063",
+		"jp_text": "成果と、これから",
+		"tr_text": ""
+	},
+	{
+		"assign": "70064",
+		"jp_text": "地獄のマッサージ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70065",
+		"jp_text": "改善か改悪か",
+		"tr_text": ""
+	},
+	{
+		"assign": "70066",
+		"jp_text": "悩める電撃娘",
+		"tr_text": ""
+	},
+	{
+		"assign": "70067",
+		"jp_text": "練習の成果",
+		"tr_text": ""
+	},
+	{
+		"assign": "70068",
+		"jp_text": "正義の少女",
+		"tr_text": ""
+	},
+	{
+		"assign": "70069",
+		"jp_text": "正義の味方",
+		"tr_text": ""
+	},
+	{
+		"assign": "70070",
+		"jp_text": "正義の見方",
+		"tr_text": ""
+	},
+	{
+		"assign": "70071",
+		"jp_text": "正義の黎明",
+		"tr_text": ""
+	},
+	{
+		"assign": "70072",
+		"jp_text": "銃と剣の主従",
+		"tr_text": ""
+	},
+	{
+		"assign": "70073",
+		"jp_text": "チームプレイ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70074",
+		"jp_text": "影に捧げた想い",
+		"tr_text": ""
+	},
+	{
+		"assign": "70075",
+		"jp_text": "雨降って地固まれ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70076",
+		"jp_text": "朽ち果てよ我が身",
+		"tr_text": ""
+	},
+	{
+		"assign": "70077",
+		"jp_text": "その足掻きは徒労か",
+		"tr_text": ""
+	},
+	{
+		"assign": "70078",
+		"jp_text": "この些末なる生の価値",
+		"tr_text": ""
+	},
+	{
+		"assign": "70079",
+		"jp_text": "ただ温もりをよすがに",
+		"tr_text": ""
+	},
+	{
+		"assign": "70080",
+		"jp_text": "臆病ウサギの邂逅",
+		"tr_text": ""
+	},
+	{
+		"assign": "70081",
+		"jp_text": "遁走ウサギの苦悩",
+		"tr_text": ""
+	},
+	{
+		"assign": "70082",
+		"jp_text": "弱虫ウサギの決意",
+		"tr_text": ""
+	},
+	{
+		"assign": "70083",
+		"jp_text": "幸せウサギの微笑",
+		"tr_text": ""
+	},
+	{
+		"assign": "70084",
+		"jp_text": "未完の翼",
+		"tr_text": ""
+	},
+	{
+		"assign": "70085",
+		"jp_text": "引け目",
+		"tr_text": ""
+	},
+	{
+		"assign": "70086",
+		"jp_text": "ひとりとチーム",
+		"tr_text": ""
+	},
+	{
+		"assign": "70087",
+		"jp_text": "助け合うキモチ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70088",
+		"jp_text": "妖艶なるウェポノイド",
+		"tr_text": ""
+	},
+	{
+		"assign": "70089",
+		"jp_text": "若さと美の秘密",
+		"tr_text": ""
+	},
+	{
+		"assign": "70090",
+		"jp_text": "邪念を吸う",
+		"tr_text": ""
+	},
+	{
+		"assign": "70091",
+		"jp_text": "浄化の果てに",
+		"tr_text": ""
+	},
+	{
+		"assign": "70092",
+		"jp_text": "時を超えた預言書",
+		"tr_text": ""
+	},
+	{
+		"assign": "70093",
+		"jp_text": "古の賢人いわく",
+		"tr_text": ""
+	},
+	{
+		"assign": "70094",
+		"jp_text": "金言の継承者",
+		"tr_text": ""
+	},
+	{
+		"assign": "70095",
+		"jp_text": "贈る言葉",
+		"tr_text": ""
+	},
+	{
+		"assign": "70096",
+		"jp_text": "生真面目な魔戦士",
+		"tr_text": ""
+	},
+	{
+		"assign": "70097",
+		"jp_text": "遙か彼方のお洒落着",
+		"tr_text": ""
+	},
+	{
+		"assign": "70098",
+		"jp_text": "もふもふの誘惑",
+		"tr_text": ""
+	},
+	{
+		"assign": "70099",
+		"jp_text": "解き放たれし情熱",
+		"tr_text": ""
+	},
+	{
+		"assign": "70100",
+		"jp_text": "出会いはアッパーカット",
+		"tr_text": ""
+	},
+	{
+		"assign": "70101",
+		"jp_text": "思ひ出はボディーブロー",
+		"tr_text": ""
+	},
+	{
+		"assign": "70102",
+		"jp_text": "戦士たちはストレート",
+		"tr_text": ""
+	},
+	{
+		"assign": "70103",
+		"jp_text": "どうしようもナックル",
+		"tr_text": ""
+	},
+	{
+		"assign": "70104",
+		"jp_text": "双機銃？　強弓？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70105",
+		"jp_text": "みんなで仲良く",
+		"tr_text": ""
+	},
+	{
+		"assign": "70106",
+		"jp_text": "仲間に厳しく",
+		"tr_text": ""
+	},
+	{
+		"assign": "70107",
+		"jp_text": "自分に厳しく",
+		"tr_text": ""
+	},
+	{
+		"assign": "70108",
+		"jp_text": "約束の海",
+		"tr_text": ""
+	},
+	{
+		"assign": "70109",
+		"jp_text": "面影のウェポノイド",
+		"tr_text": ""
+	},
+	{
+		"assign": "70110",
+		"jp_text": "不思議な縁",
+		"tr_text": ""
+	},
+	{
+		"assign": "70111",
+		"jp_text": "仲良きことは美しきかな",
+		"tr_text": ""
+	},
+	{
+		"assign": "70112",
+		"jp_text": "値踏みする少女",
+		"tr_text": ""
+	},
+	{
+		"assign": "70113",
+		"jp_text": "鉄は熱いうちに",
+		"tr_text": ""
+	},
+	{
+		"assign": "70114",
+		"jp_text": "強さの在処",
+		"tr_text": ""
+	},
+	{
+		"assign": "70115",
+		"jp_text": "業物は強者の手に",
+		"tr_text": ""
+	},
+	{
+		"assign": "70116",
+		"jp_text": "伝説の長杖",
+		"tr_text": ""
+	},
+	{
+		"assign": "70117",
+		"jp_text": "時空を超えた存在",
+		"tr_text": ""
+	},
+	{
+		"assign": "70118",
+		"jp_text": "運命の分岐",
+		"tr_text": ""
+	},
+	{
+		"assign": "70119",
+		"jp_text": "究極と、悠久と",
+		"tr_text": ""
+	},
+	{
+		"assign": "70120",
+		"jp_text": "魅惑の女戦士",
+		"tr_text": ""
+	},
+	{
+		"assign": "70121",
+		"jp_text": "誘惑のささやき",
+		"tr_text": ""
+	},
+	{
+		"assign": "70122",
+		"jp_text": "魅了の眼差し",
+		"tr_text": ""
+	},
+	{
+		"assign": "70123",
+		"jp_text": "クライマックスハート",
+		"tr_text": ""
+	},
+	{
+		"assign": "70124",
+		"jp_text": "腕試され",
+		"tr_text": ""
+	},
+	{
+		"assign": "70125",
+		"jp_text": "指名",
+		"tr_text": ""
+	},
+	{
+		"assign": "70126",
+		"jp_text": "本気",
+		"tr_text": ""
+	},
+	{
+		"assign": "70127",
+		"jp_text": "罪",
+		"tr_text": ""
+	},
+	{
+		"assign": "70128",
+		"jp_text": "参上！　お仕置き戦士",
+		"tr_text": ""
+	},
+	{
+		"assign": "70129",
+		"jp_text": "暴走！　お仕置き戦士",
+		"tr_text": ""
+	},
+	{
+		"assign": "70130",
+		"jp_text": "慟哭！　お仕置き戦士",
+		"tr_text": ""
+	},
+	{
+		"assign": "70131",
+		"jp_text": "復活！　お仕置き戦士",
+		"tr_text": ""
+	},
+	{
+		"assign": "70132",
+		"jp_text": "青雲の王",
+		"tr_text": ""
+	},
+	{
+		"assign": "70133",
+		"jp_text": "鴻鵠の志",
+		"tr_text": ""
+	},
+	{
+		"assign": "70134",
+		"jp_text": "百代の問",
+		"tr_text": ""
+	},
+	{
+		"assign": "70135",
+		"jp_text": "万里の道",
+		"tr_text": ""
+	},
+	{
+		"assign": "70136",
+		"jp_text": "押しかけ召使い",
+		"tr_text": ""
+	},
+	{
+		"assign": "70137",
+		"jp_text": "召使いの献身",
+		"tr_text": ""
+	},
+	{
+		"assign": "70138",
+		"jp_text": "召使いの挺身",
+		"tr_text": ""
+	},
+	{
+		"assign": "70139",
+		"jp_text": "召使いの生き甲斐？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70140",
+		"jp_text": "暴走キューピッド",
+		"tr_text": ""
+	},
+	{
+		"assign": "70141",
+		"jp_text": "もふもふハーレム一丁",
+		"tr_text": ""
+	},
+	{
+		"assign": "70142",
+		"jp_text": "ラブの侵略",
+		"tr_text": ""
+	},
+	{
+		"assign": "70143",
+		"jp_text": "愛の形",
+		"tr_text": ""
+	},
+	{
+		"assign": "70144",
+		"jp_text": "次元を越える大剣",
+		"tr_text": ""
+	},
+	{
+		"assign": "70145",
+		"jp_text": "秘技・空間渡り",
+		"tr_text": ""
+	},
+	{
+		"assign": "70146",
+		"jp_text": "空間を切り裂く力",
+		"tr_text": ""
+	},
+	{
+		"assign": "70147",
+		"jp_text": "次元を越える力",
+		"tr_text": ""
+	},
+	{
+		"assign": "70148",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70149",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70150",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70151",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70152",
+		"jp_text": "幸せを探して",
+		"tr_text": ""
+	},
+	{
+		"assign": "70153",
+		"jp_text": "幸せになりたい",
+		"tr_text": ""
+	},
+	{
+		"assign": "70154",
+		"jp_text": "幸せはどこに？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70155",
+		"jp_text": "そこにある幸せ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70156",
+		"jp_text": "チームで戦うこと",
+		"tr_text": ""
+	},
+	{
+		"assign": "70157",
+		"jp_text": "命を預ける",
+		"tr_text": ""
+	},
+	{
+		"assign": "70158",
+		"jp_text": "面白いチーム",
+		"tr_text": ""
+	},
+	{
+		"assign": "70159",
+		"jp_text": "共に戦う",
+		"tr_text": ""
+	},
+	{
+		"assign": "70160",
+		"jp_text": "砂漠の助っ人",
+		"tr_text": ""
+	},
+	{
+		"assign": "70161",
+		"jp_text": "新しい機械",
+		"tr_text": ""
+	},
+	{
+		"assign": "70162",
+		"jp_text": "画期的な機械",
+		"tr_text": ""
+	},
+	{
+		"assign": "70163",
+		"jp_text": "無限の可能性",
+		"tr_text": ""
+	},
+	{
+		"assign": "70164",
+		"jp_text": "無数の刃を纏う美女",
+		"tr_text": ""
+	},
+	{
+		"assign": "70165",
+		"jp_text": "やさしいフォトン",
+		"tr_text": ""
+	},
+	{
+		"assign": "70166",
+		"jp_text": "笑顔と誤解",
+		"tr_text": ""
+	},
+	{
+		"assign": "70167",
+		"jp_text": "自然な笑顔",
+		"tr_text": ""
+	},
+	{
+		"assign": "70168",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70169",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70170",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70171",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70172",
+		"jp_text": "あふれる生命力",
+		"tr_text": ""
+	},
+	{
+		"assign": "70173",
+		"jp_text": "弾む魂",
+		"tr_text": ""
+	},
+	{
+		"assign": "70174",
+		"jp_text": "魂の危機",
+		"tr_text": ""
+	},
+	{
+		"assign": "70175",
+		"jp_text": "感じる魂",
+		"tr_text": ""
+	},
+	{
+		"assign": "70176",
+		"jp_text": "龍祭壇の巫女",
+		"tr_text": ""
+	},
+	{
+		"assign": "70177",
+		"jp_text": "擦れ違い",
+		"tr_text": ""
+	},
+	{
+		"assign": "70178",
+		"jp_text": "力を合わせて",
+		"tr_text": ""
+	},
+	{
+		"assign": "70179",
+		"jp_text": "龍と人の狭間で",
+		"tr_text": ""
+	},
+	{
+		"assign": "70180",
+		"jp_text": "静かな強弓",
+		"tr_text": ""
+	},
+	{
+		"assign": "70181",
+		"jp_text": "伝わらない気持ち",
+		"tr_text": ""
+	},
+	{
+		"assign": "70182",
+		"jp_text": "意思の疎通",
+		"tr_text": ""
+	},
+	{
+		"assign": "70183",
+		"jp_text": "本当の気持ち",
+		"tr_text": ""
+	},
+	{
+		"assign": "70184",
+		"jp_text": "いただきます",
+		"tr_text": ""
+	},
+	{
+		"assign": "70185",
+		"jp_text": "おかわり",
+		"tr_text": ""
+	},
+	{
+		"assign": "70186",
+		"jp_text": "更なるおかわり",
+		"tr_text": ""
+	},
+	{
+		"assign": "70187",
+		"jp_text": "果て無きおかわり",
+		"tr_text": ""
+	},
+	{
+		"assign": "70188",
+		"jp_text": "関わりたくない",
+		"tr_text": ""
+	},
+	{
+		"assign": "70189",
+		"jp_text": "アヴェンジャーの優しさ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70190",
+		"jp_text": "近づく距離",
+		"tr_text": ""
+	},
+	{
+		"assign": "70191",
+		"jp_text": "その先の目的",
+		"tr_text": ""
+	},
+	{
+		"assign": "70192",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70193",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70194",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70195",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70196",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70197",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70198",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70199",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70200",
+		"jp_text": "運命の邂逅",
+		"tr_text": ""
+	},
+	{
+		"assign": "70201",
+		"jp_text": "悪魔の囁き",
+		"tr_text": ""
+	},
+	{
+		"assign": "70202",
+		"jp_text": "至高の言葉",
+		"tr_text": ""
+	},
+	{
+		"assign": "70203",
+		"jp_text": "盟約の代償",
+		"tr_text": ""
+	},
+	{
+		"assign": "70204",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70205",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70206",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70207",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70208",
+		"jp_text": "古強者のウェポノイド",
+		"tr_text": ""
+	},
+	{
+		"assign": "70209",
+		"jp_text": "いぶし銀の存在",
+		"tr_text": ""
+	},
+	{
+		"assign": "70210",
+		"jp_text": "戦士の秘密",
+		"tr_text": ""
+	},
+	{
+		"assign": "70211",
+		"jp_text": "積み重ねていくもの",
+		"tr_text": ""
+	},
+	{
+		"assign": "70212",
+		"jp_text": "VS　モア",
+		"tr_text": ""
+	},
+	{
+		"assign": "70213",
+		"jp_text": "VS　アネット",
+		"tr_text": ""
+	},
+	{
+		"assign": "70214",
+		"jp_text": "VS　ブルーノ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70215",
+		"jp_text": "VS　ジェネ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70216",
+		"jp_text": "食えない男",
+		"tr_text": ""
+	},
+	{
+		"assign": "70217",
+		"jp_text": "卑劣なトリックスター",
+		"tr_text": ""
+	},
+	{
+		"assign": "70218",
+		"jp_text": "ジョーカーのジレンマ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70219",
+		"jp_text": "自由を求めて",
+		"tr_text": ""
+	},
+	{
+		"assign": "70220",
+		"jp_text": "天命を知る",
+		"tr_text": ""
+	},
+	{
+		"assign": "70221",
+		"jp_text": "その性格",
+		"tr_text": ""
+	},
+	{
+		"assign": "70222",
+		"jp_text": "武器として生まれた",
+		"tr_text": ""
+	},
+	{
+		"assign": "70223",
+		"jp_text": "目的のその後",
+		"tr_text": ""
+	},
+	{
+		"assign": "70224",
+		"jp_text": "まどろむウェポノイド",
+		"tr_text": ""
+	},
+	{
+		"assign": "70225",
+		"jp_text": "けだるげな午後",
+		"tr_text": ""
+	},
+	{
+		"assign": "70226",
+		"jp_text": "弓のしなり",
+		"tr_text": ""
+	},
+	{
+		"assign": "70227",
+		"jp_text": "安らげる場所",
+		"tr_text": ""
+	},
+	{
+		"assign": "70228",
+		"jp_text": "新たなチーム結成？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70229",
+		"jp_text": "努力の成果",
+		"tr_text": ""
+	},
+	{
+		"assign": "70230",
+		"jp_text": "それぞれの大事なもの",
+		"tr_text": ""
+	},
+	{
+		"assign": "70231",
+		"jp_text": "最強のチーム",
+		"tr_text": ""
+	},
+	{
+		"assign": "70232",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70233",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70234",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70235",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70236",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70237",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70238",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70239",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70240",
+		"jp_text": "知恵者と大賢者",
+		"tr_text": ""
+	},
+	{
+		"assign": "70241",
+		"jp_text": "与えられた試練",
+		"tr_text": ""
+	},
+	{
+		"assign": "70242",
+		"jp_text": "特別な力",
+		"tr_text": ""
+	},
+	{
+		"assign": "70243",
+		"jp_text": "全ては賢者の手の上",
+		"tr_text": ""
+	},
+	{
+		"assign": "70244",
+		"jp_text": "最強のウェポノイド",
+		"tr_text": ""
+	},
+	{
+		"assign": "70245",
+		"jp_text": "ストライクブルートに学ぶ最強",
+		"tr_text": ""
+	},
+	{
+		"assign": "70246",
+		"jp_text": "ゴッドハンドに学ぶ最強",
+		"tr_text": ""
+	},
+	{
+		"assign": "70247",
+		"jp_text": "サイコウォンドに学ぶ最強",
+		"tr_text": ""
+	},
+	{
+		"assign": "70248",
+		"jp_text": "マダムノオトズレ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70249",
+		"jp_text": "マダムノオチャカイ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70250",
+		"jp_text": "マダムノワールド",
+		"tr_text": ""
+	},
+	{
+		"assign": "70251",
+		"jp_text": "マダムノタタカイ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70252",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70253",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70254",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70255",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70256",
+		"jp_text": "兵士の誇り",
+		"tr_text": ""
+	},
+	{
+		"assign": "70257",
+		"jp_text": "命令命令また命令",
+		"tr_text": ""
+	},
+	{
+		"assign": "70258",
+		"jp_text": "正義を想う",
+		"tr_text": ""
+	},
+	{
+		"assign": "70259",
+		"jp_text": "兵士の誇り・改",
+		"tr_text": ""
+	},
+	{
+		"assign": "70260",
+		"jp_text": "されど龍祭壇の巫女",
+		"tr_text": ""
+	},
+	{
+		"assign": "70261",
+		"jp_text": "良いも悪いも出来心",
+		"tr_text": ""
+	},
+	{
+		"assign": "70262",
+		"jp_text": "サボリホリック",
+		"tr_text": ""
+	},
+	{
+		"assign": "70263",
+		"jp_text": "真面目と不真面目の狭間で",
+		"tr_text": ""
+	},
+	{
+		"assign": "70264",
+		"jp_text": "龍祭壇の巫女……？",
+		"tr_text": ""
+	},
+	{
+		"assign": "70265",
+		"jp_text": "ためらい",
+		"tr_text": ""
+	},
+	{
+		"assign": "70266",
+		"jp_text": "行き止まる回り道",
+		"tr_text": ""
+	},
+	{
+		"assign": "70267",
+		"jp_text": "無理と可能の狭間で",
+		"tr_text": ""
+	},
+	{
+		"assign": "70268",
+		"jp_text": "森のチャンピオン",
+		"tr_text": ""
+	},
+	{
+		"assign": "70269",
+		"jp_text": "敵がたくさん！",
+		"tr_text": ""
+	},
+	{
+		"assign": "70270",
+		"jp_text": "強いだけじゃダメ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70271",
+		"jp_text": "伝説の「森のチャンピオン」",
+		"tr_text": ""
+	},
+	{
+		"assign": "70272",
+		"jp_text": "凍土の炎",
+		"tr_text": ""
+	},
+	{
+		"assign": "70273",
+		"jp_text": "火山の炎",
+		"tr_text": ""
+	},
+	{
+		"assign": "70274",
+		"jp_text": "市街地の炎",
+		"tr_text": ""
+	},
+	{
+		"assign": "70275",
+		"jp_text": "情熱の炎",
+		"tr_text": ""
+	},
+	{
+		"assign": "70276",
+		"jp_text": "草原を駆ける脚",
+		"tr_text": ""
+	},
+	{
+		"assign": "70277",
+		"jp_text": "砂漠を駆ける脚",
+		"tr_text": ""
+	},
+	{
+		"assign": "70278",
+		"jp_text": "踏んだり蹴ったり",
+		"tr_text": ""
+	},
+	{
+		"assign": "70279",
+		"jp_text": "秘密のメモ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70280",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70281",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70282",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70283",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70284",
+		"jp_text": "舞い散る氷華",
+		"tr_text": ""
+	},
+	{
+		"assign": "70285",
+		"jp_text": "ほころぶ蕾",
+		"tr_text": ""
+	},
+	{
+		"assign": "70286",
+		"jp_text": "落花狼藉",
+		"tr_text": ""
+	},
+	{
+		"assign": "70287",
+		"jp_text": "桜花繚乱",
+		"tr_text": ""
+	},
+	{
+		"assign": "70288",
+		"jp_text": "白く塗りしめ心を隠す",
+		"tr_text": ""
+	},
+	{
+		"assign": "70289",
+		"jp_text": "雨垂は落花を抱きて流れ",
+		"tr_text": ""
+	},
+	{
+		"assign": "70290",
+		"jp_text": "宙を往く銀の鳥籠で",
+		"tr_text": ""
+	},
+	{
+		"assign": "70291",
+		"jp_text": "天に紅差す電子の付文",
+		"tr_text": ""
+	},
+	{
+		"assign": "70292",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70293",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70294",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70295",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70296",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70297",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70298",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70299",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70300",
+		"jp_text": "キラキラエンカウント",
+		"tr_text": ""
+	},
+	{
+		"assign": "70301",
+		"jp_text": "キラキラバトル",
+		"tr_text": ""
+	},
+	{
+		"assign": "70302",
+		"jp_text": "キラキラシンキング",
+		"tr_text": ""
+	},
+	{
+		"assign": "70303",
+		"jp_text": "キラキラプレゼント",
+		"tr_text": ""
+	},
+	{
+		"assign": "70304",
+		"jp_text": "咎人",
+		"tr_text": ""
+	},
+	{
+		"assign": "70305",
+		"jp_text": "イカサマ遊戯",
+		"tr_text": ""
+	},
+	{
+		"assign": "70306",
+		"jp_text": "背徳の魂",
+		"tr_text": ""
+	},
+	{
+		"assign": "70307",
+		"jp_text": "それでも光の下に",
+		"tr_text": ""
+	},
+	{
+		"assign": "70308",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70309",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70310",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70311",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70312",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70313",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70314",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70315",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70316",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70317",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70318",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70319",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70320",
+		"jp_text": "怖がりなウェポノイド",
+		"tr_text": ""
+	},
+	{
+		"assign": "70321",
+		"jp_text": "役立たずなダメな子",
+		"tr_text": ""
+	},
+	{
+		"assign": "70322",
+		"jp_text": "克服したい",
+		"tr_text": ""
+	},
+	{
+		"assign": "70323",
+		"jp_text": "みんなの役に立ちたい",
+		"tr_text": ""
+	},
+	{
+		"assign": "70324",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70325",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70326",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70327",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70328",
+		"jp_text": "エクストリーム迷子",
+		"tr_text": ""
+	},
+	{
+		"assign": "70329",
+		"jp_text": "人生暇つぶし",
+		"tr_text": ""
+	},
+	{
+		"assign": "70330",
+		"jp_text": "人任せクッキング",
+		"tr_text": ""
+	},
+	{
+		"assign": "70331",
+		"jp_text": "今日も明日もこんなもん",
+		"tr_text": ""
+	},
+	{
+		"assign": "70332",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70333",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70334",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70335",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70336",
+		"jp_text": "闇の環",
+		"tr_text": ""
+	},
+	{
+		"assign": "70337",
+		"jp_text": "影を抱いて",
+		"tr_text": ""
+	},
+	{
+		"assign": "70338",
+		"jp_text": "傷を求める理由",
+		"tr_text": ""
+	},
+	{
+		"assign": "70339",
+		"jp_text": "ほどかれた拘束",
+		"tr_text": ""
+	},
+	{
+		"assign": "70340",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70341",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70342",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70343",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70344",
+		"jp_text": "歴戦の年季",
+		"tr_text": ""
+	},
+	{
+		"assign": "70345",
+		"jp_text": "戦場の鬼教官",
+		"tr_text": ""
+	},
+	{
+		"assign": "70346",
+		"jp_text": "重厚なる刃",
+		"tr_text": ""
+	},
+	{
+		"assign": "70347",
+		"jp_text": "男たちの誓い",
+		"tr_text": ""
+	},
+	{
+		"assign": "70348",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70349",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70350",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70351",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70352",
+		"jp_text": "ザ・デストロイヤー",
+		"tr_text": ""
+	},
+	{
+		"assign": "70353",
+		"jp_text": "悪意なき大破壊",
+		"tr_text": ""
+	},
+	{
+		"assign": "70354",
+		"jp_text": "火力の加減に気をつけて",
+		"tr_text": ""
+	},
+	{
+		"assign": "70355",
+		"jp_text": "明日に向かって撃て",
+		"tr_text": ""
+	},
+	{
+		"assign": "70356",
+		"jp_text": "優秀なウェポノイド",
+		"tr_text": ""
+	},
+	{
+		"assign": "70357",
+		"jp_text": "成功率",
+		"tr_text": ""
+	},
+	{
+		"assign": "70358",
+		"jp_text": "大事なこと",
+		"tr_text": ""
+	},
+	{
+		"assign": "70359",
+		"jp_text": "仲間を思う",
+		"tr_text": ""
+	},
+	{
+		"assign": "70360",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70361",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70362",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70363",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70364",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70365",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70366",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70367",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70368",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70369",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70370",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "70371",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "71001",
+		"jp_text": "チームの思い出",
+		"tr_text": ""
+	},
+	{
+		"assign": "71002",
+		"jp_text": "ジェネとモアの2年",
+		"tr_text": ""
+	},
+	{
+		"assign": "71003",
+		"jp_text": "悩むこと",
+		"tr_text": ""
+	},
+	{
+		"assign": "71004",
+		"jp_text": "冒険のキラキラ",
+		"tr_text": ""
+	},
+	{
+		"assign": "71005",
+		"jp_text": "思い出作り",
+		"tr_text": ""
+	},
+	{
+		"assign": "71006",
+		"jp_text": "あり得た未来",
+		"tr_text": ""
+	},
+	{
+		"assign": "71007",
+		"jp_text": "届かぬ面影",
+		"tr_text": ""
+	},
+	{
+		"assign": "71008",
+		"jp_text": "始まりの海",
+		"tr_text": ""
+	},
+	{
+		"assign": "71009",
+		"jp_text": "チーム0808",
+		"tr_text": ""
+	},
+	{
+		"assign": "71010",
+		"jp_text": "繋がる点",
+		"tr_text": ""
+	},
+	{
+		"assign": "71011",
+		"jp_text": "予期した犠牲",
+		"tr_text": ""
+	},
+	{
+		"assign": "71012",
+		"jp_text": "虚偽の報告",
+		"tr_text": ""
+	},
+	{
+		"assign": "71013",
+		"jp_text": "謎のなぞかけ",
+		"tr_text": ""
+	},
+	{
+		"assign": "71014",
+		"jp_text": "時を超えた伝言",
+		"tr_text": ""
+	},
+	{
+		"assign": "71015",
+		"jp_text": "開かずの宝箱",
+		"tr_text": ""
+	},
+	{
+		"assign": "71016",
+		"jp_text": "父と娘",
+		"tr_text": ""
+	},
+	{
+		"assign": "50120",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "50130",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "50140",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "50150",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "50160",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "50170",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "90300",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "90008",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "90009",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "49001",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "49002",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "49003",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "49101",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "49102",
+		"jp_text": "－",
+		"tr_text": ""
+	},
+	{
+		"assign": "49201",
+		"jp_text": "－",
+		"tr_text": ""
+	}
+]

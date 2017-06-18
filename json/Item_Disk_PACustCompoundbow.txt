@@ -1,0 +1,16 @@
+[
+	{
+		"assign": "95155",
+		"jp_text": "シャープボマー／Ｃ",
+		"tr_text": "",
+		"jp_explain": "PAカスタマイズで\n作成された改造用ディスク。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "95157",
+		"jp_text": "トリットシューター／Ｃ",
+		"tr_text": "",
+		"jp_explain": "PAカスタマイズで\n作成された改造用ディスク。",
+		"tr_explain": ""
+	}
+]

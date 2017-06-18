@@ -1,0 +1,51 @@
+[
+	{
+		"assign": "9350",
+		"jp_text": "グランツ／カスタム",
+		"tr_text": "",
+		"jp_explain": "テクニックカスタマイズで\n作成された改造用ディスク。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "9351",
+		"jp_text": "ギ・グランツ／カスタム",
+		"tr_text": "",
+		"jp_explain": "テクニックカスタマイズで\n作成された改造用ディスク。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "9352",
+		"jp_text": "ラ・グランツ／カスタム",
+		"tr_text": "",
+		"jp_explain": "テクニックカスタマイズで\n作成された改造用ディスク。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "9353",
+		"jp_text": "レスタ／カスタム",
+		"tr_text": "",
+		"jp_explain": "テクニックカスタマイズで\n作成された改造用ディスク。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "9354",
+		"jp_text": "アンティ／カスタム",
+		"tr_text": "",
+		"jp_explain": "テクニックカスタマイズで\n作成された改造用ディスク。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "9355",
+		"jp_text": "ナ・グランツ／カスタム",
+		"tr_text": "",
+		"jp_explain": "テクニックカスタマイズで\n作成された改造用ディスク。",
+		"tr_explain": ""
+	},
+	{
+		"assign": "9356",
+		"jp_text": "イル・グランツ／カスタム",
+		"tr_text": "",
+		"jp_explain": "テクニックカスタマイズで\n作成された改造用ディスク。",
+		"tr_explain": ""
+	}
+]

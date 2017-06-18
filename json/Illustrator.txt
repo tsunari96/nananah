@@ -1,0 +1,2942 @@
+[
+	{
+		"chip": "293",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ヤスダスズヒト",
+		"tr_name": ""
+	},
+	{
+		"chip": "294",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ヤスダスズヒト",
+		"tr_name": ""
+	},
+	{
+		"chip": "295",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ヤスダスズヒト",
+		"tr_name": ""
+	},
+	{
+		"chip": "296",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ヤスダスズヒト",
+		"tr_name": ""
+	},
+	{
+		"chip": "297",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ヤスダスズヒト",
+		"tr_name": ""
+	},
+	{
+		"chip": "298",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ヤスダスズヒト",
+		"tr_name": ""
+	},
+	{
+		"chip": "133",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "134",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "135",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "136",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "147",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "148",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "167",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "168",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "171",
+		"jp_CV": "植田佳奈",
+		"tr_CV": "",
+		"jp_name": "pako",
+		"tr_name": ""
+	},
+	{
+		"chip": "172",
+		"jp_CV": "植田佳奈",
+		"tr_CV": "",
+		"jp_name": "pako",
+		"tr_name": ""
+	},
+	{
+		"chip": "173",
+		"jp_CV": "竹達彩奈",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "174",
+		"jp_CV": "竹達彩奈",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "177",
+		"jp_CV": "種田梨沙",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "178",
+		"jp_CV": "種田梨沙",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "179",
+		"jp_CV": "Ｍ・Ａ・Ｏ",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "180",
+		"jp_CV": "Ｍ・Ａ・Ｏ",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "181",
+		"jp_CV": "緑川光",
+		"tr_CV": "",
+		"jp_name": "tatsuya",
+		"tr_name": ""
+	},
+	{
+		"chip": "182",
+		"jp_CV": "緑川光",
+		"tr_CV": "",
+		"jp_name": "tatsuya",
+		"tr_name": ""
+	},
+	{
+		"chip": "183",
+		"jp_CV": "佐藤聡美",
+		"tr_CV": "",
+		"jp_name": "日向悠二",
+		"tr_name": ""
+	},
+	{
+		"chip": "184",
+		"jp_CV": "佐藤聡美",
+		"tr_CV": "",
+		"jp_name": "日向悠二",
+		"tr_name": ""
+	},
+	{
+		"chip": "189",
+		"jp_CV": "木村珠莉",
+		"tr_CV": "",
+		"jp_name": "たいちょ",
+		"tr_name": ""
+	},
+	{
+		"chip": "190",
+		"jp_CV": "木村珠莉",
+		"tr_CV": "",
+		"jp_name": "たいちょ",
+		"tr_name": ""
+	},
+	{
+		"chip": "191",
+		"jp_CV": "悠木碧",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "192",
+		"jp_CV": "悠木碧",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "193",
+		"jp_CV": "悠木碧",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "194",
+		"jp_CV": "悠木碧",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "195",
+		"jp_CV": "植田佳奈",
+		"tr_CV": "",
+		"jp_name": "やみや",
+		"tr_name": ""
+	},
+	{
+		"chip": "196",
+		"jp_CV": "植田佳奈",
+		"tr_CV": "",
+		"jp_name": "やみや",
+		"tr_name": ""
+	},
+	{
+		"chip": "197",
+		"jp_CV": "Ｍ・Ａ・Ｏ",
+		"tr_CV": "",
+		"jp_name": "RARE ENGINE",
+		"tr_name": ""
+	},
+	{
+		"chip": "198",
+		"jp_CV": "Ｍ・Ａ・Ｏ",
+		"tr_CV": "",
+		"jp_name": "RARE ENGINE",
+		"tr_name": ""
+	},
+	{
+		"chip": "307",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "つなこ",
+		"tr_name": ""
+	},
+	{
+		"chip": "308",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "つなこ",
+		"tr_name": ""
+	},
+	{
+		"chip": "309",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "つなこ",
+		"tr_name": ""
+	},
+	{
+		"chip": "310",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "つなこ",
+		"tr_name": ""
+	},
+	{
+		"chip": "311",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "つなこ",
+		"tr_name": ""
+	},
+	{
+		"chip": "312",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "つなこ",
+		"tr_name": ""
+	},
+	{
+		"chip": "313",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "つなこ",
+		"tr_name": ""
+	},
+	{
+		"chip": "314",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "つなこ",
+		"tr_name": ""
+	},
+	{
+		"chip": "509",
+		"jp_CV": "花澤香菜",
+		"tr_CV": "",
+		"jp_name": "いちやん",
+		"tr_name": ""
+	},
+	{
+		"chip": "510",
+		"jp_CV": "花澤香菜",
+		"tr_CV": "",
+		"jp_name": "いちやん",
+		"tr_name": ""
+	},
+	{
+		"chip": "513",
+		"jp_CV": "喜多村英梨",
+		"tr_CV": "",
+		"jp_name": "うるし原智志",
+		"tr_name": ""
+	},
+	{
+		"chip": "514",
+		"jp_CV": "喜多村英梨",
+		"tr_CV": "",
+		"jp_name": "うるし原智志",
+		"tr_name": ""
+	},
+	{
+		"chip": "323",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "日本ファルコム",
+		"tr_name": ""
+	},
+	{
+		"chip": "324",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "日本ファルコム",
+		"tr_name": ""
+	},
+	{
+		"chip": "325",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "日本ファルコム",
+		"tr_name": ""
+	},
+	{
+		"chip": "326",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "日本ファルコム",
+		"tr_name": ""
+	},
+	{
+		"chip": "327",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "日本ファルコム",
+		"tr_name": ""
+	},
+	{
+		"chip": "328",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "日本ファルコム",
+		"tr_name": ""
+	},
+	{
+		"chip": "329",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "日本ファルコム",
+		"tr_name": ""
+	},
+	{
+		"chip": "330",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "日本ファルコム",
+		"tr_name": ""
+	},
+	{
+		"chip": "515",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "516",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "517",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "518",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "519",
+		"jp_CV": "金田朋子",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "520",
+		"jp_CV": "金田朋子",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "521",
+		"jp_CV": "種田梨沙",
+		"tr_CV": "",
+		"jp_name": "もちきん",
+		"tr_name": ""
+	},
+	{
+		"chip": "522",
+		"jp_CV": "種田梨沙",
+		"tr_CV": "",
+		"jp_name": "もちきん",
+		"tr_name": ""
+	},
+	{
+		"chip": "523",
+		"jp_CV": "悠木碧",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "524",
+		"jp_CV": "悠木碧",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "525",
+		"jp_CV": "豊崎愛生",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "526",
+		"jp_CV": "豊崎愛生",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "527",
+		"jp_CV": "佐藤聡美",
+		"tr_CV": "",
+		"jp_name": "やみや",
+		"tr_name": ""
+	},
+	{
+		"chip": "528",
+		"jp_CV": "佐藤聡美",
+		"tr_CV": "",
+		"jp_name": "やみや",
+		"tr_name": ""
+	},
+	{
+		"chip": "529",
+		"jp_CV": "木村珠莉",
+		"tr_CV": "",
+		"jp_name": "春乃壱",
+		"tr_name": ""
+	},
+	{
+		"chip": "530",
+		"jp_CV": "木村珠莉",
+		"tr_CV": "",
+		"jp_name": "春乃壱",
+		"tr_name": ""
+	},
+	{
+		"chip": "531",
+		"jp_CV": "竹達彩奈",
+		"tr_CV": "",
+		"jp_name": "三輪士郎",
+		"tr_name": ""
+	},
+	{
+		"chip": "532",
+		"jp_CV": "竹達彩奈",
+		"tr_CV": "",
+		"jp_name": "三輪士郎",
+		"tr_name": ""
+	},
+	{
+		"chip": "533",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "かねこしんや",
+		"tr_name": ""
+	},
+	{
+		"chip": "534",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "かねこしんや",
+		"tr_name": ""
+	},
+	{
+		"chip": "535",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "かねこしんや",
+		"tr_name": ""
+	},
+	{
+		"chip": "536",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "かねこしんや",
+		"tr_name": ""
+	},
+	{
+		"chip": "537",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "かねこしんや",
+		"tr_name": ""
+	},
+	{
+		"chip": "538",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "かねこしんや",
+		"tr_name": ""
+	},
+	{
+		"chip": "539",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "かねこしんや",
+		"tr_name": ""
+	},
+	{
+		"chip": "540",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "かねこしんや",
+		"tr_name": ""
+	},
+	{
+		"chip": "541",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "原田たけひと",
+		"tr_name": ""
+	},
+	{
+		"chip": "542",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "原田たけひと",
+		"tr_name": ""
+	},
+	{
+		"chip": "543",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "原田たけひと",
+		"tr_name": ""
+	},
+	{
+		"chip": "544",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "原田たけひと",
+		"tr_name": ""
+	},
+	{
+		"chip": "545",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "原田たけひと",
+		"tr_name": ""
+	},
+	{
+		"chip": "546",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "原田たけひと",
+		"tr_name": ""
+	},
+	{
+		"chip": "511",
+		"jp_CV": "豊崎愛生",
+		"tr_CV": "",
+		"jp_name": "tatsuya",
+		"tr_name": ""
+	},
+	{
+		"chip": "512",
+		"jp_CV": "豊崎愛生",
+		"tr_CV": "",
+		"jp_name": "tatsuya",
+		"tr_name": ""
+	},
+	{
+		"chip": "553",
+		"jp_CV": "緑川光",
+		"tr_CV": "",
+		"jp_name": "key-chang",
+		"tr_name": ""
+	},
+	{
+		"chip": "554",
+		"jp_CV": "緑川光",
+		"tr_CV": "",
+		"jp_name": "key-chang",
+		"tr_name": ""
+	},
+	{
+		"chip": "555",
+		"jp_CV": "喜多村英梨",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "556",
+		"jp_CV": "喜多村英梨",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "557",
+		"jp_CV": "岩澤俊樹",
+		"tr_CV": "",
+		"jp_name": "RARE ENGINE",
+		"tr_name": ""
+	},
+	{
+		"chip": "558",
+		"jp_CV": "岩澤俊樹",
+		"tr_CV": "",
+		"jp_name": "RARE ENGINE",
+		"tr_name": ""
+	},
+	{
+		"chip": "559",
+		"jp_CV": "雨宮天",
+		"tr_CV": "",
+		"jp_name": "よすがら翔",
+		"tr_name": ""
+	},
+	{
+		"chip": "560",
+		"jp_CV": "雨宮天",
+		"tr_CV": "",
+		"jp_name": "よすがら翔",
+		"tr_name": ""
+	},
+	{
+		"chip": "561",
+		"jp_CV": "雨宮天",
+		"tr_CV": "",
+		"jp_name": "高山箕犀",
+		"tr_name": ""
+	},
+	{
+		"chip": "562",
+		"jp_CV": "雨宮天",
+		"tr_CV": "",
+		"jp_name": "高山箕犀",
+		"tr_name": ""
+	},
+	{
+		"chip": "563",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "564",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "565",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "566",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "567",
+		"jp_CV": "喜多村英梨",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "568",
+		"jp_CV": "喜多村英梨",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "571",
+		"jp_CV": "新田恵海",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "572",
+		"jp_CV": "新田恵海",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "573",
+		"jp_CV": "諏訪彩花",
+		"tr_CV": "",
+		"jp_name": "もちきん",
+		"tr_name": ""
+	},
+	{
+		"chip": "574",
+		"jp_CV": "諏訪彩花",
+		"tr_CV": "",
+		"jp_name": "もちきん",
+		"tr_name": ""
+	},
+	{
+		"chip": "575",
+		"jp_CV": "飯田友子",
+		"tr_CV": "",
+		"jp_name": "汲田",
+		"tr_name": ""
+	},
+	{
+		"chip": "576",
+		"jp_CV": "飯田友子",
+		"tr_CV": "",
+		"jp_name": "汲田",
+		"tr_name": ""
+	},
+	{
+		"chip": "577",
+		"jp_CV": "喜多村英梨",
+		"tr_CV": "",
+		"jp_name": "いちやん",
+		"tr_name": ""
+	},
+	{
+		"chip": "578",
+		"jp_CV": "喜多村英梨",
+		"tr_CV": "",
+		"jp_name": "いちやん",
+		"tr_name": ""
+	},
+	{
+		"chip": "579",
+		"jp_CV": "井上喜久子",
+		"tr_CV": "",
+		"jp_name": "あんこ",
+		"tr_name": ""
+	},
+	{
+		"chip": "580",
+		"jp_CV": "井上喜久子",
+		"tr_CV": "",
+		"jp_name": "あんこ",
+		"tr_name": ""
+	},
+	{
+		"chip": "581",
+		"jp_CV": "花澤香菜",
+		"tr_CV": "",
+		"jp_name": "いとうのいぢ",
+		"tr_name": ""
+	},
+	{
+		"chip": "582",
+		"jp_CV": "花澤香菜",
+		"tr_CV": "",
+		"jp_name": "いとうのいぢ",
+		"tr_name": ""
+	},
+	{
+		"chip": "583",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "柴乃櫂人",
+		"tr_name": ""
+	},
+	{
+		"chip": "584",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "柴乃櫂人",
+		"tr_name": ""
+	},
+	{
+		"chip": "585",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "牛木義隆",
+		"tr_name": ""
+	},
+	{
+		"chip": "586",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "牛木義隆",
+		"tr_name": ""
+	},
+	{
+		"chip": "587",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "BUNBUN",
+		"tr_name": ""
+	},
+	{
+		"chip": "588",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "BUNBUN",
+		"tr_name": ""
+	},
+	{
+		"chip": "589",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "refeia",
+		"tr_name": ""
+	},
+	{
+		"chip": "590",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "refeia",
+		"tr_name": ""
+	},
+	{
+		"chip": "591",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "refeia",
+		"tr_name": ""
+	},
+	{
+		"chip": "592",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "refeia",
+		"tr_name": ""
+	},
+	{
+		"chip": "593",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "594",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "595",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "596",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "597",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "598",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "599",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "600",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "601",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "602",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "603",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "604",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "605",
+		"jp_CV": "高野麻里佳",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "606",
+		"jp_CV": "高野麻里佳",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "607",
+		"jp_CV": "巽悠衣子",
+		"tr_CV": "",
+		"jp_name": "Gia",
+		"tr_name": ""
+	},
+	{
+		"chip": "608",
+		"jp_CV": "巽悠衣子",
+		"tr_CV": "",
+		"jp_name": "Gia",
+		"tr_name": ""
+	},
+	{
+		"chip": "609",
+		"jp_CV": "高木友梨香",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "610",
+		"jp_CV": "高木友梨香",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "611",
+		"jp_CV": "小原莉子",
+		"tr_CV": "",
+		"jp_name": "よすがら翔",
+		"tr_name": ""
+	},
+	{
+		"chip": "612",
+		"jp_CV": "小原莉子",
+		"tr_CV": "",
+		"jp_name": "よすがら翔",
+		"tr_name": ""
+	},
+	{
+		"chip": "613",
+		"jp_CV": "巽悠衣子",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "614",
+		"jp_CV": "巽悠衣子",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "615",
+		"jp_CV": "佳村はるか",
+		"tr_CV": "",
+		"jp_name": "水無月徹 ",
+		"tr_name": ""
+	},
+	{
+		"chip": "616",
+		"jp_CV": "佳村はるか",
+		"tr_CV": "",
+		"jp_name": "水無月徹 ",
+		"tr_name": ""
+	},
+	{
+		"chip": "617",
+		"jp_CV": "長谷川唯",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "618",
+		"jp_CV": "長谷川唯",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "619",
+		"jp_CV": "小原莉子",
+		"tr_CV": "",
+		"jp_name": "よすがら翔",
+		"tr_name": ""
+	},
+	{
+		"chip": "620",
+		"jp_CV": "小原莉子",
+		"tr_CV": "",
+		"jp_name": "よすがら翔",
+		"tr_name": ""
+	},
+	{
+		"chip": "621",
+		"jp_CV": "高木友梨香",
+		"tr_CV": "",
+		"jp_name": "いちやん",
+		"tr_name": ""
+	},
+	{
+		"chip": "622",
+		"jp_CV": "高木友梨香",
+		"tr_CV": "",
+		"jp_name": "いちやん",
+		"tr_name": ""
+	},
+	{
+		"chip": "623",
+		"jp_CV": "会一太郎",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "624",
+		"jp_CV": "会一太郎",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "625",
+		"jp_CV": "瀬戸麻沙美",
+		"tr_CV": "",
+		"jp_name": "もちきん",
+		"tr_name": ""
+	},
+	{
+		"chip": "626",
+		"jp_CV": "瀬戸麻沙美",
+		"tr_CV": "",
+		"jp_name": "もちきん",
+		"tr_name": ""
+	},
+	{
+		"chip": "627",
+		"jp_CV": "井上和彦",
+		"tr_CV": "",
+		"jp_name": "本庄雷太",
+		"tr_name": ""
+	},
+	{
+		"chip": "628",
+		"jp_CV": "井上和彦",
+		"tr_CV": "",
+		"jp_name": "本庄雷太",
+		"tr_name": ""
+	},
+	{
+		"chip": "629",
+		"jp_CV": "榎本温子",
+		"tr_CV": "",
+		"jp_name": "オカズワ・シャケ",
+		"tr_name": ""
+	},
+	{
+		"chip": "630",
+		"jp_CV": "榎本温子",
+		"tr_CV": "",
+		"jp_name": "オカズワ・シャケ",
+		"tr_name": ""
+	},
+	{
+		"chip": "631",
+		"jp_CV": "高野麻里佳",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "632",
+		"jp_CV": "高野麻里佳",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "633",
+		"jp_CV": "梶裕貴",
+		"tr_CV": "",
+		"jp_name": "汲田",
+		"tr_name": ""
+	},
+	{
+		"chip": "634",
+		"jp_CV": "梶裕貴",
+		"tr_CV": "",
+		"jp_name": "汲田",
+		"tr_name": ""
+	},
+	{
+		"chip": "635",
+		"jp_CV": "神原大地",
+		"tr_CV": "",
+		"jp_name": "tatsuya",
+		"tr_name": ""
+	},
+	{
+		"chip": "636",
+		"jp_CV": "神原大地",
+		"tr_CV": "",
+		"jp_name": "tatsuya",
+		"tr_name": ""
+	},
+	{
+		"chip": "637",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "638",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "639",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "640",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "641",
+		"jp_CV": "桃井はるこ",
+		"tr_CV": "",
+		"jp_name": "Izumi",
+		"tr_name": ""
+	},
+	{
+		"chip": "642",
+		"jp_CV": "桃井はるこ",
+		"tr_CV": "",
+		"jp_name": "Izumi",
+		"tr_name": ""
+	},
+	{
+		"chip": "643",
+		"jp_CV": "村川梨衣",
+		"tr_CV": "",
+		"jp_name": "うるし原智志",
+		"tr_name": ""
+	},
+	{
+		"chip": "644",
+		"jp_CV": "村川梨衣",
+		"tr_CV": "",
+		"jp_name": "うるし原智志",
+		"tr_name": ""
+	},
+	{
+		"chip": "645",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "646",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "651",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "652",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "653",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "654",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "655",
+		"jp_CV": "佳村はるか",
+		"tr_CV": "",
+		"jp_name": "本庄雷太",
+		"tr_name": ""
+	},
+	{
+		"chip": "656",
+		"jp_CV": "佳村はるか",
+		"tr_CV": "",
+		"jp_name": "本庄雷太",
+		"tr_name": ""
+	},
+	{
+		"chip": "657",
+		"jp_CV": "井口裕香",
+		"tr_CV": "",
+		"jp_name": "とき",
+		"tr_name": ""
+	},
+	{
+		"chip": "658",
+		"jp_CV": "井口裕香",
+		"tr_CV": "",
+		"jp_name": "とき",
+		"tr_name": ""
+	},
+	{
+		"chip": "659",
+		"jp_CV": "木村珠莉",
+		"tr_CV": "",
+		"jp_name": "singi",
+		"tr_name": ""
+	},
+	{
+		"chip": "660",
+		"jp_CV": "木村珠莉",
+		"tr_CV": "",
+		"jp_name": "singi",
+		"tr_name": ""
+	},
+	{
+		"chip": "661",
+		"jp_CV": "島﨑信長",
+		"tr_CV": "",
+		"jp_name": "domco.",
+		"tr_name": ""
+	},
+	{
+		"chip": "662",
+		"jp_CV": "島﨑信長",
+		"tr_CV": "",
+		"jp_name": "domco.",
+		"tr_name": ""
+	},
+	{
+		"chip": "663",
+		"jp_CV": "高木友梨香",
+		"tr_CV": "",
+		"jp_name": "Fu-mi.A",
+		"tr_name": ""
+	},
+	{
+		"chip": "664",
+		"jp_CV": "高木友梨香",
+		"tr_CV": "",
+		"jp_name": "Fu-mi.A",
+		"tr_name": ""
+	},
+	{
+		"chip": "665",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "666",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "667",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "668",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "669",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "670",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "671",
+		"jp_CV": "榎本温子",
+		"tr_CV": "",
+		"jp_name": "かねこしんや",
+		"tr_name": ""
+	},
+	{
+		"chip": "672",
+		"jp_CV": "榎本温子",
+		"tr_CV": "",
+		"jp_name": "かねこしんや",
+		"tr_name": ""
+	},
+	{
+		"chip": "673",
+		"jp_CV": "小原莉子",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "674",
+		"jp_CV": "小原莉子",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "675",
+		"jp_CV": "長谷川唯",
+		"tr_CV": "",
+		"jp_name": "オカズワ・シャケ",
+		"tr_name": ""
+	},
+	{
+		"chip": "676",
+		"jp_CV": "長谷川唯",
+		"tr_CV": "",
+		"jp_name": "オカズワ・シャケ",
+		"tr_name": ""
+	},
+	{
+		"chip": "677",
+		"jp_CV": "高野麻里佳",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "678",
+		"jp_CV": "高野麻里佳",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "679",
+		"jp_CV": "吉野裕行",
+		"tr_CV": "",
+		"jp_name": "村カルキ",
+		"tr_name": ""
+	},
+	{
+		"chip": "680",
+		"jp_CV": "吉野裕行",
+		"tr_CV": "",
+		"jp_name": "村カルキ",
+		"tr_name": ""
+	},
+	{
+		"chip": "681",
+		"jp_CV": "梶裕貴",
+		"tr_CV": "",
+		"jp_name": "春乃壱",
+		"tr_name": ""
+	},
+	{
+		"chip": "682",
+		"jp_CV": "梶裕貴",
+		"tr_CV": "",
+		"jp_name": "春乃壱",
+		"tr_name": ""
+	},
+	{
+		"chip": "683",
+		"jp_CV": "佐藤聡美",
+		"tr_CV": "",
+		"jp_name": "紅林のえ",
+		"tr_name": ""
+	},
+	{
+		"chip": "684",
+		"jp_CV": "佐藤聡美",
+		"tr_CV": "",
+		"jp_name": "紅林のえ",
+		"tr_name": ""
+	},
+	{
+		"chip": "687",
+		"jp_CV": "玄田哲章",
+		"tr_CV": "",
+		"jp_name": "tatsuya",
+		"tr_name": ""
+	},
+	{
+		"chip": "688",
+		"jp_CV": "玄田哲章",
+		"tr_CV": "",
+		"jp_name": "tatsuya",
+		"tr_name": ""
+	},
+	{
+		"chip": "689",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "690",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "691",
+		"jp_CV": "飯田友子",
+		"tr_CV": "",
+		"jp_name": "mamuru",
+		"tr_name": ""
+	},
+	{
+		"chip": "692",
+		"jp_CV": "飯田友子",
+		"tr_CV": "",
+		"jp_name": "mamuru",
+		"tr_name": ""
+	},
+	{
+		"chip": "693",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "694",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "697",
+		"jp_CV": "井上喜久子",
+		"tr_CV": "",
+		"jp_name": "Fu-mi.A",
+		"tr_name": ""
+	},
+	{
+		"chip": "698",
+		"jp_CV": "井上喜久子",
+		"tr_CV": "",
+		"jp_name": "Fu-mi.A",
+		"tr_name": ""
+	},
+	{
+		"chip": "703",
+		"jp_CV": "飯田友子",
+		"tr_CV": "",
+		"jp_name": "むりょたろ",
+		"tr_name": ""
+	},
+	{
+		"chip": "704",
+		"jp_CV": "飯田友子",
+		"tr_CV": "",
+		"jp_name": "むりょたろ",
+		"tr_name": ""
+	},
+	{
+		"chip": "707",
+		"jp_CV": "小西克幸",
+		"tr_CV": "",
+		"jp_name": "雪子",
+		"tr_name": ""
+	},
+	{
+		"chip": "708",
+		"jp_CV": "小西克幸",
+		"tr_CV": "",
+		"jp_name": "雪子",
+		"tr_name": ""
+	},
+	{
+		"chip": "709",
+		"jp_CV": "梶裕貴",
+		"tr_CV": "",
+		"jp_name": "隼優紀",
+		"tr_name": ""
+	},
+	{
+		"chip": "710",
+		"jp_CV": "梶裕貴",
+		"tr_CV": "",
+		"jp_name": "隼優紀",
+		"tr_name": ""
+	},
+	{
+		"chip": "711",
+		"jp_CV": "櫻井孝宏",
+		"tr_CV": "",
+		"jp_name": "NAO.",
+		"tr_name": ""
+	},
+	{
+		"chip": "712",
+		"jp_CV": "櫻井孝宏",
+		"tr_CV": "",
+		"jp_name": "NAO.",
+		"tr_name": ""
+	},
+	{
+		"chip": "713",
+		"jp_CV": "緑川光",
+		"tr_CV": "",
+		"jp_name": "domco.",
+		"tr_name": ""
+	},
+	{
+		"chip": "714",
+		"jp_CV": "緑川光",
+		"tr_CV": "",
+		"jp_name": "domco.",
+		"tr_name": ""
+	},
+	{
+		"chip": "715",
+		"jp_CV": "桃井はるこ",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "716",
+		"jp_CV": "桃井はるこ",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "717",
+		"jp_CV": "瀬戸麻沙美",
+		"tr_CV": "",
+		"jp_name": "やみや",
+		"tr_name": ""
+	},
+	{
+		"chip": "718",
+		"jp_CV": "瀬戸麻沙美",
+		"tr_CV": "",
+		"jp_name": "やみや",
+		"tr_name": ""
+	},
+	{
+		"chip": "719",
+		"jp_CV": "佐藤聡美",
+		"tr_CV": "",
+		"jp_name": "うーた",
+		"tr_name": ""
+	},
+	{
+		"chip": "720",
+		"jp_CV": "佐藤聡美",
+		"tr_CV": "",
+		"jp_name": "うーた",
+		"tr_name": ""
+	},
+	{
+		"chip": "721",
+		"jp_CV": "斎藤千和",
+		"tr_CV": "",
+		"jp_name": "紅林のえ",
+		"tr_name": ""
+	},
+	{
+		"chip": "722",
+		"jp_CV": "斎藤千和",
+		"tr_CV": "",
+		"jp_name": "紅林のえ",
+		"tr_name": ""
+	},
+	{
+		"chip": "723",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "724",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "725",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "726",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "727",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "728",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "729",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "730",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "731",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "732",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "733",
+		"jp_CV": "長谷川唯",
+		"tr_CV": "",
+		"jp_name": "やみや",
+		"tr_name": ""
+	},
+	{
+		"chip": "734",
+		"jp_CV": "長谷川唯",
+		"tr_CV": "",
+		"jp_name": "やみや",
+		"tr_name": ""
+	},
+	{
+		"chip": "735",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "736",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "737",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "738",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "739",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "740",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "741",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "742",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "743",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "744",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "745",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "746",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "747",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "748",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "749",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "750",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "751",
+		"jp_CV": "豊口めぐみ",
+		"tr_CV": "",
+		"jp_name": "日野慎之助",
+		"tr_name": ""
+	},
+	{
+		"chip": "752",
+		"jp_CV": "豊口めぐみ",
+		"tr_CV": "",
+		"jp_name": "日野慎之助",
+		"tr_name": ""
+	},
+	{
+		"chip": "753",
+		"jp_CV": "斎藤千和",
+		"tr_CV": "",
+		"jp_name": "toi8",
+		"tr_name": ""
+	},
+	{
+		"chip": "754",
+		"jp_CV": "斎藤千和",
+		"tr_CV": "",
+		"jp_name": "toi8",
+		"tr_name": ""
+	},
+	{
+		"chip": "755",
+		"jp_CV": "蒼井翔太",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "756",
+		"jp_CV": "蒼井翔太",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "757",
+		"jp_CV": "諏訪彩花",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "758",
+		"jp_CV": "諏訪彩花",
+		"tr_CV": "",
+		"jp_name": "Jaguar",
+		"tr_name": ""
+	},
+	{
+		"chip": "759",
+		"jp_CV": "喜多村英梨",
+		"tr_CV": "",
+		"jp_name": "コナタ エル",
+		"tr_name": ""
+	},
+	{
+		"chip": "760",
+		"jp_CV": "喜多村英梨",
+		"tr_CV": "",
+		"jp_name": "コナタ エル",
+		"tr_name": ""
+	},
+	{
+		"chip": "761",
+		"jp_CV": "櫻井孝宏",
+		"tr_CV": "",
+		"jp_name": "RARE ENGINE",
+		"tr_name": ""
+	},
+	{
+		"chip": "762",
+		"jp_CV": "櫻井孝宏",
+		"tr_CV": "",
+		"jp_name": "RARE ENGINE",
+		"tr_name": ""
+	},
+	{
+		"chip": "763",
+		"jp_CV": "佳村はるか",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "764",
+		"jp_CV": "佳村はるか",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "765",
+		"jp_CV": "佐藤聡美",
+		"tr_CV": "",
+		"jp_name": "Fu-mi.A",
+		"tr_name": ""
+	},
+	{
+		"chip": "766",
+		"jp_CV": "佐藤聡美",
+		"tr_CV": "",
+		"jp_name": "Fu-mi.A",
+		"tr_name": ""
+	},
+	{
+		"chip": "767",
+		"jp_CV": "会一太郎",
+		"tr_CV": "",
+		"jp_name": "屑星ひかる",
+		"tr_name": ""
+	},
+	{
+		"chip": "768",
+		"jp_CV": "会一太郎",
+		"tr_CV": "",
+		"jp_name": "屑星ひかる",
+		"tr_name": ""
+	},
+	{
+		"chip": "769",
+		"jp_CV": "立花理香",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "770",
+		"jp_CV": "立花理香",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "771",
+		"jp_CV": "豊口めぐみ",
+		"tr_CV": "",
+		"jp_name": "むりょたろ",
+		"tr_name": ""
+	},
+	{
+		"chip": "772",
+		"jp_CV": "豊口めぐみ",
+		"tr_CV": "",
+		"jp_name": "むりょたろ",
+		"tr_name": ""
+	},
+	{
+		"chip": "773",
+		"jp_CV": "小林ゆう",
+		"tr_CV": "",
+		"jp_name": "春風卯",
+		"tr_name": ""
+	},
+	{
+		"chip": "774",
+		"jp_CV": "小林ゆう",
+		"tr_CV": "",
+		"jp_name": "春風卯",
+		"tr_name": ""
+	},
+	{
+		"chip": "781",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "782",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "783",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "784",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "785",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "786",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "787",
+		"jp_CV": "村川梨衣",
+		"tr_CV": "",
+		"jp_name": "屑星ひかる",
+		"tr_name": ""
+	},
+	{
+		"chip": "788",
+		"jp_CV": "村川梨衣",
+		"tr_CV": "",
+		"jp_name": "屑星ひかる",
+		"tr_name": ""
+	},
+	{
+		"chip": "789",
+		"jp_CV": "小林ゆう",
+		"tr_CV": "",
+		"jp_name": "Fu-mi.A",
+		"tr_name": ""
+	},
+	{
+		"chip": "790",
+		"jp_CV": "小林ゆう",
+		"tr_CV": "",
+		"jp_name": "Fu-mi.A",
+		"tr_name": ""
+	},
+	{
+		"chip": "51",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "52",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "57",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "58",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "59",
+		"jp_CV": "立花理香",
+		"tr_CV": "",
+		"jp_name": "うーた",
+		"tr_name": ""
+	},
+	{
+		"chip": "60",
+		"jp_CV": "立花理香",
+		"tr_CV": "",
+		"jp_name": "うーた",
+		"tr_name": ""
+	},
+	{
+		"chip": "61",
+		"jp_CV": "梶裕貴",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "62",
+		"jp_CV": "梶裕貴",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "65",
+		"jp_CV": "山下大毅",
+		"tr_CV": "",
+		"jp_name": "Fu-mi.A",
+		"tr_name": ""
+	},
+	{
+		"chip": "66",
+		"jp_CV": "山下大毅",
+		"tr_CV": "",
+		"jp_name": "Fu-mi.A",
+		"tr_name": ""
+	},
+	{
+		"chip": "71",
+		"jp_CV": "新田恵海",
+		"tr_CV": "",
+		"jp_name": "たいちょ",
+		"tr_name": ""
+	},
+	{
+		"chip": "72",
+		"jp_CV": "新田恵海",
+		"tr_CV": "",
+		"jp_name": "たいちょ",
+		"tr_name": ""
+	},
+	{
+		"chip": "73",
+		"jp_CV": "立花理香",
+		"tr_CV": "",
+		"jp_name": "むりょたろ",
+		"tr_name": ""
+	},
+	{
+		"chip": "74",
+		"jp_CV": "立花理香",
+		"tr_CV": "",
+		"jp_name": "むりょたろ",
+		"tr_name": ""
+	},
+	{
+		"chip": "791",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "792",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "793",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "794",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "795",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "796",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "797",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "798",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "799",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "800",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "75",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "76",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "77",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "78",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "(C)S/PSP",
+		"tr_name": ""
+	},
+	{
+		"chip": "299",
+		"jp_CV": "小林ゆう",
+		"tr_CV": "",
+		"jp_name": "toi8",
+		"tr_name": ""
+	},
+	{
+		"chip": "300",
+		"jp_CV": "小林ゆう",
+		"tr_CV": "",
+		"jp_name": "toi8",
+		"tr_name": ""
+	},
+	{
+		"chip": "301",
+		"jp_CV": "山下大毅",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "302",
+		"jp_CV": "山下大毅",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "303",
+		"jp_CV": "木村珠莉",
+		"tr_CV": "",
+		"jp_name": "やみや",
+		"tr_name": ""
+	},
+	{
+		"chip": "304",
+		"jp_CV": "木村珠莉",
+		"tr_CV": "",
+		"jp_name": "やみや",
+		"tr_name": ""
+	},
+	{
+		"chip": "305",
+		"jp_CV": "斎藤千和",
+		"tr_CV": "",
+		"jp_name": "成海クリス",
+		"tr_name": ""
+	},
+	{
+		"chip": "306",
+		"jp_CV": "斎藤千和",
+		"tr_CV": "",
+		"jp_name": "成海クリス",
+		"tr_name": ""
+	},
+	{
+		"chip": "547",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "548",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "549",
+		"jp_CV": "山下大毅",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "550",
+		"jp_CV": "山下大毅",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "551",
+		"jp_CV": "雨宮天",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "552",
+		"jp_CV": "雨宮天",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "569",
+		"jp_CV": "神原大地",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "570",
+		"jp_CV": "神原大地",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "651",
+		"jp_CV": "豊口めぐみ",
+		"tr_CV": "",
+		"jp_name": "紅林のえ",
+		"tr_name": ""
+	},
+	{
+		"chip": "652",
+		"jp_CV": "豊口めぐみ",
+		"tr_CV": "",
+		"jp_name": "紅林のえ",
+		"tr_name": ""
+	},
+	{
+		"chip": "665",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "666",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "669",
+		"jp_CV": "小林ゆう",
+		"tr_CV": "",
+		"jp_name": "tatsuya",
+		"tr_name": ""
+	},
+	{
+		"chip": "670",
+		"jp_CV": "小林ゆう",
+		"tr_CV": "",
+		"jp_name": "tatsuya",
+		"tr_name": ""
+	},
+	{
+		"chip": "685",
+		"jp_CV": "甲斐田裕子",
+		"tr_CV": "",
+		"jp_name": "オカズワ・シャケ",
+		"tr_name": ""
+	},
+	{
+		"chip": "686",
+		"jp_CV": "甲斐田裕子",
+		"tr_CV": "",
+		"jp_name": "オカズワ・シャケ",
+		"tr_name": ""
+	},
+	{
+		"chip": "695",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "696",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "705",
+		"jp_CV": "木村珠莉",
+		"tr_CV": "",
+		"jp_name": "いちやん",
+		"tr_name": ""
+	},
+	{
+		"chip": "706",
+		"jp_CV": "木村珠莉",
+		"tr_CV": "",
+		"jp_name": "いちやん",
+		"tr_name": ""
+	},
+	{
+		"chip": "7001",
+		"jp_CV": "柿原徹也",
+		"tr_CV": "",
+		"jp_name": "結川カズノ",
+		"tr_name": ""
+	},
+	{
+		"chip": "7002",
+		"jp_CV": "柿原徹也",
+		"tr_CV": "",
+		"jp_name": "結川カズノ",
+		"tr_name": ""
+	},
+	{
+		"chip": "7003",
+		"jp_CV": "市来光弘",
+		"tr_CV": "",
+		"jp_name": "Fu-mi.A",
+		"tr_name": ""
+	},
+	{
+		"chip": "7004",
+		"jp_CV": "市来光弘",
+		"tr_CV": "",
+		"jp_name": "Fu-mi.A",
+		"tr_name": ""
+	},
+	{
+		"chip": "7005",
+		"jp_CV": "瀬戸英里奈",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "7006",
+		"jp_CV": "瀬戸英里奈",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "7007",
+		"jp_CV": "緑川優美",
+		"tr_CV": "",
+		"jp_name": "成海クリス",
+		"tr_name": ""
+	},
+	{
+		"chip": "7008",
+		"jp_CV": "緑川優美",
+		"tr_CV": "",
+		"jp_name": "成海クリス",
+		"tr_name": ""
+	},
+	{
+		"chip": "7009",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "7010",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "7011",
+		"jp_CV": "斉藤朱夏",
+		"tr_CV": "",
+		"jp_name": "むりょたろ",
+		"tr_name": ""
+	},
+	{
+		"chip": "7012",
+		"jp_CV": "斉藤朱夏",
+		"tr_CV": "",
+		"jp_name": "むりょたろ",
+		"tr_name": ""
+	},
+	{
+		"chip": "7013",
+		"jp_CV": "櫻井孝宏",
+		"tr_CV": "",
+		"jp_name": "村カルキ",
+		"tr_name": ""
+	},
+	{
+		"chip": "7014",
+		"jp_CV": "櫻井孝宏",
+		"tr_CV": "",
+		"jp_name": "村カルキ",
+		"tr_name": ""
+	},
+	{
+		"chip": "7015",
+		"jp_CV": "市来光弘",
+		"tr_CV": "",
+		"jp_name": "村カルキ",
+		"tr_name": ""
+	},
+	{
+		"chip": "7016",
+		"jp_CV": "市来光弘",
+		"tr_CV": "",
+		"jp_name": "村カルキ",
+		"tr_name": ""
+	},
+	{
+		"chip": "7017",
+		"jp_CV": "山岡ゆり",
+		"tr_CV": "",
+		"jp_name": "いちやん",
+		"tr_name": ""
+	},
+	{
+		"chip": "7018",
+		"jp_CV": "山岡ゆり",
+		"tr_CV": "",
+		"jp_name": "いちやん",
+		"tr_name": ""
+	},
+	{
+		"chip": "7019",
+		"jp_CV": "山岡ゆり",
+		"tr_CV": "",
+		"jp_name": "よすがら翔",
+		"tr_name": ""
+	},
+	{
+		"chip": "7020",
+		"jp_CV": "山岡ゆり",
+		"tr_CV": "",
+		"jp_name": "よすがら翔",
+		"tr_name": ""
+	},
+	{
+		"chip": "7021",
+		"jp_CV": "緑川優美",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "7022",
+		"jp_CV": "緑川優美",
+		"tr_CV": "",
+		"jp_name": "すろうす",
+		"tr_name": ""
+	},
+	{
+		"chip": "7023",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ぬまこ",
+		"tr_name": ""
+	},
+	{
+		"chip": "7024",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ぬまこ",
+		"tr_name": ""
+	},
+	{
+		"chip": "7025",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "7026",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "7027",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "7028",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "7029",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "7030",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "7031",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "7032",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ＰＳＯ２アートワークチーム",
+		"tr_name": ""
+	},
+	{
+		"chip": "7033",
+		"jp_CV": "市来光弘",
+		"tr_CV": "",
+		"jp_name": "いちやん",
+		"tr_name": ""
+	},
+	{
+		"chip": "7034",
+		"jp_CV": "市来光弘",
+		"tr_CV": "",
+		"jp_name": "いちやん",
+		"tr_name": ""
+	},
+	{
+		"chip": "7035",
+		"jp_CV": "瀬戸英里奈",
+		"tr_CV": "",
+		"jp_name": "domco.",
+		"tr_name": ""
+	},
+	{
+		"chip": "7036",
+		"jp_CV": "瀬戸英里奈",
+		"tr_CV": "",
+		"jp_name": "domco.",
+		"tr_name": ""
+	},
+	{
+		"chip": "7037",
+		"jp_CV": "斉藤朱夏",
+		"tr_CV": "",
+		"jp_name": "tatsuya",
+		"tr_name": ""
+	},
+	{
+		"chip": "7038",
+		"jp_CV": "斉藤朱夏",
+		"tr_CV": "",
+		"jp_name": "tatsuya",
+		"tr_name": ""
+	},
+	{
+		"chip": "7039",
+		"jp_CV": "甲斐田裕子",
+		"tr_CV": "",
+		"jp_name": "Gia",
+		"tr_name": ""
+	},
+	{
+		"chip": "7040",
+		"jp_CV": "甲斐田裕子",
+		"tr_CV": "",
+		"jp_name": "Gia",
+		"tr_name": ""
+	},
+	{
+		"chip": "7041",
+		"jp_CV": "甲斐田裕子",
+		"tr_CV": "",
+		"jp_name": "ヤマアラシ",
+		"tr_name": ""
+	},
+	{
+		"chip": "7042",
+		"jp_CV": "甲斐田裕子",
+		"tr_CV": "",
+		"jp_name": "ヤマアラシ",
+		"tr_name": ""
+	},
+	{
+		"chip": "7043",
+		"jp_CV": "雨宮天",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "7044",
+		"jp_CV": "雨宮天",
+		"tr_CV": "",
+		"jp_name": "Nidy-2D-",
+		"tr_name": ""
+	},
+	{
+		"chip": "7045",
+		"jp_CV": "緑川優美",
+		"tr_CV": "",
+		"jp_name": "Gia",
+		"tr_name": ""
+	},
+	{
+		"chip": "7046",
+		"jp_CV": "緑川優美",
+		"tr_CV": "",
+		"jp_name": "Gia",
+		"tr_name": ""
+	},
+	{
+		"chip": "7047",
+		"jp_CV": "甲斐田裕子",
+		"tr_CV": "",
+		"jp_name": "やみや",
+		"tr_name": ""
+	},
+	{
+		"chip": "7048",
+		"jp_CV": "甲斐田裕子",
+		"tr_CV": "",
+		"jp_name": "やみや",
+		"tr_name": ""
+	},
+	{
+		"chip": "7049",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ヤスダスズヒト",
+		"tr_name": ""
+	},
+	{
+		"chip": "7050",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ヤスダスズヒト",
+		"tr_name": ""
+	},
+	{
+		"chip": "7051",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ヤスダスズヒト",
+		"tr_name": ""
+	},
+	{
+		"chip": "7052",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ヤスダスズヒト",
+		"tr_name": ""
+	},
+	{
+		"chip": "7053",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ヤスダスズヒト",
+		"tr_name": ""
+	},
+	{
+		"chip": "7054",
+		"jp_CV": "NULL",
+		"tr_CV": "",
+		"jp_name": "ヤスダスズヒト",
+		"tr_name": ""
+	},
+	{
+		"chip": "7055",
+		"jp_CV": "山岡ゆり",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "7056",
+		"jp_CV": "山岡ゆり",
+		"tr_CV": "",
+		"jp_name": "かにぱんだ",
+		"tr_name": ""
+	},
+	{
+		"chip": "7057",
+		"jp_CV": "斉藤朱夏",
+		"tr_CV": "",
+		"jp_name": "ヤマアラシ",
+		"tr_name": ""
+	},
+	{
+		"chip": "7058",
+		"jp_CV": "斉藤朱夏",
+		"tr_CV": "",
+		"jp_name": "ヤマアラシ",
+		"tr_name": ""
+	}
+]

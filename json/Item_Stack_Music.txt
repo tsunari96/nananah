@@ -1,0 +1,3684 @@
+[
+	{
+		"assign": "31900",
+		"jp_text": "PSO2 メインテーマ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃０１\n『メインテーマフル』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31901",
+		"jp_text": "Our Fighting",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃３６\n『Our Fighting』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31902",
+		"jp_text": "永遠のencore",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃３７\n『永遠のencore』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31903",
+		"jp_text": "PSO2 メインテーマVer2",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１９\n『PSO2 メインテーマVer2』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31904",
+		"jp_text": "PSO2 イベント「楽」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃４２\n『A Little Phenomenon』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31905",
+		"jp_text": "PSO2 イベント「怒」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃４６\n『Quietly Decision』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31906",
+		"jp_text": "PSO2 イベント「哀」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃７９\n『Adagio Distress』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31907",
+		"jp_text": "PSO2 イベント「勇壮」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃８３\n『Indomitable Will』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31908",
+		"jp_text": "PSO2 イベント「不安1」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃８０\n『Awakening』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "31909",
+		"jp_text": "Marriage",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃１４\n『Marriage』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319010",
+		"jp_text": "PSO2 イベント「不安2」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃８１\n『Ominous』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319011",
+		"jp_text": "PSO2 イベント「激情」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃８４\n『Uncontrollable Feelings』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319012",
+		"jp_text": "PSO2 イベント「出撃」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃８５\n『Path toward Justice』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319013",
+		"jp_text": "PSO2 イベント「マトイ」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃８６\n『Matoi』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319014",
+		"jp_text": "PSO2 イベント「日常」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃４３\n『Frequency Current』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319015",
+		"jp_text": "PSO2 イベント「シオン」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃４４\n『Xion』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319016",
+		"jp_text": "PSO2 イベント「【巨躯】」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃８７\n『Dark Falz - the Elder -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319019",
+		"jp_text": "PSO2 イベント「ルーサー」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃８８\n『Luther』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319020",
+		"jp_text": "PSO2 イベント「シリアス１」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃８９\n『A Fraction of Truth -small ensemble』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319022",
+		"jp_text": "PSO2 メインテーマVer3",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃３５\n『Resonant Nation』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319023",
+		"jp_text": "PSO2 タイトル画面曲",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃３８\n『A Lyric for Everlasting Story』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319024",
+		"jp_text": "PSO2 キャラクタークリエイト",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃３９\n『Meet Your Individual』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319025",
+		"jp_text": "PSO2 イベント「ダーカー」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃４０\n『DARKER』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319026",
+		"jp_text": "PSO2 イベント「喜」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃４５\n『Bright Symphony』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319027",
+		"jp_text": "PSO2 イベント「六芒均衡」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃４７\n『六芒均衡 - 勇者の帰還 -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319028",
+		"jp_text": "PSO2 イベント「オラクル２」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃４８\n『Resurrection』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319029",
+		"jp_text": "PSO2 イベント「再誕の日」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃４９\n『Ray of Promise』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319030",
+		"jp_text": "PSO2 イベント「ＥＤ劇伴」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃５０\n『My Secret Prayer』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319031",
+		"jp_text": "PSO2 イベント「灰ノ光」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃５１\n『灰ノ光』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319032",
+		"jp_text": "Living on like stars",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃５２\n『Living on like stars』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319033",
+		"jp_text": "終わりなき物語",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃５３\n『終わりなき物語』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319034",
+		"jp_text": "Our Fighting ver. MIYABI",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃５４\n『Our Fighting ver. MIYABI』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319035",
+		"jp_text": "採掘基地防衛戦1",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃５５（曲調変更可）\n『採掘基地防衛戦（通常）』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319036",
+		"jp_text": "採掘基地防衛戦2",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃５６（曲調変更可）\n『採掘基地防衛戦（ピンチ）』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319037",
+		"jp_text": "採掘基地防衛戦3",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃５７（曲調変更可）\n『採掘基地防衛戦（通常＋AIS）』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319038",
+		"jp_text": "採掘基地防衛戦4",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃５８（曲調変更可）\n『採掘基地防衛戦（ピンチ＋AIS）』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319039",
+		"jp_text": "PSO2 メインテーマVer4",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃８２\n『天疾走ル風』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319040",
+		"jp_text": "ナベリウス-森林",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃０３（曲調変更可）\n『ナベリウス-森林』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319041",
+		"jp_text": "ナベリウス-凍土",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃０４（曲調変更可）\n『ナベリウス-凍土』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319042",
+		"jp_text": "ナベリウス-遺跡",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃０５（曲調変更可）\n『ナベリウス-遺跡』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319043",
+		"jp_text": "アムドゥスキア-火山洞窟",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃０６（曲調変更可）\n『アムドゥスキア-火山洞窟』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319044",
+		"jp_text": "アムドゥスキア-浮遊大陸",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃０７（曲調変更可）\n『アムドゥスキア-浮遊大陸』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319045",
+		"jp_text": "アムドゥスキア-龍祭壇",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃０８（曲調変更可）\n『アムドゥスキア-龍祭壇』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319046",
+		"jp_text": "リリーパ-砂漠",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃０９（曲調変更可）\n『リリーパ-砂漠』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319047",
+		"jp_text": "リリーパ-地下坑道",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０（曲調変更可）\n『リリーパ-地下坑道』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319048",
+		"jp_text": "リリーパ-採掘場跡",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１１（曲調変更可）\n『リリーパ-採掘場跡』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319049",
+		"jp_text": "ウォパル-海岸",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１２（曲調変更可）\n『ウォパル-海岸』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319050",
+		"jp_text": "ウォパル-海底",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１３（曲調変更可）\n『ウォパル-海底』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319051",
+		"jp_text": "市街地",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１４（曲調変更可）\n『市街地』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319052",
+		"jp_text": "ダーカーの巣窟",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１５（曲調変更可）\n『ダーカーの巣窟』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319053",
+		"jp_text": "パラレルエリア",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１６（曲調変更可）\n『パラレルエリア』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319054",
+		"jp_text": "アークスシップ甲板",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１７（曲調変更可）\n『アークスシップ甲板』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319055",
+		"jp_text": "エクストリームステージ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１８（曲調変更可）\n『エクストリームステージ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319056",
+		"jp_text": "マザーシップ-前半",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃５９（曲調変更可）\n『マザーシップ-前半』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319057",
+		"jp_text": "マザーシップ-後半",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃６０（曲調変更可）\n『マザーシップ-後半』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319058",
+		"jp_text": "マザーシップ-内部",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃６１（曲調変更可）\n『Acheron』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319059",
+		"jp_text": "ハルコタン-白ノ領域",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃６２（曲調変更可）\n『ハルコタン-白ノ領域』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319060",
+		"jp_text": "ハルコタン-Ｅトライアル",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃６３（曲調変更可）\n『黒焔ノ輪』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319061",
+		"jp_text": "カジノラウンジ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃６４\n『Casino Lounge』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319062",
+		"jp_text": "カジノロビー",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃６５\n『Casino Lobby』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319065",
+		"jp_text": "ウォパル-浮上施設",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃６８\n『Floating Facility Probe - Wopal -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319066",
+		"jp_text": "ナベリウス-アルティメット",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃６９\n『Calamity Border Probe - Naberius -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319067",
+		"jp_text": "チャレンジクエスト",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１００\n『Challenge Area Probe』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319068",
+		"jp_text": "リリーパ-アルティメット",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃９１\n『Calamity Border Probe - Lilipur -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319069",
+		"jp_text": "ハルコタン-黒ノ領域",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃９２\n『黒ノ領域』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319070",
+		"jp_text": "通常ボス戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２０（曲調変更可）\n『通常ボス戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319071",
+		"jp_text": "ヴォル・ドラゴン戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２１（曲調変更可）\n『ヴォル・ドラゴン戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319072",
+		"jp_text": "ファングバンサー戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２２（曲調変更可）\n『ファングバンサー戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319073",
+		"jp_text": "ダーク・ラグネ戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２３（曲調変更可）\n『ダーク・ラグネ戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319074",
+		"jp_text": "ビッグ・ヴァーダー戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２４（曲調変更可）\n『ビッグ・ヴァーダー戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319075",
+		"jp_text": "クォーツ・ドラゴン戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２５（曲調変更可）\n『クォーツ・ドラゴン戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319076",
+		"jp_text": "ゼッシュレイダ戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２６（曲調変更可）\n『ゼッシュレイダ戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319077",
+		"jp_text": "ドラゴン・エクス戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２７（曲調変更可）\n『ドラゴン・エクス戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319078",
+		"jp_text": "クローム・ドラゴン戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２８（曲調変更可）\n『クローム・ドラゴン戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319079",
+		"jp_text": "ファルス・ヒューナル戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃２９（曲調変更可）\n『Violent Dynasty - Falz Hunar -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319080",
+		"jp_text": "ファルス・アーム戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃３０（曲調変更可）\n『Falz Arm』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319081",
+		"jp_text": "巨躯戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃３１（曲調変更可）\n『\"IDOLA\" da Sledge of Destruction』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319082",
+		"jp_text": "バル・ロドス戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃３２（曲調変更可）\n『バル・ロドス戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319083",
+		"jp_text": "ブリュー・リンガーダ戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃３３（曲調変更可）\n『ブリュー・リンガーダ戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319084",
+		"jp_text": "ビオル・メデューナ戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃３４（曲調変更可）\n『ビオル・メデューナ戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319085",
+		"jp_text": "テオドール戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃７０（曲調変更可）\n『テオドール戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319086",
+		"jp_text": "ルーサー戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃７１（曲調変更可）\n『Confronter』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319087",
+		"jp_text": "ファルス・アンゲル戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃７２（曲調変更可）\n『Majestic & Imperial Dynasty』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319088",
+		"jp_text": "アポス・ドリオス戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃７３（曲調変更可）\n『Alchimista』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319089",
+		"jp_text": "敗者戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃７４（曲調変更可）\n『la L'inno per il \"IDOLA\"』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319090",
+		"jp_text": "ギグル・グンネガム戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃７５（曲調変更可）\n『ギグル・グンネガム戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319091",
+		"jp_text": "ネプト・キャサドーラ戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃７６（曲調変更可）\n『ネプト・キャサドーラ戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319092",
+		"jp_text": "アンガ・ファンダージ戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃９０（曲調変更可）\n『Anga Fhandarge』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319093",
+		"jp_text": "グアル・ジグモルデ戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０４（曲調変更可）\n『グアル・ジグモルデ戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319094",
+		"jp_text": "マガツ戦1",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃９３\n『再臨する星滅の災厄』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319095",
+		"jp_text": "マガツ戦2",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃９４\n『星滅の災厄禊ぐ灰の唱』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319096",
+		"jp_text": "採掘基地防衛戦-終焉1",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃９５\n『Resonant Catastrophe』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319097",
+		"jp_text": "採掘基地防衛戦-終焉2",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃９６\n『Resonant Catastrophe - A.I.S -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319098",
+		"jp_text": "双子体内",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃９７\n『Nursery Probe - ??? -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "319099",
+		"jp_text": "ファルス・ダランブル戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０７（曲調変更可）\n『Chaotic Dynasty』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190100",
+		"jp_text": "The whole new world",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃０１\n『The whole new world』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190101",
+		"jp_text": "Can still see the light",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃０２\n『Can still see the light』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190102",
+		"jp_text": "Day dawns",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃０３\n『Day dawns』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190103",
+		"jp_text": "World with me",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃０４\n『World with me』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190104",
+		"jp_text": "Underworld -Equilibrium-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃１０\n『Underworld -Equilibrium-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190105",
+		"jp_text": "The whole new world EP2",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃２６\n『The whole new world -EPISODE2-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190106",
+		"jp_text": "Rose confession (PSO)",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃４６\n『Rose confession (PSO)』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190107",
+		"jp_text": "A song for eternal story",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃３１\n『A song for eternal story』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190108",
+		"jp_text": "World with me -EP4-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃４５\n『World with me -remix for pso bb-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190109",
+		"jp_text": "Day light",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃２９\n『Day light』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190110",
+		"jp_text": "IDOLA:immortal feather",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃０７　『\"IDOLA\"\nhave the immortal feather』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190111",
+		"jp_text": "IDOLA:divine blade",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃０８　『\"IDOLA\"\nhave the divine blade』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190112",
+		"jp_text": "Pioneer2",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃２３\n『Pioneer2』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190113",
+		"jp_text": "Crossing3084",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃２５\n『Crossing3084』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190115",
+		"jp_text": "Chaotic bar",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃２７\n『Chaotic bar』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190118",
+		"jp_text": "DreamsDreams(KidsVer)",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＮｉＧＨＴＳ ＃０２\n『Dreams Dreams (Kids Version)』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190119",
+		"jp_text": "Can still see the light 2",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃３２　『Can still see \nthe light (Piano Version)』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190120",
+		"jp_text": "LET THE WINDS BLOW",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃０９\n『LET THE WINDS BLOW』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190121",
+		"jp_text": "PSO-森林",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃１２（曲調変更可）\n『Mother earth of dishonesty』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190122",
+		"jp_text": "PSO-洞窟",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃１３（曲調変更可）\n『The kink in the wind and the way』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190123",
+		"jp_text": "PSO-坑道",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃１４（曲調変更可）\n『Empty space out of control』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190124",
+		"jp_text": "PSO-遺跡",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃１５（曲調変更可）\n『Revolution to the origin』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190125",
+		"jp_text": "PSO-ＶＲ神殿",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃１６（曲調変更可）\n『A longing to ancient times』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190126",
+		"jp_text": "PSO-ＶＲ宇宙船",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃１７（曲調変更可）\n『Tricktrack』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190127",
+		"jp_text": "PSO-中央管理区　",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃１８（曲調変更可）\n『Jungle』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190128",
+		"jp_text": "PSO-海底プラント",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃１９（曲調変更可）\n『Abysmal ball』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190129",
+		"jp_text": "PSO-クレーター周辺",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃２０（曲調変更可）\n『Nostalgia in Solitude』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190130",
+		"jp_text": "PSO-クレーター",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃２１（曲調変更可）\n『Entry into the Crater』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190131",
+		"jp_text": "PSO-地下砂漠",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃２２（曲調変更可）\n『Underworld』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190134",
+		"jp_text": "Healing",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃２８\n『Healing』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190135",
+		"jp_text": "Codes of silence",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃３０\n『Codes of silence』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190136",
+		"jp_text": "ダークファルス本体戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃３３\n『ダークファルス本体戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190137",
+		"jp_text": "ダークファルス最終決戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃３４\n『ダークファルス最終決戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190138",
+		"jp_text": "デ・ロル・レ戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃３５\n『デ・ロル・レ戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190139",
+		"jp_text": "バルバレイ戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃３６\n『バルバレイ戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190140",
+		"jp_text": "ドラゴン戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃３７\n『ドラゴン戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190141",
+		"jp_text": "ゴル　ドラゴン戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃３８\n『ゴル　ドラゴン戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190142",
+		"jp_text": "ガル・グリフォン戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃２４\n『ガル・グリフォン戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190143",
+		"jp_text": "PSO-遺跡最深部",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃３９\n『PSO-遺跡最深部』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190144",
+		"jp_text": "ダークファルス前哨戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃４０\n『ダークファルス前哨戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190145",
+		"jp_text": "ボルオプト前半戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃４１\n『ボルオプト前半戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190146",
+		"jp_text": "ボルオプト後半戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃４２\n『ボルオプト後半戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190147",
+		"jp_text": "サンテミリオン戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃４３\n『サンテミリオン戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190148",
+		"jp_text": "シャンベルタン戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃４４\n『シャンベルタン戦』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190150",
+		"jp_text": "Save This World",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃０１\n『Save This World』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190151",
+		"jp_text": "With You",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃０２\n『With You』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190152",
+		"jp_text": "For Brighter Day Orch.",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃０３\n『For Brighter Day - Orchestra -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190153",
+		"jp_text": "For Brighter Day Remix",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃０４\n『For Brighter Day - Remix -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190154",
+		"jp_text": "Save This World Remix",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃０５\n『Save This World - Remix -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190155",
+		"jp_text": "Save This World νMIX",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ１ ＃０１\n『Save This World - νMIX -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190156",
+		"jp_text": "Living Universe",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃０１\n『Living Universe』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190157",
+		"jp_text": "Ignite Infinity",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ｉ ＃０１\n『Ignite Infinity』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190158",
+		"jp_text": "Rose Confession",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ｉ ＃０２\n『Rose Confession』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190159",
+		"jp_text": "Go Infinity",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ｉＯＳＴ ＃０１\n『Go Infinity - Ignite Infinity REMIX -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190160",
+		"jp_text": "Naked Sky",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ｉＯＳＴ ＃０２\n『Naked Sky』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190161",
+		"jp_text": "Kick out ZORG",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ｉＯＳＴ ＃０３\n『Kick out ZORG』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190162",
+		"jp_text": "Deep Blue Edifice",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ｉＯＳＴ ＃０４\n『Deep Blue Edifice』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190163",
+		"jp_text": "Clast edge BLAVAS",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ｉＯＳＴ ＃０５\n『Clast edge BLAVAS』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190164",
+		"jp_text": "集え、八百万の星の下に",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ｉＯＳＴ ＃０６\n『集え、八百万の星の下に』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190165",
+		"jp_text": "麒神衝天",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ｉＯＳＴ ＃０７\n『麒神衝天』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190166",
+		"jp_text": "Aire Iglesia",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ｉＯＳＴ ＃０８\n『Aire Iglesia』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190167",
+		"jp_text": "la DIOS Arrancar",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ｉＯＳＴ ＃０９\n『la DIOS Arrancar』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190168",
+		"jp_text": "el DIOS Despertar",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ｉＯＳＴ ＃１０\n『el DIOS Despertar』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190169",
+		"jp_text": "Ignite Infinity feat. T.M",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ｉＯＳＴ ＃１１\n『Ignite Infinity feat. T.Mitsuyoshi』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190170",
+		"jp_text": "Fly To Universe",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃０７\n『Fly To Universe』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190171",
+		"jp_text": "Clyez City",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃１６\n『Clyez City -Guardians Colony-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190172",
+		"jp_text": "Holtes City -Parum-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃２９\n『Holtes City -Parum-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190173",
+		"jp_text": "Ohtoku City -Neudaiz-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃４５\n『Ohtoku City -Neudaiz-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190174",
+		"jp_text": "Dagora City -Moatoob-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃５３\n『Dagora City -Moatoob-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190175",
+		"jp_text": "Abandoned City,Mellvore",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃３５\n『Abandoned City, Mellvore』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190176",
+		"jp_text": "Emilia",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃０３\n『Emilia』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190177",
+		"jp_text": "CRAD-6th",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃１４\n『CRAD-6th』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190178",
+		"jp_text": "Entrance Universe VoMix",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃０２\n『Entrance Universe -Vocal Mix-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190179",
+		"jp_text": "Save This World Orch.",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃２２\n『Save This World Orch.』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190180",
+		"jp_text": "Raffon Meadow",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃３０\n『Raffon Meadow』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190181",
+		"jp_text": "Mizuraki C.D.",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃４６\n『Mizuraki C.D.』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190182",
+		"jp_text": "Galenigare Mine",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃５８\n『Galenigare Mine』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190183",
+		"jp_text": "S.E.E.D -Hive-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃６６\n『S.E.E.D -Hive-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190184",
+		"jp_text": "RELICS -Sleep-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃２０\n『RELICS -Sleep-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190185",
+		"jp_text": "RELICS -Awakening-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃２１\n『RELICS -Awakening-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190186",
+		"jp_text": "Habirao F.D.",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃５１\n『Habirao F.D.』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190189",
+		"jp_text": "EL-Bals Mountain",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃１８\n『EL-Bals Mountain』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190190",
+		"jp_text": "Ohtori Castle",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃２４\n『Ohtori Castle』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190192",
+		"jp_text": "Growl, From The WildSky",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃３１\n『Growl, From The WildSky』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190193",
+		"jp_text": "The Hunt",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃３７\n『The Hunt -The End of Planets-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190194",
+		"jp_text": "The Vibe",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃３８\n『The Vibe -The End of Planets-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190195",
+		"jp_text": "The Last Story",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃３９\n『The Last Story』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190196",
+		"jp_text": "Growl, From Dark Faith",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃５２\n『Growl , From The Dark Faith』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190197",
+		"jp_text": "Mother",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃４３\n『Mother』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190198",
+		"jp_text": "Fight the Vicious Fate",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃４１\n『Fight the Vicious Fate』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190200",
+		"jp_text": "Phantasy Star Zero",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＺ ＃０１\n『Phantasy Star Zero』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190201",
+		"jp_text": "たいせつなもの",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＺ ＃０２\n『たいせつなもの』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190202",
+		"jp_text": "Rappy Fever",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＺ ＃０３\n『Rappy Fever』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190203",
+		"jp_text": "Friendly Chatting",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＺ ＃０４\n『Friendly Chatting』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190207",
+		"jp_text": "PSZ-荒野",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＺ ＃０５\n『Desolate Scape』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190208",
+		"jp_text": "PSZ-荒野バトル",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＺ ＃０６\n『Desolate Wilds』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190209",
+		"jp_text": "PSZ-雪原",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＺ ＃０７\n『Snowflake』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190210",
+		"jp_text": "PSZ-雪原バトル",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＺ ＃０８\n『Snowstorm』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190211",
+		"jp_text": "PSZ-廃墟都市",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＺ ＃０９\n『Secret Alter』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190212",
+		"jp_text": "PSZ-廃墟都市バトル",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＺ ＃１０\n『Secret Ritual』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190213",
+		"jp_text": "PSZ-洞窟",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＺ ＃１１\n『Trickle Maze』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190214",
+		"jp_text": "PSZ-洞窟バトル",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＺ ＃１２\n『Trickle Labyrinth』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190215",
+		"jp_text": "PSZ-月面：暗黒神殿",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＺ ＃１３\n『Crescent Serenade』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190216",
+		"jp_text": "PSZ-月面：暗黒神殿バトル",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＺ ＃１４\n『Crescent Crusade』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190217",
+		"jp_text": "IDOLA:The Imitated God",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＺ ＃１５\n『\"IDOLA\" The Imitated God』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190218",
+		"jp_text": "IDOLA:The Devil's S",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＺ ＃１６\n『\"IDOLA\" The Devil's Shadow』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190219",
+		"jp_text": "PS NOVA メインテーマ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＮｏｖａ ＃０１\n『PS NOVA メインテーマ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190229",
+		"jp_text": "地球-東京「昼」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１００（曲調変更可）\n『Zero-G』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190230",
+		"jp_text": "地球-東京「夜」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０１（曲調変更可）\n『Realization』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190231",
+		"jp_text": "大和「前半戦」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０２（曲調変更可）\n『Steel Gale Operation』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190232",
+		"jp_text": "バトルアリーナ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０３（曲調変更可）\n『Battle Arena』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190233",
+		"jp_text": "アムドゥスキア-ＵＬＴ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０４（曲調変更可）\n『Calamity Border Probe - Amduskia -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190234",
+		"jp_text": "バトルアリーナロビー",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０５（曲調変更可）\n『Battle Arena - Lobby -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190235",
+		"jp_text": "PSO2 イベント「アーデム１」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０６\n『Nobleness - Adam -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190236",
+		"jp_text": "PSO2 イベント「ファレグ１」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０７\n『The Origin - Phaleg -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190237",
+		"jp_text": "PSO2 イベント「ファレグ２」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０８\n『The Fighter - Phaleg -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190238",
+		"jp_text": "ファレグ戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０９（曲調変更可）\n『The Seeker of Power - Phaleg -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190250",
+		"jp_text": "Dreams Dreams",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＮｉＧＨＴＳ ＃０１\n『Dreams Dreams』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190251",
+		"jp_text": "Burning Hearts",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＢＲ ＃０１\n『Burning Hearts』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190252",
+		"jp_text": "I Just Smile",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＢＲ ＃０２\n『I Just Smile』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190253",
+		"jp_text": "SONIC HEROES",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＨ ＃０１\n『SONIC HEROES』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190254",
+		"jp_text": "Escape From The City",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＧ ＃０１\n『Escape From The City』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190255",
+		"jp_text": "THIS IS MY HAPPINESS",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＣ５ ＃０１\n『THIS IS MY HAPPINESS』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190256",
+		"jp_text": "きみのためなら死ねる",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＫＭＳＮ ＃０１\n『きみのためなら死ねる』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190257",
+		"jp_text": "赤ちゃんはどこからくるの？",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＡＫＤＫ ＃０１\n『赤ちゃんはどこからくるの？』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190258",
+		"jp_text": "VAL1 メインテーマ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＶＡＬ１ ＃０１\n『メインテーマ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190261",
+		"jp_text": "BLAZE OUT!!",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＢＬＡＺＥ ＃０１\n『BLAZE OUT!!』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190262",
+		"jp_text": "シブヤ003",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＢＬＡＺＥ ＃０２\n『シブヤ003』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190263",
+		"jp_text": "Rise of Nightmares",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲｏＮ ＃０１\n『Rise of Nightmares』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190264",
+		"jp_text": "Sabat Ritual",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲｏＮ ＃０２\n『Sabat Ritual』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190265",
+		"jp_text": "煌く剣戟",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＢ ＃０１\n『煌く剣戟』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190266",
+		"jp_text": "世界の調律",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＢ ＃０２\n『世界の調律』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190267",
+		"jp_text": "Mysterious Destiny",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＢＥＹＯ ＃０１\n『Mysterious Destiny』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190268",
+		"jp_text": "Let's Dance Boys!",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＢＥＹＯ ＃０２\n『Let's Dance Boys!』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190269",
+		"jp_text": "怪盗Rのテーマ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＨＹＴＨＭ ＃０１\n『怪盗Rのテーマ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190270",
+		"jp_text": "SHOW TIME",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＨＹＴＨＭ ＃０２\n『SHOW TIME』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190271",
+		"jp_text": "Funk Goes On",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵ１ ＃０１\n『Funk Goes On』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190272",
+		"jp_text": "Receive You",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵ１ ＃０２\n『Receive You』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190273",
+		"jp_text": "Amazing Grace",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵ１ ＃０３\n『Amazing Grace』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190274",
+		"jp_text": "散るは刹那",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵ２ ＃０１\n『散るは刹那』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190275",
+		"jp_text": "ADAM's Champagnecall",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵ２ ＃０２\n『ADAM's Champagnecall』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190276",
+		"jp_text": "Silent Night, Holly Night",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵ２ ＃０３\n『Silent Night, Holly Night』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190277",
+		"jp_text": "Fly -In Game Version-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵ３ ＃０１\n『Fly ～In Game Version～』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190278",
+		"jp_text": "No.1キャバ嬢をつくろう！",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵ３ ＃０２\n『No.1キャバ嬢をつくろう！』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190279",
+		"jp_text": "The Myth",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵ４ ＃０１\n『The Myth』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190280",
+		"jp_text": "For Face",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵ４ ＃０２\n『For Face』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190281",
+		"jp_text": "The way to Truth",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＢＤ ＃０１\n『The way to Truth』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190282",
+		"jp_text": "Momentary love",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＢＤ ＃０２\n『Momentary love』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190283",
+		"jp_text": "継承者の腕輪",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＫＣ ＃０１\n『継承者の腕輪』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190286",
+		"jp_text": "オープニングテーマ (EA)",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＥＡ ＃０１\n『オープニングテーマ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190287",
+		"jp_text": "メインテーマ (EA)",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＥＡ ＃０２\n『メインテーマ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190288",
+		"jp_text": "Shining Hearts",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＨ ＃０１\n『Shining Hearts』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190289",
+		"jp_text": "風疾る道",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＨ ＃０２\n『風疾る道』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190290",
+		"jp_text": "心に届く詩",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＨ ＃０３\n『心に届く詩』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190291",
+		"jp_text": "チエノトビラ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＡ ＃０１\n『チエノトビラ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190292",
+		"jp_text": "キェル・マーレ・セラ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＡ ＃０２　『キェル・マーレ・セラ\n～はるかなる故郷へ～』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190293",
+		"jp_text": "SeventH-HeaveN",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\n７ＤＲ ＃０１\n『SeventH-HeaveN』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190294",
+		"jp_text": "HeavenZ-ArmZ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\n７ＤＲ ＃０２\n『HeavenZ-ArmZ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190295",
+		"jp_text": "20thAnniversaryFEVER!!",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＹＯ ＃０１\n『20th Anniversary FEVER!!』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190296",
+		"jp_text": "時空を超えて久しぶり！",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＹＯ ＃０２\n『時空を超えて久しぶり！』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190297",
+		"jp_text": "熱源",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＢＢ ＃０１\n『熱源』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190298",
+		"jp_text": "優曇華",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＢＢ ＃０２\n『優曇華』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190299",
+		"jp_text": "Catch The Future",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＢＢ ＃０３\n『Catch The Future』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190300",
+		"jp_text": "IT DOESN'T MATTER",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＡＤＸ ＃０１\n『IT DOESN'T MATTER』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190301",
+		"jp_text": "Reach for the Stars",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＣＯ ＃０１\n『Reach for the Stars』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190302",
+		"jp_text": "maimaiちゃんのテーマ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃０１\n『maimaiちゃんのテーマ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190303",
+		"jp_text": "BaBan!!　－甘い罠－",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃０２\n『BaBan!!　－甘い罠－』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190304",
+		"jp_text": "True Love Song",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃０３\n『True Love Song』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190305",
+		"jp_text": "Color My World",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃０４\n『Color My World』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190306",
+		"jp_text": "源平大戦絵巻テーマソング",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃０５\n『源平大戦絵巻テーマソング』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190307",
+		"jp_text": "ネコ日和。",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃０６\n『ネコ日和。』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190308",
+		"jp_text": "ＶＤ「人選ミス」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＶＤ ＃０１\n『ＶＤ「人選ミス」』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190309",
+		"jp_text": "炭☆坑☆節",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃０７\n『炭☆坑☆節』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190310",
+		"jp_text": "デコボコ体操第二",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃０８\n『デコボコ体操第二』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190311",
+		"jp_text": "E.G.G.M.A.N",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＡ２ ＃０１\n『E.G.G.M.A.N』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190312",
+		"jp_text": "Open Your Heart",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＡ ＃０１\n『Open Your Heart』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190313",
+		"jp_text": "Live and Learn",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＡ２ ＃０２\n『Live and Learn』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190314",
+		"jp_text": "getting the truth",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＣ５ ＃０２\n『getting the truth』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190315",
+		"jp_text": "Pala Paya... Lounge Music",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＣ５ ＃０３\n『Pala Paya... Lounge Music』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190316",
+		"jp_text": "S.C.5 25時",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＣ５ｐ２ ＃０１\n『S.C.5 25時[Option Remix 2002]』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190317",
+		"jp_text": "The Battle for the Dream",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵ５ ＃０１\n『The Battle for the Dream』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190318",
+		"jp_text": "Receive and Slash You",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵ５ ＃０２\n『Receive and Slash You』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190319",
+		"jp_text": "With You（龍が如く 維新！）",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵＩ ＃０１\n『With You』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190320",
+		"jp_text": "吹雪小唄",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵＩ ＃０２\n『吹雪小唄』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190321",
+		"jp_text": "さむらい演舞",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵＩ ＃０３\n『さむらい演舞』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190322",
+		"jp_text": "新旧弦楽器戦争",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＲＹＵＩ ＃０４\n『新旧弦楽器戦争』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190323",
+		"jp_text": "翠の森の精霊詩",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＢ ＃０３\n『翠の森の精霊詩』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190324",
+		"jp_text": "山吹色に萌ゆる風",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＢ ＃０４\n『山吹色に萌ゆる風』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190325",
+		"jp_text": "夏色のマーメイド",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＢ ＃０５\n『夏色のマーメイド』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190326",
+		"jp_text": "紅き情熱の唄",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＢ ＃０６\n『紅き情熱の唄』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190327",
+		"jp_text": "輝く旗のもとに",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＢ ＃０７\n『輝く旗のもとに』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190328",
+		"jp_text": "ＭＪ対局中ＢＧＭ（通常）",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＪ ＃０１\n『ＭＪ対局中ＢＧＭ（通常）』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190329",
+		"jp_text": "ＶＤ「一位の価値は」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＶＤ ＃０２\n『ＶＤ「一位の価値は」』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190330",
+		"jp_text": "ＭＪ対局中ＢＧＭ（リーチ中）",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＪ ＃０２\n『ＭＪ対局中ＢＧＭ（リーチ中）』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190331",
+		"jp_text": "DECORATOR",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＶＯＣＬ ＃０１\n『DECORATOR』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190332",
+		"jp_text": "Living Universe(M&L)",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＶＯＣＬ ＃０２\n『Living Universe(M&L)』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190333",
+		"jp_text": "in the blue sky '01",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＶＯ４ ＃０１\n『in the blue sky '01』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190334",
+		"jp_text": "the wind is blowing '01",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＶＯ４ ＃０２\n『the wind is blowing '01』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190335",
+		"jp_text": "conquista ciela(on vocal)",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＶＯ４ ＃０３\n『conquista ciela(on vocal)』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190336",
+		"jp_text": "MSBS ver.7.5",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＶＯ４ ＃０４\n『MSBS ver.7.5』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190337",
+		"jp_text": "conferment ver.1",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＶＯ４ ＃０５\n『conferment ver.1』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190338",
+		"jp_text": "平穏な日々",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＦＣ ＃０１\n『平穏な日々』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190339",
+		"jp_text": "激闘との境界",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＦＣ ＃０２\n『激闘との境界』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190340",
+		"jp_text": "Knight Gear",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＦＣ ＃０３\n『Knight Gear』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190341",
+		"jp_text": "Knight Gear -極-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＦＣ ＃０４\n『Knight Gear -極-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190342",
+		"jp_text": "Knight Gear -魔導騎士-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＦＣ ＃０５\n『Knight Gear -魔導騎士-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190343",
+		"jp_text": "FIGHTING　CLIMAX",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＦＣ ＃０１\n『FIGHTING　CLIMAX』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190344",
+		"jp_text": "電撃ＦＣ／ＰＳＯ２ステージ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＦＣ ＃０２\n『電撃ＦＣ／ＰＳＯ２ステージ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190345",
+		"jp_text": "ＶＤ「アポなし訪問録！」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＶＤ ＃０３\n『ＶＤ「アイドルアポなし訪問録！」』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190346",
+		"jp_text": "Cosmic Train",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃０９\n『Cosmic Train』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190347",
+		"jp_text": "みんなのマイマイマー",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃１０\n『みんなのマイマイマー』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190348",
+		"jp_text": "ＳＳ起動音[H.][Remix]",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃１１\n『セガサターン起動音［H.］［Remix］』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190349",
+		"jp_text": "コインランドリー・ディスコ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃１２　『ぐるぐるWASH！\nコインランドリー・ディスコ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190350",
+		"jp_text": "Garakuta Doll Play",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃１３\n『Garakuta Doll Play』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190351",
+		"jp_text": "言ノ葉カルマ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃１４\n『言ノ葉カルマ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190352",
+		"jp_text": "ジングルベル",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃２０\n『ジングルベル』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190353",
+		"jp_text": "CYCLES",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃１５\n『CYCLES』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190354",
+		"jp_text": "Heartbeats",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃１６\n『Heartbeats』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190355",
+		"jp_text": "End of Twilight",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃１７\n『End of Twilight』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190356",
+		"jp_text": "Life Feels Good",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃１８\n『Life Feels Good』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190357",
+		"jp_text": "MYTHOS",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃１９\n『MYTHOS』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190358",
+		"jp_text": "双子星クオリティ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０１ ＃０１\n『双子星クオリティ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190359",
+		"jp_text": "アルティメットエナジー",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０１ ＃０２\n『アルティメットエナジー』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190360",
+		"jp_text": "kitty girl",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０１ ＃０３\n『kitty girl』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190361",
+		"jp_text": "修羅の闇間に",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０１ ＃０４\n『修羅の闇間に』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190362",
+		"jp_text": "Try to take me again",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０１ ＃０５\n『Try to take me again』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190363",
+		"jp_text": "弾丸ショータイム",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０１ ＃０６\n『弾丸ショータイム』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190364",
+		"jp_text": "MIRROR of MAGIC",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃２１\n『MIRROR of MAGIC』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190365",
+		"jp_text": "ナミダと流星",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃２２\n『ナミダと流星』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190366",
+		"jp_text": "悪戯",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃２３\n『悪戯』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190367",
+		"jp_text": "welcome to maimai!!",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃２４\n『welcome to maimai!!』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190368",
+		"jp_text": "VERTeX",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃２５\n『VERTeX』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190369",
+		"jp_text": "虹の旋律",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＲ ＃０１\n『虹の旋律』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190370",
+		"jp_text": "母なる星の祈り",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＲ ＃０２\n大地のアリア『母なる星の祈り』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190371",
+		"jp_text": "鏡の国のマリオネット",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＲ ＃０３\n『鏡の国のマリオネット』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190372",
+		"jp_text": "恋の嵐",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＲ ＃０４\n『恋の嵐』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190373",
+		"jp_text": "Wonder World",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＬＷ ＃０１\n『Wonder World』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190374",
+		"jp_text": "ＶＤ「一位にふさわしく！」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＶＤ ＃０４\n『ＶＤ「一位にふさわしく！」』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190377",
+		"jp_text": "チャレンジロビー",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃９９\n『Challenge Lobby』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190380",
+		"jp_text": "New Year",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃０９\n『New Year』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190381",
+		"jp_text": "Brave Fight",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃１３\n『Brave Fight』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190384",
+		"jp_text": "Valentine (PSO)",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃０６\n『Valentine』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190385",
+		"jp_text": "Valentine (PSU)",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃１０\n『Valentine』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190387",
+		"jp_text": "Easter",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃１１\n『Easter』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190388",
+		"jp_text": "Cherry Blossom",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃１１\n『Cherry Blossom』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190390",
+		"jp_text": "Neudaiz",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃１２\n『Neudaiz』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190392",
+		"jp_text": "Paracabana Coast",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃０６\n『Paracabana Coast』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190393",
+		"jp_text": "Shitenkaku",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃０７\n『Shitenkaku』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190396",
+		"jp_text": "Weird night",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ ＃０５\n『Weird night』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190397",
+		"jp_text": "アークスのテーマ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃０２\n『アークスのテーマ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190398",
+		"jp_text": "Christmas",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃０８\n『Christmas』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190402",
+		"jp_text": "We're ARKS!",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃７８\n『We're ARKS!』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190403",
+		"jp_text": "レアドロ☆KOI☆恋！",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃７７\n『レアドロ☆KOI☆恋！』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190404",
+		"jp_text": "ＶＤ「喧嘩するほど……」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＶＤ ＃０５\n『ＶＤ「喧嘩するほど……」』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190405",
+		"jp_text": "絶世スターゲイト",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＡＮＩ ＃０１\n『絶世スターゲイト』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190406",
+		"jp_text": "Hello",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０１\n『Hello』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190407",
+		"jp_text": "Living on like stars EP3",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０２\n『Living on like stars - Another fate -』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190408",
+		"jp_text": "レアドロ☆KOI☆こい！",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＡＮＩ ＃０２\n『レアドロ☆KOI☆こい！ワンモア！』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190409",
+		"jp_text": "灰ノ心露",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃９８\n『灰ノ心露』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190411",
+		"jp_text": "R.Defensive -Animation-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＡＮＩ ＃０３『Resonant Defensive\n-Animation\"PSO2\" version-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190412",
+		"jp_text": "POTENTIAL ABILITY",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＡＮＩ ＃０４『POTENTIAL ABILITY\n-Animation\"PSO2\" Main Theme-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190413",
+		"jp_text": "Days",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＡＮＩ ＃０５\n『Days』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190414",
+		"jp_text": "Day after day",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＡＮＩ ＃０６\n『Day after day』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190415",
+		"jp_text": "Spark joy",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＡＮＩ ＃０７\n『Spark joy』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190416",
+		"jp_text": "SAVER",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＡＮＩ ＃０８\n『SAVER』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190417",
+		"jp_text": "Tension",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＡＮＩ ＃０９\n『Tension』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190418",
+		"jp_text": "T.W.N.world -Animation-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＡＮＩ ＃１０『The whole new world\n-Animation\"PSO2\" version-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190419",
+		"jp_text": "PSO2 メインテーマVer5",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０３\n『Borderless』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190420",
+		"jp_text": "ＶＤ「情報屋、変革します！」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＶＤ ＃０６\n『ＶＤ「情報屋、変革します！」』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190426",
+		"jp_text": "激！爆！マキシマム・ＯＨ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０２ ＃０１\n『激！爆！マキシマム・ＯＨ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190427",
+		"jp_text": "Shiny Shiny rainbow",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０２ ＃０２\n『Shiny Shiny rainbow』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190428",
+		"jp_text": "那落の†Messiah†",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０２ ＃０３\n『那落の†Messiah†』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190429",
+		"jp_text": "夢にうまれかわるメロディー",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０２ ＃０４\n『夢にうまれかわるメロディー』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190430",
+		"jp_text": "滅殺壊塵射撃論",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０２ ＃０５\n『滅殺壊塵射撃論』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190431",
+		"jp_text": "オモイマトイ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０２ ＃０６\n『オモイマトイ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190432",
+		"jp_text": "ＶＤ「一位の責務」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＶＤ ＃０７\n『ＶＤ「一位の責務」』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190434",
+		"jp_text": "エレメントの勇気",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＡＮＩＣＳ ＃０１\n『エレメントの勇気』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190435",
+		"jp_text": "prism moment",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＡＮＩＣＳ ＃０２\n『prism moment』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190436",
+		"jp_text": "auditor pride",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＡＮＩＣＳ ＃０３\n『auditor pride』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190437",
+		"jp_text": "冥刻に穿たれるＪＣ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＡＮＩＣＳ ＃０４\n『冥刻に穿たれるジャッジメント・コア』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190438",
+		"jp_text": "憧れeveryday",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＡＮＩＣＳ ＃０５\n『憧れeveryday』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190439",
+		"jp_text": "コケティッシュシンドローム",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＡＮＩＣＳ ＃０６\n『コケティッシュシンドローム』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190440",
+		"jp_text": "ＶＤ「アークス情報部通信」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＶＤ ＃０８\n『ＶＤ「アークス情報部通信」』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190441",
+		"jp_text": "ＶＤ「物欲センサーかくありき」",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＶＤ ＃０９\n『ＶＤ「物欲センサーかくありき」』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190449",
+		"jp_text": "飛翔",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＤＳＳ ＃０１\n『飛翔』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190450",
+		"jp_text": "Main Theme",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＤＳＳ ＃０２\n『Main Theme』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190451",
+		"jp_text": "スタッフロール",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＤＳＳ ＃０３\n『スタッフロール』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190494",
+		"jp_text": "双子戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０８（曲調変更可）\n『\"IDOLA\" the Audacious JOKER』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190495",
+		"jp_text": "深遠なる闇戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０９（曲調変更可）\n『Unfathomable Darkness』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190496",
+		"jp_text": "Borderless Quest Ver.",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１１０（曲調変更可）\n『Borderless - Gt & Vo Ver.』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190497",
+		"jp_text": "幻創種襲来",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１１１\n『Embodied Nightmare』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190498",
+		"jp_text": "マザー・クラスタのテーマ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１１２\n『Maneuvers of Mother Cluster』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190499",
+		"jp_text": "マザー・クラスタ戦",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１１３\n『Assaults of Mother Cluster』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190520",
+		"jp_text": "no cold heart",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＶＯ４ ＃０６\n『no cold heart』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190522",
+		"jp_text": "Dreamcasting",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＯＳ ＃０１\n『Dreamcasting』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190523",
+		"jp_text": "Phantasista-stage ver",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＯＳ ＃０２\n『Phantasista-stage ver』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190524",
+		"jp_text": "Phantasista-TAKUYA ver",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＯＳ ＃０３\n『Phantasista-TAKUYA solo ver』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190525",
+		"jp_text": "Phantasista-YUMI ver",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＯＳ ＃０４\n『Phantasista-YUMI solo ver』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190526",
+		"jp_text": "FEEL ALIVE",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃２６\n『FEEL ALIVE』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190527",
+		"jp_text": "We Gonna Party",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃２７\n『We Gonna Party』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190528",
+		"jp_text": "Starlight Disco",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃２８\n『Starlight Disco』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190529",
+		"jp_text": "BREAK YOU!!",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃２９\n『BREAK YOU!!』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190530",
+		"jp_text": "JUMPIN' JUMPIN'",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃３０\n『JUMPIN' JUMPIN'』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190531",
+		"jp_text": "Rebellion",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＢＢＣＰ ＃０１\n『RebellionⅡ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190532",
+		"jp_text": "Lust SIN",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＢＢＣＰ ＃０２\n『Lust SINⅡ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190533",
+		"jp_text": "Sword of Doom",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＢＢＣＰ ＃０３\n『Sword of DoomⅡ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190534",
+		"jp_text": "Justice Sword",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＢＢＣＰ ＃０４\n『Justice Sword』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190535",
+		"jp_text": "Bullet Dance",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＢＢＣＰ ＃０５\n『Bullet DanceⅡ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190536",
+		"jp_text": "Give me a break",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nGGXrd ＃０１\n『Give me a break』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190537",
+		"jp_text": "Magnolia Eclair",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nGGXrd ＃０２\n『Magnolia Eclair』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190538",
+		"jp_text": "Marionette",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nGGXrd ＃０３\n『Marionette』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190539",
+		"jp_text": "Starry Story",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nGGXrd ＃０４\n『Starry Story』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190540",
+		"jp_text": "The Lily of steel",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nGGXrd ＃０５\n『The Lily of steel』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190541",
+		"jp_text": "L'epilogue",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃３１\n『L'epilogue』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190542",
+		"jp_text": "炎歌 -ほむらうた-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃３２\n『炎歌 -ほむらうた-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190543",
+		"jp_text": "Monochrome Rainbow",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃３３\n『Monochrome Rainbow』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190544",
+		"jp_text": "planet dancer",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃３４\n『planet dancer』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190545",
+		"jp_text": "火炎地獄",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＭＡＩ ＃３５\n『火炎地獄』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190546",
+		"jp_text": "Blooming!!",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＨＧ ＃０１\n『Blooming!!』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190547",
+		"jp_text": "Ride the Fire!",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nGGXrd ＃０６\n『Ride the Fire!』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190548",
+		"jp_text": "ゴーゴーチアガール",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＣ５ｐ２ ＃０２\n『ゴーゴーチアガール』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190549",
+		"jp_text": "ギター対決",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＣ５ｐ２ ＃０３\n『ギター対決』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190550",
+		"jp_text": "ChRoNiClESeVeN",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\n７ＤＲ３ ＃０１\n『ChRoNiClESeVeN』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190551",
+		"jp_text": "Re:Vanishment",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\n７ＤＲ３ ＃０２\n『Re:Vanishment』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190552",
+		"jp_text": "終撃のイグニト",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\n７ＤＲ３ ＃０３\n『終撃のイグニト』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190553",
+		"jp_text": "サンクチュアリを謳って",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\n７ＤＲ３ ＃０４\n『サンクチュアリを謳って』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190554",
+		"jp_text": "プリンセス・ロマンス",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＲ ＃０５\n『プリンセス・ロマンス』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190555",
+		"jp_text": "潮騒のファンタジー",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＲ ＃０６\n『潮騒のファンタジー』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190556",
+		"jp_text": "初音うららかに",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＲ ＃０７\n『初音うららかに』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190557",
+		"jp_text": "日輪の煌き",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＲ ＃０８\n『日輪の煌き』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190558",
+		"jp_text": "微笑みのなる樹",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＲ ＃０９\n『微笑みのなる樹』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190559",
+		"jp_text": "雪華の雫",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＲ ＃１０\n『雪華の雫』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190560",
+		"jp_text": "The King of Speed",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＡＹ ＃０１\n『The King of Speed』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190561",
+		"jp_text": "Sky High",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＡＹ ＃０２\n『Sky High』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190562",
+		"jp_text": "Station Square",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＡ ＃０２\n『Welcome to Station Square』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190564",
+		"jp_text": "OPA-OPA!",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＦＺ ＃０１\n『OPA-OPA!』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190565",
+		"jp_text": "VAMOS A CARNAVAL!",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＡＭＩＧＯ ＃０１\n『VAMOS A CARNAVAL!』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190567",
+		"jp_text": "Splash Wave",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＯＲ２ ＃０１\n『Splash Wave』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190568",
+		"jp_text": "Magical Sound Shower",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＯＲ２ ＃０２\n『Magical Sound Shower』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190569",
+		"jp_text": "Passing Breeze",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＯＲ２ ＃０３\n『Passing Breeze』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190570",
+		"jp_text": "檄！帝国華撃団",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＫＲ ＃０１\n『檄！帝国華撃団』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190571",
+		"jp_text": "花咲く乙女",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＫＲ ＃０２\n『花咲く乙女』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190572",
+		"jp_text": "夢のつづき",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＳＫＲ２ ＃０１\n『夢のつづき』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190573",
+		"jp_text": "ヨーコソ・アークス",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０５\n『ヨーコソ・アークス』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190574",
+		"jp_text": "千本桜 ver.小林幸子",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ ＃１０６\n『千本桜』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190575",
+		"jp_text": "豪華絢爛ラビアンローズ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０３ ＃１\n『豪華絢爛ラビアンローズ』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190577",
+		"jp_text": "武麗舞クロステンド",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０３ ＃２\n『武麗舞クロステンド』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190578",
+		"jp_text": "ペルソナ５ オープニング",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＥＲ５ ＃０１\n『Wake Up, Get Up, Get Out There』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190579",
+		"jp_text": "Last Surprise",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＥＲ５ ＃０２\n『Last Surprise』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190580",
+		"jp_text": "全ての人の魂の詩",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＥＲ５ ＃０３\n『全ての人の魂の詩』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190582",
+		"jp_text": "闇ネットたなか",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＥＲ５ ＃０４\n『闇ネットたなか』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190583",
+		"jp_text": "NieR:Automata テーマ",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＮＩＥＲ ＃１\n『Weight of the World』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190584",
+		"jp_text": "ミラクルショッピング",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＤＮＫ ＃１\n『ミラクルショッピング』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190585",
+		"jp_text": "Tiny Tiny",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＦＡＧＩＲＬ ＃０１\n『Tiny Tiny』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190586",
+		"jp_text": "FULLSCRATCH LOVE",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＦＡＧＩＲＬ ＃０２\n『FULLSCRATCH LOVE』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190588",
+		"jp_text": "もどかしくてmy dear",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０３ ＃３\n『もどかしくてmy dear』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190589",
+		"jp_text": "ユニゾチック・コンフリクト",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０３ ＃４\n『ユニゾチック・コンフリクト』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190590",
+		"jp_text": "homing friends",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０３ ＃５\n『homing friends』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190591",
+		"jp_text": "輝きへの約束",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０３ ＃６\n『輝きへの約束』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190592",
+		"jp_text": "Do!Do!メタモルフォーゼ!!",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＯ２ＣＳ０３ ＃７\n『Do!Do!メタモルフォーゼ!!』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190605",
+		"jp_text": "For Brighter Day",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃２３\n『For Brighter Day』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190606",
+		"jp_text": "Guardians",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃２４\n『Guardians』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190607",
+		"jp_text": "Obel Dallgun",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃１５\n『Obel Dallgun』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190608",
+		"jp_text": "Parum",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃３３\n『Parum』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190609",
+		"jp_text": "Endrum Collective",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃３４\n『Endrum Collective』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190610",
+		"jp_text": "Mirei",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃５０\n『Mirei』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190611",
+		"jp_text": "Moatoob",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃５６\n『Moatoob』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190612",
+		"jp_text": "Alfort Tylor",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃５７\n『Alfort Tylor』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190613",
+		"jp_text": "S.E.E.D",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃６７\n『S.E.E.D』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190614",
+		"jp_text": "Contamination -Fire-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃６３\n『Contamination -Fire-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190615",
+		"jp_text": "Contamination -Dark-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃６４\n『Contamination -Dark-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190616",
+		"jp_text": "Contamination -Ice-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃６５\n『Contamination -Ice-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190617",
+		"jp_text": "RELICS",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃１８\n『RELICS』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190618",
+		"jp_text": "Ancient Civilization",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃１９\n『Ancient Civilization』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190619",
+		"jp_text": "Mistery",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃６８\n『Mistery』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190620",
+		"jp_text": "Violent",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃６９\n『Violent』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190621",
+		"jp_text": "Tension (PSU)",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃７５\n『Tension』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190622",
+		"jp_text": "Uneasiness",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃７０\n『Uneasiness』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190623",
+		"jp_text": "Comedy",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃７６\n『Comedy』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190624",
+		"jp_text": "Sadness",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃７７\n『Sadness』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190625",
+		"jp_text": "Resolution",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃７８\n『Resolution』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190629",
+		"jp_text": "G March -Long Version-",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃２５\n『G March -Long Version-』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190633",
+		"jp_text": "Carnival",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃４４\n『Carnival』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190634",
+		"jp_text": "Halloween",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃３２\n『Halloween』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190635",
+		"jp_text": "Rozenom Line Milate 04",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃３６\n『Rozenom Line Milate 04』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190636",
+		"jp_text": "Hakura Temple",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃４８\n『Hakura Temple』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190637",
+		"jp_text": "Ukishima",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃４９\n『Ukishima』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190638",
+		"jp_text": "Kugu Desert",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃５４\n『Kugu Desert』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190639",
+		"jp_text": "Clyez Linear Line",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃１７\n『Clyez Linear Line』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190640",
+		"jp_text": "Z.C.Enemy 1",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃７１\n『Z.C.Enemy 1』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190641",
+		"jp_text": "Z.C.Enemy 2",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃７２\n『Z.C.Enemy 2』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190642",
+		"jp_text": "Fly Up Ivy",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃４７\n『Fly Up Ivy』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190643",
+		"jp_text": "Machine Sparx",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃５５\n『Madness the Machine Sparx』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190644",
+		"jp_text": "Floader",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃２６\n『Floader』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190645",
+		"jp_text": "Striker",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃５９\n『Striker』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190646",
+		"jp_text": "Lunga",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃６０\n『Lunga』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190647",
+		"jp_text": "Making Character",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃７３\n『Making Character』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190648",
+		"jp_text": "The First Story",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃２７\n『The First Story』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190649",
+		"jp_text": "My Room",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃７４\n『My Room』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190650",
+		"jp_text": "Illuminus",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃４０\n『Illuminus』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190651",
+		"jp_text": "Raia",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃７９\n『Raia』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190652",
+		"jp_text": "Eathan",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃２８\n『Eathan』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190653",
+		"jp_text": "Old Rozenom City",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃４２\n『Old Rozenom City』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190654",
+		"jp_text": "De Rol Le",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃６１\n『De Rol Le』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190655",
+		"jp_text": "Casino Volyale",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＵ ＃６２\n『Casino Volyale』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190657",
+		"jp_text": "Sub-Space Labo",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃１７\n『Sub-Space Labo』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190659",
+		"jp_text": "Confrontation",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃２８\n『Confrontation』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190660",
+		"jp_text": "Hunt Up",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃２９\n『Hunt Up』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190661",
+		"jp_text": "Gigant Mass",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃１９\n『Gigant Mass』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190662",
+		"jp_text": "More haste, less speed",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃３０\n『More haste, less speed』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190663",
+		"jp_text": "Dual Phenomenon",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃２５\n『Dual Phenomenon』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190664",
+		"jp_text": "Load of Blade",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃０８\n『Load of Blade』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190665",
+		"jp_text": "Orga Spiritus",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃０９\n『Orga Spiritus』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190666",
+		"jp_text": "Orga Angels",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃１０\n『Orga Angels』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190667",
+		"jp_text": "Winners",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃３１\n『Winners』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190668",
+		"jp_text": "Losers",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃３２\n『Losers』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190669",
+		"jp_text": "Ruler",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃３３\n『Ruler』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190670",
+		"jp_text": "Little-Wing",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃１５\n『Little-Wing』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190671",
+		"jp_text": "Shizuru",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃１１\n『Shizuru』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190672",
+		"jp_text": "Affection",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃２０\n『Affection』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190673",
+		"jp_text": "Former Lover 1",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃２１\n『Former Lover 1』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190674",
+		"jp_text": "Former Lover 2",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃２２\n『Former Lover 2』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190675",
+		"jp_text": "Relief",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃１６\n『Relief』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190676",
+		"jp_text": "Passion",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃２３\n『Passion』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190677",
+		"jp_text": "Determination",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃２６\n『Determination』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190678",
+		"jp_text": "Farewell",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃２７\n『Farewell』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190682",
+		"jp_text": "Breath of Darkness",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃１２\n『Breath of Darkness』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190684",
+		"jp_text": "Lumia",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃０４\n『Lumia』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190685",
+		"jp_text": "Crouch",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃０５\n『Crouch』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190686",
+		"jp_text": "Chelsea",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃０６\n『Chelsea』",
+		"tr_explain": ""
+	},
+	{
+		"assign": "3190687",
+		"jp_text": "Despair of Darkness",
+		"tr_text": "",
+		"jp_explain": "ジュークボックス用音楽再生ディスク。\nＰＳＰｏ２ ＃１３\n『Despair of Darkness』",
+		"tr_explain": ""
+	}
+]

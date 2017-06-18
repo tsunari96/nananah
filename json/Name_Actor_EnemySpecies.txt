@@ -1,0 +1,77 @@
+[
+	{
+		"assign": "Darker",
+		"jp_text": "ダーカー",
+		"tr_text": ""
+	},
+	{
+		"assign": "Native",
+		"jp_text": "ナベリウス原生種",
+		"tr_text": ""
+	},
+	{
+		"assign": "Machine",
+		"jp_text": "リリーパ機甲種",
+		"tr_text": ""
+	},
+	{
+		"assign": "Dragon",
+		"jp_text": "龍族",
+		"tr_text": ""
+	},
+	{
+		"assign": "Another",
+		"jp_text": "超時空エネミー",
+		"tr_text": ""
+	},
+	{
+		"assign": "Chimera",
+		"jp_text": "海王種",
+		"tr_text": ""
+	},
+	{
+		"assign": "TitanBlack",
+		"jp_text": "黒の民",
+		"tr_text": ""
+	},
+	{
+		"assign": "TitanWhite",
+		"jp_text": "白の民",
+		"tr_text": ""
+	},
+	{
+		"assign": "UltDarker",
+		"jp_text": "世壊種（DA）",
+		"tr_text": ""
+	},
+	{
+		"assign": "UltNative",
+		"jp_text": "世壊種（NA）",
+		"tr_text": ""
+	},
+	{
+		"assign": "UltMachine",
+		"jp_text": "世壊種（ＬＩ）",
+		"tr_text": ""
+	},
+	{
+		"assign": "UltDragon",
+		"jp_text": "世壊種（AM）",
+		"tr_text": ""
+	},
+	{
+		"assign": "Phantom",
+		"jp_text": "幻創種",
+		"tr_text": ""
+	},
+	{
+		"assign": "All",
+		"jp_text": "いずれかのエネミー",
+		"tr_text": ""
+	},
+	{
+		"assign": "Generic",
+		"jp_text": "エネミー",
+		"tr_text": ""
+	}
+]

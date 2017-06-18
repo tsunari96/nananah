@@ -1,0 +1,42 @@
+[
+	{
+		"assign": "6601",
+		"jp_text": "オルグブラン",
+		"tr_text": ""
+	},
+	{
+		"assign": "6602",
+		"jp_text": "海岸の狂獣 オルグブラン",
+		"tr_text": ""
+	},
+	{
+		"assign": "6603",
+		"jp_text": "オルグケラトス",
+		"tr_text": ""
+	},
+	{
+		"assign": "6604",
+		"jp_text": "紅き海王 オルグケラトス",
+		"tr_text": ""
+	},
+	{
+		"assign": "6605",
+		"jp_text": "トルボン",
+		"tr_text": ""
+	},
+	{
+		"assign": "6606",
+		"jp_text": "海氷貝 トルボン",
+		"tr_text": ""
+	},
+	{
+		"assign": "6607",
+		"jp_text": "ブルメガーラ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6608",
+		"jp_text": "爬虫尾花 ブルメガーラ",
+		"tr_text": ""
+	}
+]

@@ -1,0 +1,352 @@
+[
+	{
+		"assign": "6001",
+		"jp_text": "クラーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6002",
+		"jp_text": "黒飛蝗クラーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6003",
+		"jp_text": "ダガン",
+		"tr_text": ""
+	},
+	{
+		"assign": "6004",
+		"jp_text": "闇の尖兵ダガン",
+		"tr_text": ""
+	},
+	{
+		"assign": "6005",
+		"jp_text": "エル・ダガン",
+		"tr_text": ""
+	},
+	{
+		"assign": "6006",
+		"jp_text": "強化尖兵エル・ダガン",
+		"tr_text": ""
+	},
+	{
+		"assign": "6007",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6008",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6009",
+		"jp_text": "エル・アーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6010",
+		"jp_text": "死神エル・アーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6011",
+		"jp_text": "カルターゴ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6012",
+		"jp_text": "閃蟲カルターゴ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6013",
+		"jp_text": "ブリアーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6014",
+		"jp_text": "黒き母艦ブリアーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6015",
+		"jp_text": "ダーク・ラグネ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6016",
+		"jp_text": "虚の骸ダーク・ラグネ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6017",
+		"jp_text": "ダーク・アグラニ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6018",
+		"jp_text": "虚の王ダーク・アグラニ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6019",
+		"jp_text": "ミクダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6020",
+		"jp_text": "鋼殻ミクダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6021",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6022",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6023",
+		"jp_text": "ダーガッシュ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6024",
+		"jp_text": "悪食魚ダーガッシュ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6025",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6026",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6027",
+		"jp_text": "ダガッチャ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6028",
+		"jp_text": "追従魚ダガッチャ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6029",
+		"jp_text": "ガウォンダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6030",
+		"jp_text": "剛なる右の盾ガウォンダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6031",
+		"jp_text": "グウォンダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6032",
+		"jp_text": "堅なる左の盾グウォンダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6033",
+		"jp_text": "キュクロナーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6034",
+		"jp_text": "黒き巨体キュクロナーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6035",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6036",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6037",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6038",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6039",
+		"jp_text": "ウォルガーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6040",
+		"jp_text": "破壊の黒曜ウォルガーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6041",
+		"jp_text": "アロナガーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6042",
+		"jp_text": "破滅の王アロナガーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6043",
+		"jp_text": "グワナーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6044",
+		"jp_text": "奈落の悪魔グワナーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6045",
+		"jp_text": "グワナーダ・ネロ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6046",
+		"jp_text": "奈落の王グワナーダ・ネロ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6047",
+		"jp_text": "ゼッシュレイダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6048",
+		"jp_text": "巨甲の混沌ゼッシュレイダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6049",
+		"jp_text": "リグシュレイダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6050",
+		"jp_text": "混沌の王リグシュレイダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6051",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6052",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6053",
+		"jp_text": "プレディカーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6054",
+		"jp_text": "瞬閃の鎌手 プレディカーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6055",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6056",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6057",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6058",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6059",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6060",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6061",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6062",
+		"jp_text": "-",
+		"tr_text": ""
+	},
+	{
+		"assign": "6063",
+		"jp_text": "ブリュー・リンガーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6064",
+		"jp_text": "荘厳なる金色翼 ブリュー・リンガーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6065",
+		"jp_text": "ノーヴ・リンガダール",
+		"tr_text": ""
+	},
+	{
+		"assign": "6066",
+		"jp_text": "堕の王 ノーヴ・リンガダール",
+		"tr_text": ""
+	},
+	{
+		"assign": "6067",
+		"jp_text": "シュトゥラーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6068",
+		"jp_text": "黒突鳥 シュトゥラーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6069",
+		"jp_text": "リューダソーサラー",
+		"tr_text": ""
+	},
+	{
+		"assign": "6070",
+		"jp_text": "双頭の黒鳥将 リューダソーサラー",
+		"tr_text": ""
+	}
+]

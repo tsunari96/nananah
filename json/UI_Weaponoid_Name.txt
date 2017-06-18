@@ -1,0 +1,632 @@
+[
+	{
+		"assign": "96",
+		"jp_text": "カルデスタ",
+		"tr_text": ""
+	},
+	{
+		"assign": "89",
+		"jp_text": "リグガヴエル",
+		"tr_text": ""
+	},
+	{
+		"assign": "102",
+		"jp_text": "ファイナルインパクト",
+		"tr_text": ""
+	},
+	{
+		"assign": "56",
+		"jp_text": "アストラルライザー",
+		"tr_text": ""
+	},
+	{
+		"assign": "104",
+		"jp_text": "ギリハート",
+		"tr_text": ""
+	},
+	{
+		"assign": "1",
+		"jp_text": "ドラゴンスレイヤー",
+		"tr_text": ""
+	},
+	{
+		"assign": "5",
+		"jp_text": "ブレイドダンス",
+		"tr_text": ""
+	},
+	{
+		"assign": "3",
+		"jp_text": "恋鳳凰",
+		"tr_text": ""
+	},
+	{
+		"assign": "4",
+		"jp_text": "アダマンの杖",
+		"tr_text": ""
+	},
+	{
+		"assign": "12",
+		"jp_text": "ストライクブルート",
+		"tr_text": ""
+	},
+	{
+		"assign": "8",
+		"jp_text": "Ｈ４４ミズーリＴ",
+		"tr_text": ""
+	},
+	{
+		"assign": "14",
+		"jp_text": "ロゼフロッツ",
+		"tr_text": ""
+	},
+	{
+		"assign": "19",
+		"jp_text": "グロリアスウィング",
+		"tr_text": ""
+	},
+	{
+		"assign": "11",
+		"jp_text": "レッドスコルピオ",
+		"tr_text": ""
+	},
+	{
+		"assign": "18",
+		"jp_text": "ラビットウォンド",
+		"tr_text": ""
+	},
+	{
+		"assign": "20",
+		"jp_text": "テンイムソウ",
+		"tr_text": ""
+	},
+	{
+		"assign": "99",
+		"jp_text": "ガルド・ミラ",
+		"tr_text": ""
+	},
+	{
+		"assign": "106",
+		"jp_text": "ウィンドミル",
+		"tr_text": ""
+	},
+	{
+		"assign": "101",
+		"jp_text": "フラドール",
+		"tr_text": ""
+	},
+	{
+		"assign": "90",
+		"jp_text": "クイーンヴィエラ",
+		"tr_text": ""
+	},
+	{
+		"assign": "2",
+		"jp_text": "ナスヨテリ",
+		"tr_text": ""
+	},
+	{
+		"assign": "17",
+		"jp_text": "ディエスリュウ",
+		"tr_text": ""
+	},
+	{
+		"assign": "27",
+		"jp_text": "サイコウォンド",
+		"tr_text": ""
+	},
+	{
+		"assign": "80001",
+		"jp_text": "モア",
+		"tr_text": ""
+	},
+	{
+		"assign": "15",
+		"jp_text": "曙",
+		"tr_text": ""
+	},
+	{
+		"assign": "10",
+		"jp_text": "インペリアルピック",
+		"tr_text": ""
+	},
+	{
+		"assign": "7",
+		"jp_text": "バイオトライナー",
+		"tr_text": ""
+	},
+	{
+		"assign": "26",
+		"jp_text": "ニレンカムイ",
+		"tr_text": ""
+	},
+	{
+		"assign": "13",
+		"jp_text": "ニョイボウ",
+		"tr_text": ""
+	},
+	{
+		"assign": "6",
+		"jp_text": "ヤミガラス",
+		"tr_text": ""
+	},
+	{
+		"assign": "107",
+		"jp_text": "ファーレングリフ",
+		"tr_text": ""
+	},
+	{
+		"assign": "90000",
+		"jp_text": "ジェネ",
+		"tr_text": ""
+	},
+	{
+		"assign": "24",
+		"jp_text": "ノワルミラーズ",
+		"tr_text": ""
+	},
+	{
+		"assign": "16",
+		"jp_text": "シャットラウンダー",
+		"tr_text": ""
+	},
+	{
+		"assign": "9",
+		"jp_text": "セイメイキカミ",
+		"tr_text": ""
+	},
+	{
+		"assign": "33",
+		"jp_text": "タービュラス",
+		"tr_text": ""
+	},
+	{
+		"assign": "30",
+		"jp_text": "サルスパニッシャー",
+		"tr_text": ""
+	},
+	{
+		"assign": "90003",
+		"jp_text": "セラフィ",
+		"tr_text": ""
+	},
+	{
+		"assign": "90002",
+		"jp_text": "ブルーノ",
+		"tr_text": ""
+	},
+	{
+		"assign": "23",
+		"jp_text": "ジャッジメントハーツ",
+		"tr_text": ""
+	},
+	{
+		"assign": "25",
+		"jp_text": "紅葉姫",
+		"tr_text": ""
+	},
+	{
+		"assign": "31",
+		"jp_text": "華散王",
+		"tr_text": ""
+	},
+	{
+		"assign": "28",
+		"jp_text": "ブルージーレクイエム",
+		"tr_text": ""
+	},
+	{
+		"assign": "22",
+		"jp_text": "レントオーナム",
+		"tr_text": ""
+	},
+	{
+		"assign": "21",
+		"jp_text": "モタブの預言書",
+		"tr_text": ""
+	},
+	{
+		"assign": "42",
+		"jp_text": "トールマリンカ",
+		"tr_text": ""
+	},
+	{
+		"assign": "38",
+		"jp_text": "マインバンカー",
+		"tr_text": ""
+	},
+	{
+		"assign": "41",
+		"jp_text": "ナールクレセント",
+		"tr_text": ""
+	},
+	{
+		"assign": "65",
+		"jp_text": "ロックナックル",
+		"tr_text": ""
+	},
+	{
+		"assign": "36",
+		"jp_text": "ブラオレット",
+		"tr_text": ""
+	},
+	{
+		"assign": "32",
+		"jp_text": "セイクリッドダスター",
+		"tr_text": ""
+	},
+	{
+		"assign": "70",
+		"jp_text": "ミヤビセン",
+		"tr_text": ""
+	},
+	{
+		"assign": "67",
+		"jp_text": "夕雁渡",
+		"tr_text": ""
+	},
+	{
+		"assign": "44",
+		"jp_text": "ビスケドロプ",
+		"tr_text": ""
+	},
+	{
+		"assign": "62",
+		"jp_text": "Ｔヤスミノコフ２０００Ｈ",
+		"tr_text": ""
+	},
+	{
+		"assign": "43",
+		"jp_text": "バイオベルド",
+		"tr_text": ""
+	},
+	{
+		"assign": "55",
+		"jp_text": "ゴッドハンド",
+		"tr_text": ""
+	},
+	{
+		"assign": "60",
+		"jp_text": "マダムノアマガサ",
+		"tr_text": ""
+	},
+	{
+		"assign": "63",
+		"jp_text": "フリートマリンカ",
+		"tr_text": ""
+	},
+	{
+		"assign": "34",
+		"jp_text": "リンドクレイ",
+		"tr_text": ""
+	},
+	{
+		"assign": "37",
+		"jp_text": "ブラスハウル",
+		"tr_text": ""
+	},
+	{
+		"assign": "58",
+		"jp_text": "エリュシオン",
+		"tr_text": ""
+	},
+	{
+		"assign": "29",
+		"jp_text": "ノクスディナス",
+		"tr_text": ""
+	},
+	{
+		"assign": "79",
+		"jp_text": "エグパスカ",
+		"tr_text": ""
+	},
+	{
+		"assign": "39",
+		"jp_text": "刃鞭パラティーゼル",
+		"tr_text": ""
+	},
+	{
+		"assign": "73",
+		"jp_text": "ルーライラ",
+		"tr_text": ""
+	},
+	{
+		"assign": "74",
+		"jp_text": "オーバーテイル",
+		"tr_text": ""
+	},
+	{
+		"assign": "48",
+		"jp_text": "ミリオブライト",
+		"tr_text": ""
+	},
+	{
+		"assign": "68",
+		"jp_text": "ホローギムレット",
+		"tr_text": ""
+	},
+	{
+		"assign": "105",
+		"jp_text": "ルフネシア",
+		"tr_text": ""
+	},
+	{
+		"assign": "59",
+		"jp_text": "スプレッドニードル",
+		"tr_text": ""
+	},
+	{
+		"assign": "66",
+		"jp_text": "ヴォルカノメイス",
+		"tr_text": ""
+	},
+	{
+		"assign": "69",
+		"jp_text": "フブキトウシュウ",
+		"tr_text": ""
+	},
+	{
+		"assign": "64",
+		"jp_text": "シルフマリンカ",
+		"tr_text": ""
+	},
+	{
+		"assign": "52",
+		"jp_text": "ウェドルパーク",
+		"tr_text": ""
+	},
+	{
+		"assign": "45",
+		"jp_text": "アヴェンジャー",
+		"tr_text": ""
+	},
+	{
+		"assign": "78",
+		"jp_text": "フラウディア",
+		"tr_text": ""
+	},
+	{
+		"assign": "129",
+		"jp_text": "シェーンフリサ",
+		"tr_text": ""
+	},
+	{
+		"assign": "50",
+		"jp_text": "ディオティグリドル",
+		"tr_text": ""
+	},
+	{
+		"assign": "86",
+		"jp_text": "シューティングドライブ",
+		"tr_text": ""
+	},
+	{
+		"assign": "54",
+		"jp_text": "スサノシナリ",
+		"tr_text": ""
+	},
+	{
+		"assign": "82",
+		"jp_text": "ダールワイグル",
+		"tr_text": ""
+	},
+	{
+		"assign": "97",
+		"jp_text": "ラヴィス＝ブレイド",
+		"tr_text": ""
+	},
+	{
+		"assign": "53",
+		"jp_text": "スサノショウハ",
+		"tr_text": ""
+	},
+	{
+		"assign": "87",
+		"jp_text": "ガーンデーヴァ",
+		"tr_text": ""
+	},
+	{
+		"assign": "75",
+		"jp_text": "パンプキンロッド",
+		"tr_text": ""
+	},
+	{
+		"assign": "72",
+		"jp_text": "ライブステイド",
+		"tr_text": ""
+	},
+	{
+		"assign": "57",
+		"jp_text": "流星棍",
+		"tr_text": ""
+	},
+	{
+		"assign": "51",
+		"jp_text": "インペリアルピック-NT",
+		"tr_text": ""
+	},
+	{
+		"assign": "80",
+		"jp_text": "ヴェルトバズ",
+		"tr_text": ""
+	},
+	{
+		"assign": "76",
+		"jp_text": "ファイアーアームズ",
+		"tr_text": ""
+	},
+	{
+		"assign": "71",
+		"jp_text": "セイントフェザー",
+		"tr_text": ""
+	},
+	{
+		"assign": "91",
+		"jp_text": "ヴィヴィアン",
+		"tr_text": ""
+	},
+	{
+		"assign": "92",
+		"jp_text": "クラーリタ・ヴィサス",
+		"tr_text": ""
+	},
+	{
+		"assign": "46",
+		"jp_text": "レイディアント",
+		"tr_text": ""
+	},
+	{
+		"assign": "47",
+		"jp_text": "フレイフィオーラ",
+		"tr_text": ""
+	},
+	{
+		"assign": "88",
+		"jp_text": "オプトレリート",
+		"tr_text": ""
+	},
+	{
+		"assign": "84",
+		"jp_text": "ザンバ",
+		"tr_text": ""
+	},
+	{
+		"assign": "90001",
+		"jp_text": "アネット",
+		"tr_text": ""
+	},
+	{
+		"assign": "81",
+		"jp_text": "ギフトサック",
+		"tr_text": ""
+	},
+	{
+		"assign": "61",
+		"jp_text": "イデアルデュオス",
+		"tr_text": ""
+	},
+	{
+		"assign": "98",
+		"jp_text": "ガルウィンド",
+		"tr_text": ""
+	},
+	{
+		"assign": "83",
+		"jp_text": "セラータクレイン",
+		"tr_text": ""
+	},
+	{
+		"assign": "100",
+		"jp_text": "ビューレイアール",
+		"tr_text": ""
+	},
+	{
+		"assign": "49",
+		"jp_text": "イデアルシザーズ",
+		"tr_text": ""
+	},
+	{
+		"assign": "94",
+		"jp_text": "エビルカースト",
+		"tr_text": ""
+	},
+	{
+		"assign": "95",
+		"jp_text": "ギガススピナー",
+		"tr_text": ""
+	},
+	{
+		"assign": "109",
+		"jp_text": "ノクスカディナ",
+		"tr_text": ""
+	},
+	{
+		"assign": "113",
+		"jp_text": "エンシェントクォーツ",
+		"tr_text": ""
+	},
+	{
+		"assign": "123",
+		"jp_text": "新光小槌",
+		"tr_text": ""
+	},
+	{
+		"assign": "114",
+		"jp_text": "ケイトレイター",
+		"tr_text": ""
+	},
+	{
+		"assign": "77",
+		"jp_text": "リンドブルム",
+		"tr_text": ""
+	},
+	{
+		"assign": "111",
+		"jp_text": "ヤシャ",
+		"tr_text": ""
+	},
+	{
+		"assign": "116",
+		"jp_text": "リカウテリ",
+		"tr_text": ""
+	},
+	{
+		"assign": "124",
+		"jp_text": "アーディロウ",
+		"tr_text": ""
+	},
+	{
+		"assign": "118",
+		"jp_text": "ルチルス",
+		"tr_text": ""
+	},
+	{
+		"assign": "110",
+		"jp_text": "ライトニングエスパーダ",
+		"tr_text": ""
+	},
+	{
+		"assign": "125",
+		"jp_text": "ファニーブーケライフル",
+		"tr_text": ""
+	},
+	{
+		"assign": "117",
+		"jp_text": "禍蹴ピリカネト",
+		"tr_text": ""
+	},
+	{
+		"assign": "128",
+		"jp_text": "ＳＳＰＮランチャー",
+		"tr_text": ""
+	},
+	{
+		"assign": "127",
+		"jp_text": "トライデントクラッシャー",
+		"tr_text": ""
+	},
+	{
+		"assign": "90004",
+		"jp_text": "7043",
+		"tr_text": ""
+	},
+	{
+		"assign": "121",
+		"jp_text": "7045",
+		"tr_text": ""
+	},
+	{
+		"assign": "126",
+		"jp_text": "7047",
+		"tr_text": ""
+	},
+	{
+		"assign": "115",
+		"jp_text": "7055",
+		"tr_text": ""
+	},
+	{
+		"assign": "120",
+		"jp_text": "7057",
+		"tr_text": ""
+	}
+]
